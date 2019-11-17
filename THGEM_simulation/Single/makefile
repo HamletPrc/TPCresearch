@@ -17,8 +17,8 @@ LDFLAGS = -L$(LIBDIR) -lGarfield
 LDFLAGS += `root-config --glibs` -lGeom -lgfortran -lm
 #LDFLAGS += -g
 
-THGEM_sim: THGEM_sim.C 
-	$(CXX) $(CFLAGS) THGEM_sim.C
-	$(CXX) -o THGEM_sim THGEM_sim.o $(LDFLAGS)
-	rm THGEM_sim.o
+THGEM1_wmz: THGEM1_wmz.C 
+	$(CXX) $(CFLAGS) THGEM1_wmz.C
+	$(CXX) -o THGEM1_wmz THGEM1_wmz.o $(LDFLAGS)
+	rm THGEM1_wmz.o
 
