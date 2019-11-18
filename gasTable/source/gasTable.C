@@ -36,16 +36,16 @@
 using namespace Garfield;
 using namespace std;
 
-void DefineGas(const char *gas1, double rat1, const char *gas2, double rat2, const char *filename);
-void DefineGas(const char *gas1, double rat1, const char *gas2, double rat2, const char *gas3, double rat3, const char *filename);
+void GenGasTable(const char *gas1, double rat1, const char *gas2, double rat2, const char *filename);
+void GenGasTable(const char *gas1, double rat1, const char *gas2, double rat2, const char *gas3, double rat3, const char *filename);
 
 int main(){
-    // for(proportion=10;proportion>0;proportion--){
-    //     char filename[20];
-	// 	sprintf( filename, "%s%d%s", "Ar_iC4H10_", proportion,".gas");
-    //     DefineGas("argon", 100-proportion, "iC4H10", proportion, filename);
-    // }
-    DefineGas("argon", 90, "CH4", 3, "CO2", 7, "Ar_90_CH4_3_CO2_7.gas");
+    for(proportion=10;proportion>0;proportion--){
+        char filename[20];
+        sprintf( filename, "%s%d%s", "Ar_iC4H10_", proportion,".gas");
+        GenGasTable("argon", 100-proportion, "iC4H10", proportion, filename);
+    }
+    // GenGasTable("argon", 95, "CH4", 3, "iC4H10", 2, "T2K.gas");
         
     return 0;
 }
@@ -53,7 +53,7 @@ int main(){
 
 
 
-void DefineGas(const char *gas1, double rat1, const char *gas2, double rat2, const char *filename)
+void GenGasTable(const char *gas1, double rat1, const char *gas2, double rat2, const char *filename)
 {
     MediumMagboltz *gas;
     gas = new MediumMagboltz();
@@ -74,8 +74,11 @@ void DefineGas(const char *gas1, double rat1, const char *gas2, double rat2, con
         
         gas->Initialise(true);
         // Set the Penning transfer efficiency.
-        const double rPenning = 0.57;
+        const double rPenning = 0.5;
         const double lambdaPenning = 0.;
+        cout << endl;
+        cout << "rPenning=" << rPenning << endl;
+        cout << endl;
         gas->EnablePenningTransfer(rPenning, lambdaPenning, "ar");
         // Generate the gas table file for electron drift
         gas->GenerateGasTable(1,false);
@@ -100,7 +103,7 @@ void DefineGas(const char *gas1, double rat1, const char *gas2, double rat2, con
 }
 
 
-void DefineGas(const char *gas1, double rat1, const char *gas2, double rat2, const char *gas3, double rat3, const char *filename)
+void GenGasTable(const char *gas1, double rat1, const char *gas2, double rat2, const char *gas3, double rat3, const char *filename)
 {
     MediumMagboltz *gas;
     gas = new MediumMagboltz();
