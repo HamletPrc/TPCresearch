@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <string>
 #include <cmath>
 
 #include <TApplication.h>
@@ -38,7 +39,13 @@ using namespace std;
 void DefineGas(const char *gas1, double rat1, const char *gas2, double rat2, const char *filename);
 
 int main(){
-    DefineGas("argon", 90, "iC4H10", 10, "Ar_90_iC4H10_10.gas");
+    int proportion;
+    for(proportion=10;proportion>0;proportion--){
+        char filename[20];
+		sprintf( filename, "%s%d%s", "Ar_iC4H10_", proportion,".gas");
+        DefineGas("argon", 100-proportion, "iC4H10", proportion, filename);
+    }
+        
     return 0;
 }
 
