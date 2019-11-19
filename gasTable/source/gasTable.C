@@ -50,9 +50,9 @@ int main(){
     //     GenGasTable("argon", 100-proportion, "iC4H10", proportion, filename);
     // }
 
-    // GenGasTable("argon", 95, "CH4", 3, "iC4H10", 2, "T2K.gas");
+    GenGasTable("argon", 95, "CH4", 3, "iC4H10", 2, "T2K.gas");
 
-    GenGasTable("argon", 95, "CO2", 5, "Ar-CO2(95-5).gas");
+    // GenGasTable("argon", 95, "CO2", 5, "Ar-CO2(95-5).gas");
         
     return 0;
 }
@@ -64,10 +64,9 @@ void GenGasTable(const char *gas1, double rat1, const char *gas2, double rat2, c
     MediumMagboltz *gas;
     gas = new MediumMagboltz();
 
-    if(!gas->LoadGasFile(filename)){
-        gas->SetComposition(gas1, rat1, gas2, rat2);
-        GasSet(gas);
-    }
+    gas->SetComposition(gas1, rat1, gas2, rat2);
+    GasSet(gas);
+    gas->WriteGasFile(filename);
 
     GasPrintOut(gas);
 }
@@ -78,10 +77,9 @@ void GenGasTable(const char *gas1, double rat1, const char *gas2, double rat2, c
     MediumMagboltz *gas;
     gas = new MediumMagboltz();
 
-    if(!gas->LoadGasFile(filename)){
-        gas->SetComposition(gas1, rat1, gas2, rat2, gas3, rat3);
-        GasSet(gas);
-    }
+    gas->SetComposition(gas1, rat1, gas2, rat2, gas3, rat3);
+    GasSet(gas);
+    gas->WriteGasFile(filename);
 
     GasPrintOut(gas);
 }
@@ -103,13 +101,9 @@ void GasSet(MediumMagboltz *gas) {
     // Set the Penning transfer efficiency.
     const double rPenning = 0.5;
     const double lambdaPenning = 0.;
-    cout << endl;
-    cout << "rPenning=" << rPenning << endl;
-    cout << endl;
     gas->EnablePenningTransfer(rPenning, lambdaPenning, "ar");
     // Generate the gas table file for electron drift
     gas->GenerateGasTable(1,false);
-    gas->WriteGasFile(filename);
 }
 
 void GasPrintOut(MediumMagboltz *gas) {
