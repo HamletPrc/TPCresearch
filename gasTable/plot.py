@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import numpy as numpy
+
 filename = 'temp.dat'
 X,Y = [],[]
 with open(filename, 'r') as f:#1
@@ -11,7 +13,7 @@ with open(filename, 'r') as f:#1
 print(X)
 print(Y)
 
-plt.plot(X, Y, marker='o')
+plt.loglog(X, Y, marker='o')
 plt.xlabel('Field Strength/(V/cm)')
 plt.ylabel('Electron Drift Velocity/(cm/us)')
 plt.title('Electron Drift Velocity for T2K')
