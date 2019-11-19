@@ -13,11 +13,10 @@ with open(filename, 'r') as f:#1
 print(X)
 print(Y)
 
-plt.loglog(X, Y, marker='o')
+plt.semilogx(X, Y, marker='o')
 plt.xlabel('Field Strength/(V/cm)')
 plt.ylabel('Electron Drift Velocity/(cm/us)')
-plt.title('Electron Drift Velocity for T2K')
+plt.title('Electron Drift Velocity for P10')
 plt.grid()
 plt.legend()
 plt.show()
-
