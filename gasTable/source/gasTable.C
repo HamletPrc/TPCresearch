@@ -50,9 +50,9 @@ int main(){
     //     GenGasTable("argon", 100-proportion, "iC4H10", proportion, filename);
     // }
 
-    GenGasTable("argon", 95, "CH4", 3, "iC4H10", 2, "T2K.gas");
+    // GenGasTable("argon", 95, "CF4", 3, "iC4H10", 2, "T2K.gas");
 
-    // GenGasTable("argon", 95, "CO2", 5, "Ar-CO2(95-5).gas");
+    GenGasTable("argon", 90, "CH4", 10, "P10.gas");
         
     return 0;
 }
@@ -107,42 +107,22 @@ void GasSet(MediumMagboltz *gas) {
 }
 
 void GasPrintOut(MediumMagboltz *gas) {
-    double ex;
+    double ex = 10;
 	double vx, vy, vz;
 	double dl, dt;
 	double alpha; 
 	double eta;
 
-    for(int i=1; i<10; i++)
-	{
-	    ex = i*10;
+	while(ex < 10000) {
         gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
         gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
         gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
         gas->ElectronAttachment(ex, 0, 0, 0, 0, 0, eta);
 
 	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
-    }
 
-    for(int i=1; i<10; i++)
-	{
-	    ex = i*100;
-        gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
-        gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
-        gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
-        gas->ElectronAttachment(ex, 0, 0, 0, 0, 0, eta);
-
-	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
-    }
-
-    for(int i=1; i<10; i++)
-	{
-	    ex = i*1000;
-        gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
-        gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
-        gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
-        gas->ElectronAttachment(ex, 0, 0, 0, 0, 0, eta);
-
-	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
+        if(ex < 100) ex+=10;
+        else if(ex < 1000) ex+=50;
+        else ex+=1000;
     }
 }
