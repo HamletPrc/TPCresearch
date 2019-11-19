@@ -109,6 +109,7 @@ void GasSet(MediumMagboltz *gas) {
     gas->EnablePenningTransfer(rPenning, lambdaPenning, "ar");
     // Generate the gas table file for electron drift
     gas->GenerateGasTable(1,false);
+    gas->WriteGasFile(filename);
 }
 
 void GasPrintOut(MediumMagboltz *gas) {
@@ -118,10 +119,32 @@ void GasPrintOut(MediumMagboltz *gas) {
 	double alpha; 
 	double eta;
 
-    for(int i=1; i<100; i++)
+    for(int i=1; i<10; i++)
 	{
 	    ex = i*10;
-	    gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
+        gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
+        gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
+        gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
+        gas->ElectronAttachment(ex, 0, 0, 0, 0, 0, eta);
+
+	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
+    }
+
+    for(int i=1; i<10; i++)
+	{
+	    ex = i*100;
+        gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
+        gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
+        gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
+        gas->ElectronAttachment(ex, 0, 0, 0, 0, 0, eta);
+
+	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
+    }
+
+    for(int i=1; i<10; i++)
+	{
+	    ex = i*1000;
+        gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
         gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
         gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
         gas->ElectronAttachment(ex, 0, 0, 0, 0, 0, eta);
