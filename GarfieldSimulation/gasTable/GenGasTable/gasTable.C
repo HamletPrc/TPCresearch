@@ -50,7 +50,7 @@ int main(){
     //     GenGasTable("argon", 100-proportion, "iC4H10", proportion, filename);
     // }
 
-    GenGasTable("argon", 95, "CF4", 3, "iC4H10", 2, "T2K.gas");
+    GenGasTable("argon", 90, "CH4", 10, "H2O", 0.000070, "P10+70ppm_H2O.gas");
 
     // GenGasTable("argon", 90, "CH4", 10, "P10.gas");
         
