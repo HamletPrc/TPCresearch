@@ -98,8 +98,30 @@ void GasSet(MediumMagboltz *gas) {
     gas->EnableAnisotropicScattering();
     
     gas->Initialise(true);
+
+	int nE, nB, nA;              // number of E/B/Angles between E and B
+	double eMin, eMax;           // min and max of E [V/cm]
+	double bMin, bMax;           // min and max of B [T]
+	double aMin, aMax;           // min and max of angle [rad]
+	bool logE;                   // use evenly spaced (false) or logarithmically spaced (true)
+
+	nE = 35;
+	eMin = 10; 
+	eMax = 10000;
+	logE = true;
+
+	nB = 1;
+	bMin = 0;
+	bMax = 0;
+
+	nA = 1;
+	aMin = 0;
+	aMax =0;
+	
+	gas->SetFieldGrid(eMin, eMax, nE, logE, bMin, bMax, nB, aMin, aMax, nA);
+
     // Set the Penning transfer efficiency.
-    const double rPenning = 0.5;
+    const double rPenning = 0.57;
     const double lambdaPenning = 0.;
     gas->EnablePenningTransfer(rPenning, lambdaPenning, "ar");
     // Generate the gas table file for electron drift
