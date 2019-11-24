@@ -50,9 +50,9 @@ int main(){
     //     GenGasTable("argon", 100-proportion, "iC4H10", proportion, filename);
     // }
 
-    GenGasTable("argon", 90, "CH4", 10, "H2O", 0.000070, "P10+70ppm_H2O.gas");
+    // GenGasTable("argon", 90, "CH4", 10, "H2O", 0.000070, "P10+70ppm_H2O.gas");
 
-    // GenGasTable("argon", 90, "CH4", 10, "P10.gas");
+    GenGasTable("argon", 90, "CH4", 10, "P10.gas");
         
     return 0;
 }
@@ -105,7 +105,7 @@ void GasSet(MediumMagboltz *gas) {
     double aMin, aMax;           // min and max of angle [rad]
     bool logE;                   // use evenly spaced (false) or logarithmically spaced (true)
 
-    nE = 35;
+    nE = 60;
     eMin = 10; 
     eMax = 10000;
     logE = true;
@@ -145,6 +145,6 @@ void GasPrintOut(MediumMagboltz *gas) {
 
         if(ex < 100) ex+=10;
         else if(ex < 1000) ex+=50;
-        else ex+=1000;
+        else ex+=500;
     }
 }
