@@ -50,8 +50,10 @@ int main(){
     //     GenGasTable("argon", 100-proportion, "iC4H10", proportion, filename);
     // }
 
-    GenGasTable("argon", 45, "CO2", 15, "CF4", 40, "Ar_45_CO2_15_CF4_40.gas");
+    GenGasTable("argon", 90, "CH4", 10, "H2O", 0.000070, "P10+70ppm_H2O.gas");
 
+    // GenGasTable("argon", 90, "CH4", 10, "P10.gas");
+        
     return 0;
 }
 
@@ -96,6 +98,28 @@ void GasSet(MediumMagboltz *gas) {
     gas->EnableAnisotropicScattering();
     
     gas->Initialise(true);
+
+	int nE, nB, nA;              // number of E/B/Angles between E and B
+	double eMin, eMax;           // min and max of E [V/cm]
+	double bMin, bMax;           // min and max of B [T]
+	double aMin, aMax;           // min and max of angle [rad]
+	bool logE;                   // use evenly spaced (false) or logarithmically spaced (true)
+
+	nE = 35;
+	eMin = 10; 
+	eMax = 10000;
+	logE = true;
+
+	nB = 1;
+	bMin = 0;
+	bMax = 0;
+
+	nA = 1;
+	aMin = 0;
+	aMax =0;
+	
+	gas->SetFieldGrid(eMin, eMax, nE, logE, bMin, bMax, nB, aMin, aMax, nA);
+
     // Set the Penning transfer efficiency.
     const double rPenning = 0.57;
     const double lambdaPenning = 0.;
@@ -105,13 +129,13 @@ void GasSet(MediumMagboltz *gas) {
 }
 
 void GasPrintOut(MediumMagboltz *gas) {
-    double ex = 250;
-    double vx, vy, vz;
-    double dl, dt;
-    double alpha; 
-    double eta;
+    double ex = 10;
+	double vx, vy, vz;
+	double dl, dt;
+	double alpha; 
+	double eta;
 
-    while(ex < 10000) {
+	while(ex < 10000) {
         gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
         gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
         gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
@@ -119,9 +143,8 @@ void GasPrintOut(MediumMagboltz *gas) {
 
 	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
 
-        //if(ex < 100) ex+=10;
-        //else if(ex < 1000) ex+=100;
-        //else ex+=250;
-	ex+=250;
+        if(ex < 100) ex+=10;
+        else if(ex < 1000) ex+=50;
+        else ex+=1000;
     }
 }
