@@ -13,10 +13,10 @@ with open(filename, 'r') as f:#1
 print(X)
 print(Y)
 
-plt.plot(X, Y, marker='o')
+plt.semilogx(X, Y, marker='o')
 plt.xlabel('Field Strength/(V/cm)')
 plt.ylabel('Electron Drift Velocity/(cm/us)')
-plt.title('Electron Drift Velocity for Ar/CO2/CF4(45/15/40)')
+plt.title('Electron Drift Velocity for Ar_CH4(90-10)')
 plt.grid()
 plt.legend()
 plt.show()
