@@ -50,10 +50,8 @@ int main(){
     //     GenGasTable("argon", 100-proportion, "iC4H10", proportion, filename);
     // }
 
-    // GenGasTable("argon", 95, "CF4", 3, "iC4H10", 2, "T2K.gas");
+    GenGasTable("argon", 45, "CO2", 15, "CF4", 40, "Ar_45_CO2_15_CF4_40.gas");
 
-    GenGasTable("argon", 90, "CH4", 10, "P10.gas");
-        
     return 0;
 }
 
@@ -99,7 +97,7 @@ void GasSet(MediumMagboltz *gas) {
     
     gas->Initialise(true);
     // Set the Penning transfer efficiency.
-    const double rPenning = 0.5;
+    const double rPenning = 0.57;
     const double lambdaPenning = 0.;
     gas->EnablePenningTransfer(rPenning, lambdaPenning, "ar");
     // Generate the gas table file for electron drift
@@ -107,13 +105,13 @@ void GasSet(MediumMagboltz *gas) {
 }
 
 void GasPrintOut(MediumMagboltz *gas) {
-    double ex = 10;
-	double vx, vy, vz;
-	double dl, dt;
-	double alpha; 
-	double eta;
+    double ex = 250;
+    double vx, vy, vz;
+    double dl, dt;
+    double alpha; 
+    double eta;
 
-	while(ex < 10000) {
+    while(ex < 10000) {
         gas->ElectronVelocity  (ex, 0, 0, 0, 0, 0, vx, vy, vz);
         gas->ElectronDiffusion (ex, 0, 0, 0, 0, 0, dl, dt);
         gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
@@ -121,8 +119,9 @@ void GasPrintOut(MediumMagboltz *gas) {
 
 	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
 
-        if(ex < 100) ex+=10;
-        else if(ex < 1000) ex+=50;
-        else ex+=1000;
+        //if(ex < 100) ex+=10;
+        //else if(ex < 1000) ex+=100;
+        //else ex+=250;
+	ex+=250;
     }
 }
