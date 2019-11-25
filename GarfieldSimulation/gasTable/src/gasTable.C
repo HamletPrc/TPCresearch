@@ -105,7 +105,7 @@ void GasSet(MediumMagboltz *gas) {
 	double aMin, aMax;           // min and max of angle [rad]
 	bool logE;                   // use evenly spaced (false) or logarithmically spaced (true)
 
-	nE = 35;
+	nE = 65;
 	eMin = 10; 
 	eMax = 10000;
 	logE = true;
