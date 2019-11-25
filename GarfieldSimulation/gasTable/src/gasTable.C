@@ -141,7 +141,8 @@ void GasPrintOut(MediumMagboltz *gas) {
         gas->ElectronTownsend  (ex, 0, 0, 0, 0, 0, alpha);
         gas->ElectronAttachment(ex, 0, 0, 0, 0, 0, eta);
 
-	    cout<<"E = "<<ex<<"V/cm,   Vx ="<<vx*1000<<"cm/us; alpha = "<<alpha<<"/cm"<<endl;
+	    // cout << "E = " << ex << "V/cm,   Vx =" << vx * 1000 << "cm/us; alpha = " << alpha << "/cm" <<endl;
+        cout << "E = " << ex << "V/cm,   Dl =" << dl << "um/sqrt(cm)" << endl;
 
         if(ex < 100) ex+=10;
         else if(ex < 1000) ex+=50;
