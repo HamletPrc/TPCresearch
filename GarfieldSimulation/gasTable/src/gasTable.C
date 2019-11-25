@@ -146,6 +146,6 @@ void GasPrintOut(MediumMagboltz *gas) {
 
         if(ex < 100) ex+=10;
         else if(ex < 1000) ex+=50;
-        else ex+=1000;
+        else ex+=500;
     }
 }
