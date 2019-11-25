@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as numpy
 
-filename = 'temp.dat'
+filename = 'test.dat'
 X,Y = [],[]
 with open(filename, 'r') as f:#1
     lines = f.readlines()#2
@@ -13,10 +13,10 @@ with open(filename, 'r') as f:#1
 print(X)
 print(Y)
 
-plt.semilogx(X, Y, marker='o')
+plt.plot(X, Y, marker='o')
 plt.xlabel('Field Strength/(V/cm)')
 plt.ylabel('Electron Drift Velocity/(cm/us)')
-plt.title('Electron Drift Velocity for Ar_CH4(90-10)')
+plt.title('Electron Drift Velocity for T2K')
 plt.grid()
 plt.legend()
 plt.show()
