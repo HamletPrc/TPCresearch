@@ -2,802 +2,802 @@ MediumMagboltz::LoadGasFile: Reading Ar-CO2(89-11).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (89/11)
-E = 20V/cm,   Vx = -0.058906 cm/us,  Delta_vx = -0.0624892 cm/us
-E = 30V/cm,   Vx = -0.116502 cm/us,  Delta_vx = -0.0637751 cm/us
-E = 40V/cm,   Vx = -0.173613 cm/us,  Delta_vx = -0.0623565 cm/us
-E = 50V/cm,   Vx = -0.229733 cm/us,  Delta_vx = -0.0645313 cm/us
-E = 60V/cm,   Vx = -0.289057 cm/us,  Delta_vx = -0.0618172 cm/us
-E = 70V/cm,   Vx = -0.34457 cm/us,  Delta_vx = -0.0633333 cm/us
-E = 80V/cm,   Vx = -0.401423 cm/us,  Delta_vx = -0.0692362 cm/us
-E = 90V/cm,   Vx = -0.464993 cm/us,  Delta_vx = -0.0631823 cm/us
-E = 100V/cm,   Vx = -0.522162 cm/us,  Delta_vx = -0.0648153 cm/us
-E = 110V/cm,   Vx = -0.581268 cm/us,  Delta_vx = -0.0648387 cm/us
-E = 120V/cm,   Vx = -0.639868 cm/us,  Delta_vx = -0.0696627 cm/us
-E = 130V/cm,   Vx = -0.703297 cm/us,  Delta_vx = -0.0691675 cm/us
-E = 140V/cm,   Vx = -0.766122 cm/us,  Delta_vx = -0.0718815 cm/us
-E = 150V/cm,   Vx = -0.831375 cm/us,  Delta_vx = -0.0723582 cm/us
-E = 160V/cm,   Vx = -0.897385 cm/us,  Delta_vx = -0.0703368 cm/us
-E = 170V/cm,   Vx = -0.961281 cm/us,  Delta_vx = -0.0731284 cm/us
-E = 180V/cm,   Vx = -1.02752 cm/us,  Delta_vx = -0.0770119 cm/us
-E = 190V/cm,   Vx = -1.09742 cm/us,  Delta_vx = -0.0786933 cm/us
-E = 200V/cm,   Vx = -1.16892 cm/us,  Delta_vx = -0.0799986 cm/us
-E = 210V/cm,   Vx = -1.24157 cm/us,  Delta_vx = -0.0817666 cm/us
-E = 220V/cm,   Vx = -1.31581 cm/us,  Delta_vx = -0.0836772 cm/us
-E = 230V/cm,   Vx = -1.3918 cm/us,  Delta_vx = -0.085535 cm/us
-E = 240V/cm,   Vx = -1.46948 cm/us,  Delta_vx = -0.0874287 cm/us
-E = 250V/cm,   Vx = -1.54886 cm/us,  Delta_vx = -0.0894811 cm/us
-E = 260V/cm,   Vx = -1.63012 cm/us,  Delta_vx = -0.0922138 cm/us
-E = 270V/cm,   Vx = -1.71382 cm/us,  Delta_vx = -0.0942352 cm/us
-E = 280V/cm,   Vx = -1.79943 cm/us,  Delta_vx = -0.0955449 cm/us
-E = 290V/cm,   Vx = -1.88623 cm/us,  Delta_vx = -0.0954629 cm/us
-E = 300V/cm,   Vx = -1.97304 cm/us,  Delta_vx = -0.0956729 cm/us
-E = 310V/cm,   Vx = -2.05997 cm/us,  Delta_vx = -0.0965567 cm/us
-E = 320V/cm,   Vx = -2.14771 cm/us,  Delta_vx = -0.0982364 cm/us
-E = 330V/cm,   Vx = -2.23689 cm/us,  Delta_vx = -0.100027 cm/us
-E = 340V/cm,   Vx = -2.32779 cm/us,  Delta_vx = -0.100719 cm/us
-E = 350V/cm,   Vx = -2.41932 cm/us,  Delta_vx = -0.101411 cm/us
-E = 360V/cm,   Vx = -2.51148 cm/us,  Delta_vx = -0.10081 cm/us
-E = 370V/cm,   Vx = -2.60314 cm/us,  Delta_vx = -0.100709 cm/us
-E = 380V/cm,   Vx = -2.69469 cm/us,  Delta_vx = -0.100885 cm/us
-E = 390V/cm,   Vx = -2.78639 cm/us,  Delta_vx = -0.101061 cm/us
-E = 400V/cm,   Vx = -2.87826 cm/us,  Delta_vx = -0.103183 cm/us
-E = 450V/cm,   Vx = -2.97204 cm/us,  Delta_vx = -0.463797 cm/us
-E = 500V/cm,   Vx = -3.42727 cm/us,  Delta_vx = -0.417966 cm/us
-E = 550V/cm,   Vx = -3.83735 cm/us,  Delta_vx = -0.374253 cm/us
-E = 600V/cm,   Vx = -4.20497 cm/us,  Delta_vx = -0.303846 cm/us
-E = 650V/cm,   Vx = -4.50353 cm/us,  Delta_vx = -0.233631 cm/us
-E = 700V/cm,   Vx = -4.73319 cm/us,  Delta_vx = -0.175948 cm/us
-E = 750V/cm,   Vx = -4.90617 cm/us,  Delta_vx = -0.12579 cm/us
-E = 800V/cm,   Vx = -5.03011 cm/us,  Delta_vx = -0.0748482 cm/us
-E = 850V/cm,   Vx = -5.10387 cm/us,  Delta_vx = -0.0379695 cm/us
-E = 900V/cm,   Vx = -5.14135 cm/us,  Delta_vx = -0.0129738 cm/us
-E = 950V/cm,   Vx = -5.15431 cm/us,  Delta_vx = 0.0110123 cm/us
-E = 1000V/cm,   Vx = -5.1437 cm/us,  Delta_vx = 0.025949 cm/us
-E = 1500V/cm,   Vx = -5.11836 cm/us,  Delta_vx = 0.278923 cm/us
-E = 2000V/cm,   Vx = -4.83969 cm/us,  Delta_vx = -0.00385964 cm/us
-E = 2500V/cm,   Vx = -4.8433 cm/us,  Delta_vx = -0.141854 cm/us
-E = 3000V/cm,   Vx = -4.98475 cm/us,  Delta_vx = -0.159895 cm/us
-E = 3500V/cm,   Vx = -5.14444 cm/us,  Delta_vx = -0.109075 cm/us
-E = 4000V/cm,   Vx = -5.25337 cm/us,  Delta_vx = -0.033555 cm/us
-E = 4500V/cm,   Vx = -5.28692 cm/us,  Delta_vx = 0.0265782 cm/us
-E = 5000V/cm,   Vx = -5.26043 cm/us,  Delta_vx = 0.0439016 cm/us
-E = 5500V/cm,   Vx = -5.21662 cm/us,  Delta_vx = 0.0519122 cm/us
-E = 6000V/cm,   Vx = -5.16482 cm/us,  Delta_vx = 0.0511533 cm/us
-E = 6500V/cm,   Vx = -5.11374 cm/us,  Delta_vx = 0.0276437 cm/us
-E = 7000V/cm,   Vx = -5.08612 cm/us,  Delta_vx = 0.0040187 cm/us
-E = 7500V/cm,   Vx = -5.0821 cm/us,  Delta_vx = -0.00661276 cm/us
-E = 8000V/cm,   Vx = -5.08869 cm/us,  Delta_vx = -0.0145631 cm/us
-E = 8500V/cm,   Vx = -5.10321 cm/us,  Delta_vx = -0.0266323 cm/us
-E = 9000V/cm,   Vx = -5.12977 cm/us,  Delta_vx = -0.0443684 cm/us
-E = 9500V/cm,   Vx = -5.17403 cm/us,  Delta_vx = -0.0681962 cm/us
-E = 10000V/cm,   Vx = -5.24207 cm/us,  Delta_vx = -0.0901923 cm/us
+E = 20V/cm,   Vx = -0.058906 cm/us,  dvx1 = -0.0580888 cm/us,  dvx2 =  -0.0624892 cm/us, dvx3 = -0.0585811 cm/us, dvx4 = -0.0675327 cm/us 
+E = 30V/cm,   Vx = -0.116502 cm/us,  dvx1 = -0.0577833 cm/us,  dvx2 =  -0.0637751 cm/us, dvx3 = -0.0591236 cm/us, dvx4 = -0.0763952 cm/us 
+E = 40V/cm,   Vx = -0.173613 cm/us,  dvx1 = -0.0567404 cm/us,  dvx2 =  -0.0623565 cm/us, dvx3 = -0.0586128 cm/us, dvx4 = -0.0808016 cm/us 
+E = 50V/cm,   Vx = -0.229733 cm/us,  dvx1 = -0.0598687 cm/us,  dvx2 =  -0.0645313 cm/us, dvx3 = -0.0620307 cm/us, dvx4 = -0.0849411 cm/us 
+E = 60V/cm,   Vx = -0.289057 cm/us,  dvx1 = -0.0561419 cm/us,  dvx2 =  -0.0618172 cm/us, dvx3 = -0.0592916 cm/us, dvx4 = -0.0903759 cm/us 
+E = 70V/cm,   Vx = -0.34457 cm/us,  dvx1 = -0.0575007 cm/us,  dvx2 =  -0.0633333 cm/us, dvx3 = -0.0613874 cm/us, dvx4 = -0.102606 cm/us 
+E = 80V/cm,   Vx = -0.401423 cm/us,  dvx1 = -0.0641378 cm/us,  dvx2 =  -0.0692362 cm/us, dvx3 = -0.0681056 cm/us, dvx4 = -0.108736 cm/us 
+E = 90V/cm,   Vx = -0.464993 cm/us,  dvx1 = -0.0577703 cm/us,  dvx2 =  -0.0631823 cm/us, dvx3 = -0.0625807 cm/us, dvx4 = -0.110576 cm/us 
+E = 100V/cm,   Vx = -0.522162 cm/us,  dvx1 = -0.059676 cm/us,  dvx2 =  -0.0648153 cm/us, dvx3 = -0.0648153 cm/us, dvx4 = -0.117705 cm/us 
+E = 110V/cm,   Vx = -0.581268 cm/us,  dvx1 = -0.0592227 cm/us,  dvx2 =  -0.0648387 cm/us, dvx3 = -0.065464 cm/us, dvx4 = -0.128263 cm/us 
+E = 120V/cm,   Vx = -0.639868 cm/us,  dvx1 = -0.064052 cm/us,  dvx2 =  -0.0696627 cm/us, dvx3 = -0.0709107 cm/us, dvx4 = -0.13895 cm/us 
+E = 130V/cm,   Vx = -0.703297 cm/us,  dvx1 = -0.0634589 cm/us,  dvx2 =  -0.0691675 cm/us, dvx3 = -0.0710723 cm/us, dvx4 = -0.147978 cm/us 
+E = 140V/cm,   Vx = -0.766122 cm/us,  dvx1 = -0.0659156 cm/us,  dvx2 =  -0.0718815 cm/us, dvx3 = -0.0745342 cm/us, dvx4 = -0.156711 cm/us 
+E = 150V/cm,   Vx = -0.831375 cm/us,  dvx1 = -0.0666446 cm/us,  dvx2 =  -0.0723582 cm/us, dvx3 = -0.0755356 cm/us, dvx4 = -0.162202 cm/us 
+E = 160V/cm,   Vx = -0.897385 cm/us,  dvx1 = -0.0645399 cm/us,  dvx2 =  -0.0703368 cm/us, dvx3 = -0.0742056 cm/us, dvx4 = -0.171799 cm/us 
+E = 170V/cm,   Vx = -0.961281 cm/us,  dvx1 = -0.0669303 cm/us,  dvx2 =  -0.0731284 cm/us, dvx3 = -0.0779621 cm/us, dvx4 = -0.186138 cm/us 
+E = 180V/cm,   Vx = -1.02752 cm/us,  dvx1 = -0.070606 cm/us,  dvx2 =  -0.0770119 cm/us, dvx3 = -0.0827217 cm/us, dvx4 = -0.19939 cm/us 
+E = 190V/cm,   Vx = -1.09742 cm/us,  dvx1 = -0.0722159 cm/us,  dvx2 =  -0.0786933 cm/us, dvx3 = -0.085183 cm/us, dvx4 = -0.210887 cm/us 
+E = 200V/cm,   Vx = -1.16892 cm/us,  dvx1 = -0.0733839 cm/us,  dvx2 =  -0.0799986 cm/us, dvx3 = -0.0873627 cm/us, dvx4 = -0.222879 cm/us 
+E = 210V/cm,   Vx = -1.24157 cm/us,  dvx1 = -0.0749964 cm/us,  dvx2 =  -0.0817666 cm/us, dvx3 = -0.0900601 cm/us, dvx4 = -0.235765 cm/us 
+E = 220V/cm,   Vx = -1.31581 cm/us,  dvx1 = -0.0767533 cm/us,  dvx2 =  -0.0836772 cm/us, dvx3 = -0.0929307 cm/us, dvx4 = -0.249154 cm/us 
+E = 230V/cm,   Vx = -1.3918 cm/us,  dvx1 = -0.0784648 cm/us,  dvx2 =  -0.085535 cm/us, dvx3 = -0.0957741 cm/us, dvx4 = -0.26306 cm/us 
+E = 240V/cm,   Vx = -1.46948 cm/us,  dvx1 = -0.0801907 cm/us,  dvx2 =  -0.0874287 cm/us, dvx3 = -0.098718 cm/us, dvx4 = -0.278448 cm/us 
+E = 250V/cm,   Vx = -1.54886 cm/us,  dvx1 = -0.0820751 cm/us,  dvx2 =  -0.0894811 cm/us, dvx3 = -0.101858 cm/us, dvx4 = -0.293819 cm/us 
+E = 260V/cm,   Vx = -1.63012 cm/us,  dvx1 = -0.0845566 cm/us,  dvx2 =  -0.0922138 cm/us, dvx3 = -0.10585 cm/us, dvx4 = -0.308371 cm/us 
+E = 270V/cm,   Vx = -1.71382 cm/us,  dvx1 = -0.086471 cm/us,  dvx2 =  -0.0942352 cm/us, dvx3 = -0.108927 cm/us, dvx4 = -0.319984 cm/us 
+E = 280V/cm,   Vx = -1.79943 cm/us,  dvx1 = -0.0876734 cm/us,  dvx2 =  -0.0955449 cm/us, dvx3 = -0.111317 cm/us, dvx4 = -0.330667 cm/us 
+E = 290V/cm,   Vx = -1.88623 cm/us,  dvx1 = -0.087671 cm/us,  dvx2 =  -0.0954629 cm/us, dvx3 = -0.111934 cm/us, dvx4 = -0.341598 cm/us 
+E = 300V/cm,   Vx = -1.97304 cm/us,  dvx1 = -0.0878086 cm/us,  dvx2 =  -0.0956729 cm/us, dvx3 = -0.113172 cm/us, dvx4 = -0.35475 cm/us 
+E = 310V/cm,   Vx = -2.05997 cm/us,  dvx1 = -0.0886201 cm/us,  dvx2 =  -0.0965567 cm/us, dvx3 = -0.115101 cm/us, dvx4 = -0.368534 cm/us 
+E = 320V/cm,   Vx = -2.14771 cm/us,  dvx1 = -0.0900804 cm/us,  dvx2 =  -0.0982364 cm/us, dvx3 = -0.118195 cm/us, dvx4 = -0.382276 cm/us 
+E = 330V/cm,   Vx = -2.23689 cm/us,  dvx1 = -0.0918143 cm/us,  dvx2 =  -0.100027 cm/us, dvx3 = -0.121038 cm/us, dvx4 = -0.393704 cm/us 
+E = 340V/cm,   Vx = -2.32779 cm/us,  dvx1 = -0.0924498 cm/us,  dvx2 =  -0.100719 cm/us, dvx3 = -0.122795 cm/us, dvx4 = -0.403563 cm/us 
+E = 350V/cm,   Vx = -2.41932 cm/us,  dvx1 = -0.0930853 cm/us,  dvx2 =  -0.101411 cm/us, dvx3 = -0.124405 cm/us, dvx4 = -0.412987 cm/us 
+E = 360V/cm,   Vx = -2.51148 cm/us,  dvx1 = -0.0925776 cm/us,  dvx2 =  -0.10081 cm/us, dvx3 = -0.124601 cm/us, dvx4 = -0.422875 cm/us 
+E = 370V/cm,   Vx = -2.60314 cm/us,  dvx1 = -0.0924616 cm/us,  dvx2 =  -0.100709 cm/us, dvx3 = -0.125458 cm/us, dvx4 = -0.434528 cm/us 
+E = 380V/cm,   Vx = -2.69469 cm/us,  dvx1 = -0.0926231 cm/us,  dvx2 =  -0.100885 cm/us, dvx3 = -0.126595 cm/us, dvx4 = -0.445294 cm/us 
+E = 390V/cm,   Vx = -2.78639 cm/us,  dvx1 = -0.0927847 cm/us,  dvx2 =  -0.101061 cm/us, dvx3 = -0.128124 cm/us, dvx4 = -0.454896 cm/us 
+E = 400V/cm,   Vx = -2.87826 cm/us,  dvx1 = -0.0947225 cm/us,  dvx2 =  -0.103183 cm/us, dvx3 = -0.131335 cm/us, dvx4 = -0.462429 cm/us 
+E = 450V/cm,   Vx = -2.97204 cm/us,  dvx1 = -0.45609 cm/us,  dvx2 =  -0.463797 cm/us, dvx3 = -0.493641 cm/us, dvx4 = -0.825537 cm/us 
+E = 500V/cm,   Vx = -3.42727 cm/us,  dvx1 = -0.410865 cm/us,  dvx2 =  -0.417966 cm/us, dvx3 = -0.449324 cm/us, dvx4 = -0.777697 cm/us 
+E = 550V/cm,   Vx = -3.83735 cm/us,  dvx1 = -0.368287 cm/us,  dvx2 =  -0.374253 cm/us, dvx3 = -0.40376 cm/us, dvx4 = -0.692264 cm/us 
+E = 600V/cm,   Vx = -4.20497 cm/us,  dvx1 = -0.299091 cm/us,  dvx2 =  -0.303846 cm/us, dvx3 = -0.329689 cm/us, dvx4 = -0.566904 cm/us 
+E = 650V/cm,   Vx = -4.50353 cm/us,  dvx1 = -0.230054 cm/us,  dvx2 =  -0.233631 cm/us, dvx3 = -0.255073 cm/us, dvx4 = -0.445036 cm/us 
+E = 700V/cm,   Vx = -4.73319 cm/us,  dvx1 = -0.17328 cm/us,  dvx2 =  -0.175948 cm/us, dvx3 = -0.193324 cm/us, dvx4 = -0.330973 cm/us 
+E = 750V/cm,   Vx = -4.90617 cm/us,  dvx1 = -0.124129 cm/us,  dvx2 =  -0.12579 cm/us, dvx3 = -0.137421 cm/us, dvx4 = -0.220382 cm/us 
+E = 800V/cm,   Vx = -5.03011 cm/us,  dvx1 = -0.0738689 cm/us,  dvx2 =  -0.0748482 cm/us, dvx3 = -0.0820467 cm/us, dvx4 = -0.121795 cm/us 
+E = 850V/cm,   Vx = -5.10387 cm/us,  dvx1 = -0.0375323 cm/us,  dvx2 =  -0.0379695 cm/us, dvx3 = -0.0413206 cm/us, dvx4 = -0.045448 cm/us 
+E = 900V/cm,   Vx = -5.14135 cm/us,  dvx1 = -0.0129539 cm/us,  dvx2 =  -0.0129738 cm/us, dvx3 = -0.0128203 cm/us, dvx4 = 0.0171113 cm/us 
+E = 950V/cm,   Vx = -5.15431 cm/us,  dvx1 = 0.0106457 cm/us,  dvx2 =  0.0110123 cm/us, dvx3 = 0.014637 cm/us, dvx4 = 0.0660722 cm/us 
+E = 1000V/cm,   Vx = -5.1437 cm/us,  dvx1 = 0.0253994 cm/us,  dvx2 =  0.025949 cm/us, dvx3 = 0.0316265 cm/us, dvx4 = 0.0901118 cm/us 
+E = 1500V/cm,   Vx = -5.11836 cm/us,  dvx1 = 0.278695 cm/us,  dvx2 =  0.278923 cm/us, dvx3 = 0.282338 cm/us, dvx4 = 0.303461 cm/us 
+E = 2000V/cm,   Vx = -4.83969 cm/us,  dvx1 = -0.00363046 cm/us,  dvx2 =  -0.00385964 cm/us, dvx3 = -0.00875581 cm/us, dvx4 = -0.060626 cm/us 
+E = 2500V/cm,   Vx = -4.8433 cm/us,  dvx1 = -0.141493 cm/us,  dvx2 =  -0.141854 cm/us, dvx3 = -0.151488 cm/us, dvx4 = -0.240147 cm/us 
+E = 3000V/cm,   Vx = -4.98475 cm/us,  dvx1 = -0.159707 cm/us,  dvx2 =  -0.159895 cm/us, dvx3 = -0.165849 cm/us, dvx4 = -0.231223 cm/us 
+E = 3500V/cm,   Vx = -5.14444 cm/us,  dvx1 = -0.108946 cm/us,  dvx2 =  -0.109075 cm/us, dvx3 = -0.113747 cm/us, dvx4 = -0.139913 cm/us 
+E = 4000V/cm,   Vx = -5.25337 cm/us,  dvx1 = -0.0335553 cm/us,  dvx2 =  -0.033555 cm/us, dvx3 = -0.0333622 cm/us, dvx4 = -0.0153303 cm/us 
+E = 4500V/cm,   Vx = -5.28692 cm/us,  dvx1 = 0.0264996 cm/us,  dvx2 =  0.0265782 cm/us, dvx3 = 0.0305122 cm/us, dvx4 = 0.0660415 cm/us 
+E = 5000V/cm,   Vx = -5.26043 cm/us,  dvx1 = 0.0438243 cm/us,  dvx2 =  0.0439016 cm/us, dvx3 = 0.0481483 cm/us, dvx4 = 0.0956136 cm/us 
+E = 5500V/cm,   Vx = -5.21662 cm/us,  dvx1 = 0.0518094 cm/us,  dvx2 =  0.0519122 cm/us, dvx3 = 0.0580571 cm/us, dvx4 = 0.106592 cm/us 
+E = 6000V/cm,   Vx = -5.16482 cm/us,  dvx1 = 0.0510845 cm/us,  dvx2 =  0.0511533 cm/us, dvx3 = 0.0555121 cm/us, dvx4 = 0.0807091 cm/us 
+E = 6500V/cm,   Vx = -5.11374 cm/us,  dvx1 = 0.0276229 cm/us,  dvx2 =  0.0276437 cm/us, dvx3 = 0.0289968 cm/us, dvx4 = 0.0299131 cm/us 
+E = 7000V/cm,   Vx = -5.08612 cm/us,  dvx1 = 0.00402505 cm/us,  dvx2 =  0.0040187 cm/us, dvx3 = 0.00338582 cm/us, dvx4 = -0.00707424 cm/us 
+E = 7500V/cm,   Vx = -5.0821 cm/us,  dvx1 = -0.00659637 cm/us,  dvx2 =  -0.00661276 cm/us, dvx3 = -0.00808037 cm/us, dvx4 = -0.0323029 cm/us 
+E = 8000V/cm,   Vx = -5.08869 cm/us,  dvx1 = -0.0145272 cm/us,  dvx2 =  -0.0145631 cm/us, dvx3 = -0.0177877 cm/us, dvx4 = -0.0653961 cm/us 
+E = 8500V/cm,   Vx = -5.10321 cm/us,  dvx1 = -0.0265689 cm/us,  dvx2 =  -0.0266323 cm/us, dvx3 = -0.0328011 cm/us, dvx4 = -0.116133 cm/us 
+E = 9000V/cm,   Vx = -5.12977 cm/us,  dvx1 = -0.0442657 cm/us,  dvx2 =  -0.0443684 cm/us, dvx3 = -0.0548777 cm/us, dvx4 = -0.182561 cm/us 
+E = 9500V/cm,   Vx = -5.17403 cm/us,  dvx1 = -0.0680539 cm/us,  dvx2 =  -0.0681962 cm/us, dvx3 = -0.0834521 cm/us, dvx4 = -0.228748 cm/us 
+E = 10000V/cm,   Vx = -5.24207 cm/us,  dvx1 = -0.0900509 cm/us,  dvx2 =  -0.0901923 cm/us, dvx3 = -0.105741 cm/us, dvx4 = -0.247091 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(90-10).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (90/10)
-E = 20V/cm,   Vx = -0.0657017 cm/us,  Delta_vx = -0.0670298 cm/us
-E = 30V/cm,   Vx = -0.126261 cm/us,  Delta_vx = -0.0686979 cm/us
-E = 40V/cm,   Vx = -0.189459 cm/us,  Delta_vx = -0.0674018 cm/us
-E = 50V/cm,   Vx = -0.250037 cm/us,  Delta_vx = -0.069722 cm/us
-E = 60V/cm,   Vx = -0.313771 cm/us,  Delta_vx = -0.0666894 cm/us
-E = 70V/cm,   Vx = -0.374262 cm/us,  Delta_vx = -0.0719325 cm/us
-E = 80V/cm,   Vx = -0.440274 cm/us,  Delta_vx = -0.0679727 cm/us
-E = 90V/cm,   Vx = -0.501429 cm/us,  Delta_vx = -0.0734027 cm/us
-E = 100V/cm,   Vx = -0.568493 cm/us,  Delta_vx = -0.0720068 cm/us
-E = 110V/cm,   Vx = -0.633615 cm/us,  Delta_vx = -0.0760484 cm/us
-E = 120V/cm,   Vx = -0.702847 cm/us,  Delta_vx = -0.0754875 cm/us
-E = 130V/cm,   Vx = -0.771316 cm/us,  Delta_vx = -0.0777988 cm/us
-E = 140V/cm,   Vx = -0.841988 cm/us,  Delta_vx = -0.078148 cm/us
-E = 150V/cm,   Vx = -0.913018 cm/us,  Delta_vx = -0.0787065 cm/us
-E = 160V/cm,   Vx = -0.984536 cm/us,  Delta_vx = -0.0805376 cm/us
-E = 170V/cm,   Vx = -1.05762 cm/us,  Delta_vx = -0.0844427 cm/us
-E = 180V/cm,   Vx = -1.13415 cm/us,  Delta_vx = -0.0887005 cm/us
-E = 190V/cm,   Vx = -1.21463 cm/us,  Delta_vx = -0.0921603 cm/us
-E = 200V/cm,   Vx = -1.29832 cm/us,  Delta_vx = -0.093824 cm/us
-E = 210V/cm,   Vx = -1.38356 cm/us,  Delta_vx = -0.093191 cm/us
-E = 220V/cm,   Vx = -1.46838 cm/us,  Delta_vx = -0.0927709 cm/us
-E = 230V/cm,   Vx = -1.55265 cm/us,  Delta_vx = -0.0947131 cm/us
-E = 240V/cm,   Vx = -1.63847 cm/us,  Delta_vx = -0.0989631 cm/us
-E = 250V/cm,   Vx = -1.72834 cm/us,  Delta_vx = -0.101088 cm/us
-E = 260V/cm,   Vx = -1.82014 cm/us,  Delta_vx = -0.102271 cm/us
-E = 270V/cm,   Vx = -1.9131 cm/us,  Delta_vx = -0.103244 cm/us
-E = 280V/cm,   Vx = -2.00688 cm/us,  Delta_vx = -0.104822 cm/us
-E = 290V/cm,   Vx = -2.1021 cm/us,  Delta_vx = -0.10767 cm/us
-E = 300V/cm,   Vx = -2.19987 cm/us,  Delta_vx = -0.109255 cm/us
-E = 310V/cm,   Vx = -2.29916 cm/us,  Delta_vx = -0.109987 cm/us
-E = 320V/cm,   Vx = -2.39912 cm/us,  Delta_vx = -0.109538 cm/us
-E = 330V/cm,   Vx = -2.49882 cm/us,  Delta_vx = -0.108214 cm/us
-E = 340V/cm,   Vx = -2.5972 cm/us,  Delta_vx = -0.108198 cm/us
-E = 350V/cm,   Vx = -2.69556 cm/us,  Delta_vx = -0.108183 cm/us
-E = 360V/cm,   Vx = -2.79391 cm/us,  Delta_vx = -0.110578 cm/us
-E = 370V/cm,   Vx = -2.89441 cm/us,  Delta_vx = -0.110312 cm/us
-E = 380V/cm,   Vx = -2.99474 cm/us,  Delta_vx = -0.109309 cm/us
-E = 390V/cm,   Vx = -3.09416 cm/us,  Delta_vx = -0.108305 cm/us
-E = 400V/cm,   Vx = -3.19266 cm/us,  Delta_vx = -0.104778 cm/us
-E = 450V/cm,   Vx = -3.28807 cm/us,  Delta_vx = -0.448762 cm/us
-E = 500V/cm,   Vx = -3.72862 cm/us,  Delta_vx = -0.393058 cm/us
-E = 550V/cm,   Vx = -4.11445 cm/us,  Delta_vx = -0.332531 cm/us
-E = 600V/cm,   Vx = -4.44132 cm/us,  Delta_vx = -0.248589 cm/us
-E = 650V/cm,   Vx = -4.68582 cm/us,  Delta_vx = -0.169948 cm/us
-E = 700V/cm,   Vx = -4.85308 cm/us,  Delta_vx = -0.109197 cm/us
-E = 750V/cm,   Vx = -4.9606 cm/us,  Delta_vx = -0.0626241 cm/us
-E = 800V/cm,   Vx = -5.02247 cm/us,  Delta_vx = -0.0229565 cm/us
-E = 850V/cm,   Vx = -5.04528 cm/us,  Delta_vx = 0.00696798 cm/us
-E = 900V/cm,   Vx = -5.03867 cm/us,  Delta_vx = 0.0257076 cm/us
-E = 950V/cm,   Vx = -5.01361 cm/us,  Delta_vx = 0.0376796 cm/us
-E = 1000V/cm,   Vx = -4.9767 cm/us,  Delta_vx = 0.0409227 cm/us
-E = 1500V/cm,   Vx = -4.93661 cm/us,  Delta_vx = 0.300468 cm/us
-E = 2000V/cm,   Vx = -4.63637 cm/us,  Delta_vx = -0.02961 cm/us
-E = 2500V/cm,   Vx = -4.66571 cm/us,  Delta_vx = -0.176376 cm/us
-E = 3000V/cm,   Vx = -4.84178 cm/us,  Delta_vx = -0.128152 cm/us
-E = 3500V/cm,   Vx = -4.96971 cm/us,  Delta_vx = -0.0861684 cm/us
-E = 4000V/cm,   Vx = -5.05584 cm/us,  Delta_vx = 0.00449458 cm/us
-E = 4500V/cm,   Vx = -5.05138 cm/us,  Delta_vx = 0.027566 cm/us
-E = 5000V/cm,   Vx = -5.02389 cm/us,  Delta_vx = 0.0440579 cm/us
-E = 5500V/cm,   Vx = -4.97993 cm/us,  Delta_vx = 0.0544196 cm/us
-E = 6000V/cm,   Vx = -4.92562 cm/us,  Delta_vx = 0.0484766 cm/us
-E = 6500V/cm,   Vx = -4.87721 cm/us,  Delta_vx = 0.0195393 cm/us
-E = 7000V/cm,   Vx = -4.85765 cm/us,  Delta_vx = -0.0161918 cm/us
-E = 7500V/cm,   Vx = -4.8738 cm/us,  Delta_vx = -0.0248741 cm/us
-E = 8000V/cm,   Vx = -4.89863 cm/us,  Delta_vx = -0.0252457 cm/us
-E = 8500V/cm,   Vx = -4.92382 cm/us,  Delta_vx = -0.0312055 cm/us
-E = 9000V/cm,   Vx = -4.95495 cm/us,  Delta_vx = -0.0428641 cm/us
-E = 9500V/cm,   Vx = -4.99771 cm/us,  Delta_vx = -0.060662 cm/us
-E = 10000V/cm,   Vx = -5.05823 cm/us,  Delta_vx = -0.0766329 cm/us
+E = 20V/cm,   Vx = -0.0657017 cm/us,  dvx1 = -0.0612004 cm/us,  dvx2 =  -0.0670298 cm/us, dvx3 = -0.0618431 cm/us, dvx4 = -0.0742811 cm/us 
+E = 30V/cm,   Vx = -0.126261 cm/us,  dvx1 = -0.063755 cm/us,  dvx2 =  -0.0686979 cm/us, dvx3 = -0.0648643 cm/us, dvx4 = -0.0793514 cm/us 
+E = 40V/cm,   Vx = -0.189459 cm/us,  dvx1 = -0.0612624 cm/us,  dvx2 =  -0.0674018 cm/us, dvx3 = -0.0633194 cm/us, dvx4 = -0.0872766 cm/us 
+E = 50V/cm,   Vx = -0.250037 cm/us,  dvx1 = -0.0643295 cm/us,  dvx2 =  -0.069722 cm/us, dvx3 = -0.0667074 cm/us, dvx4 = -0.093887 cm/us 
+E = 60V/cm,   Vx = -0.313771 cm/us,  dvx1 = -0.0611082 cm/us,  dvx2 =  -0.0666894 cm/us, dvx3 = -0.0642036 cm/us, dvx4 = -0.0997279 cm/us 
+E = 70V/cm,   Vx = -0.374262 cm/us,  dvx1 = -0.0666041 cm/us,  dvx2 =  -0.0719325 cm/us, dvx3 = -0.0701563 cm/us, dvx4 = -0.107473 cm/us 
+E = 80V/cm,   Vx = -0.440274 cm/us,  dvx1 = -0.0618355 cm/us,  dvx2 =  -0.0679727 cm/us, dvx3 = -0.0666069 cm/us, dvx4 = -0.115541 cm/us 
+E = 90V/cm,   Vx = -0.501429 cm/us,  dvx1 = -0.0676978 cm/us,  dvx2 =  -0.0734027 cm/us, dvx3 = -0.0727689 cm/us, dvx4 = -0.125325 cm/us 
+E = 100V/cm,   Vx = -0.568493 cm/us,  dvx1 = -0.0658091 cm/us,  dvx2 =  -0.0720068 cm/us, dvx3 = -0.0720068 cm/us, dvx4 = -0.134354 cm/us 
+E = 110V/cm,   Vx = -0.633615 cm/us,  dvx1 = -0.0699135 cm/us,  dvx2 =  -0.0760484 cm/us, dvx3 = -0.0767303 cm/us, dvx4 = -0.14472 cm/us 
+E = 120V/cm,   Vx = -0.702847 cm/us,  dvx1 = -0.069171 cm/us,  dvx2 =  -0.0754875 cm/us, dvx3 = -0.0768924 cm/us, dvx4 = -0.153407 cm/us 
+E = 130V/cm,   Vx = -0.771316 cm/us,  dvx1 = -0.0713837 cm/us,  dvx2 =  -0.0777988 cm/us, dvx3 = -0.0799392 cm/us, dvx4 = -0.163082 cm/us 
+E = 140V/cm,   Vx = -0.841988 cm/us,  dvx1 = -0.0717416 cm/us,  dvx2 =  -0.078148 cm/us, dvx3 = -0.0809976 cm/us, dvx4 = -0.171462 cm/us 
+E = 150V/cm,   Vx = -0.913018 cm/us,  dvx1 = -0.0722354 cm/us,  dvx2 =  -0.0787065 cm/us, dvx3 = -0.0823109 cm/us, dvx4 = -0.182139 cm/us 
+E = 160V/cm,   Vx = -0.984536 cm/us,  dvx1 = -0.0738274 cm/us,  dvx2 =  -0.0805376 cm/us, dvx3 = -0.085023 cm/us, dvx4 = -0.197534 cm/us 
+E = 170V/cm,   Vx = -1.05762 cm/us,  dvx1 = -0.0773238 cm/us,  dvx2 =  -0.0844427 cm/us, dvx3 = -0.089997 cm/us, dvx4 = -0.215328 cm/us 
+E = 180V/cm,   Vx = -1.13415 cm/us,  dvx1 = -0.081302 cm/us,  dvx2 =  -0.0887005 cm/us, dvx3 = -0.0952981 cm/us, dvx4 = -0.232275 cm/us 
+E = 190V/cm,   Vx = -1.21463 cm/us,  dvx1 = -0.08453 cm/us,  dvx2 =  -0.0921603 cm/us, dvx3 = -0.099799 cm/us, dvx4 = -0.24538 cm/us 
+E = 200V/cm,   Vx = -1.29832 cm/us,  dvx1 = -0.0861003 cm/us,  dvx2 =  -0.093824 cm/us, dvx3 = -0.102416 cm/us, dvx4 = -0.254337 cm/us 
+E = 210V/cm,   Vx = -1.38356 cm/us,  dvx1 = -0.0856536 cm/us,  dvx2 =  -0.093191 cm/us, dvx3 = -0.102417 cm/us, dvx4 = -0.263808 cm/us 
+E = 220V/cm,   Vx = -1.46838 cm/us,  dvx1 = -0.0851266 cm/us,  dvx2 =  -0.0927709 cm/us, dvx3 = -0.102978 cm/us, dvx4 = -0.278167 cm/us 
+E = 230V/cm,   Vx = -1.55265 cm/us,  dvx1 = -0.0867022 cm/us,  dvx2 =  -0.0947131 cm/us, dvx3 = -0.106312 cm/us, dvx4 = -0.295402 cm/us 
+E = 240V/cm,   Vx = -1.63847 cm/us,  dvx1 = -0.0907784 cm/us,  dvx2 =  -0.0989631 cm/us, dvx3 = -0.111726 cm/us, dvx4 = -0.311971 cm/us 
+E = 250V/cm,   Vx = -1.72834 cm/us,  dvx1 = -0.0927296 cm/us,  dvx2 =  -0.101088 cm/us, dvx3 = -0.115054 cm/us, dvx4 = -0.325976 cm/us 
+E = 260V/cm,   Vx = -1.82014 cm/us,  dvx1 = -0.0938875 cm/us,  dvx2 =  -0.102271 cm/us, dvx3 = -0.117203 cm/us, dvx4 = -0.340205 cm/us 
+E = 270V/cm,   Vx = -1.9131 cm/us,  dvx1 = -0.0947311 cm/us,  dvx2 =  -0.103244 cm/us, dvx3 = -0.119354 cm/us, dvx4 = -0.356211 cm/us 
+E = 280V/cm,   Vx = -2.00688 cm/us,  dvx1 = -0.0961806 cm/us,  dvx2 =  -0.104822 cm/us, dvx3 = -0.12214 cm/us, dvx4 = -0.372193 cm/us 
+E = 290V/cm,   Vx = -2.1021 cm/us,  dvx1 = -0.0987606 cm/us,  dvx2 =  -0.10767 cm/us, dvx3 = -0.126497 cm/us, dvx4 = -0.386877 cm/us 
+E = 300V/cm,   Vx = -2.19987 cm/us,  dvx1 = -0.100286 cm/us,  dvx2 =  -0.109255 cm/us, dvx3 = -0.129206 cm/us, dvx4 = -0.397322 cm/us 
+E = 310V/cm,   Vx = -2.29916 cm/us,  dvx1 = -0.100958 cm/us,  dvx2 =  -0.109987 cm/us, dvx3 = -0.131076 cm/us, dvx4 = -0.40623 cm/us 
+E = 320V/cm,   Vx = -2.39912 cm/us,  dvx1 = -0.100683 cm/us,  dvx2 =  -0.109538 cm/us, dvx3 = -0.131182 cm/us, dvx4 = -0.414456 cm/us 
+E = 330V/cm,   Vx = -2.49882 cm/us,  dvx1 = -0.0993611 cm/us,  dvx2 =  -0.108214 cm/us, dvx3 = -0.130839 cm/us, dvx4 = -0.425787 cm/us 
+E = 340V/cm,   Vx = -2.5972 cm/us,  dvx1 = -0.0993465 cm/us,  dvx2 =  -0.108198 cm/us, dvx3 = -0.131803 cm/us, dvx4 = -0.437421 cm/us 
+E = 350V/cm,   Vx = -2.69556 cm/us,  dvx1 = -0.0993319 cm/us,  dvx2 =  -0.108183 cm/us, dvx3 = -0.133148 cm/us, dvx4 = -0.447965 cm/us 
+E = 360V/cm,   Vx = -2.79391 cm/us,  dvx1 = -0.101511 cm/us,  dvx2 =  -0.110578 cm/us, dvx3 = -0.136727 cm/us, dvx4 = -0.456484 cm/us 
+E = 370V/cm,   Vx = -2.89441 cm/us,  dvx1 = -0.101328 cm/us,  dvx2 =  -0.110312 cm/us, dvx3 = -0.13722 cm/us, dvx4 = -0.458753 cm/us 
+E = 380V/cm,   Vx = -2.99474 cm/us,  dvx1 = -0.100407 cm/us,  dvx2 =  -0.109309 cm/us, dvx3 = -0.136956 cm/us, dvx4 = -0.458499 cm/us 
+E = 390V/cm,   Vx = -3.09416 cm/us,  dvx1 = -0.0994848 cm/us,  dvx2 =  -0.108305 cm/us, dvx3 = -0.136307 cm/us, dvx4 = -0.456463 cm/us 
+E = 400V/cm,   Vx = -3.19266 cm/us,  dvx1 = -0.0963506 cm/us,  dvx2 =  -0.104778 cm/us, dvx3 = -0.13274 cm/us, dvx4 = -0.452547 cm/us 
+E = 450V/cm,   Vx = -3.28807 cm/us,  dvx1 = -0.441366 cm/us,  dvx2 =  -0.448762 cm/us, dvx3 = -0.477357 cm/us, dvx4 = -0.789833 cm/us 
+E = 500V/cm,   Vx = -3.72862 cm/us,  dvx1 = -0.386555 cm/us,  dvx2 =  -0.393058 cm/us, dvx3 = -0.4217 cm/us, dvx4 = -0.712707 cm/us 
+E = 550V/cm,   Vx = -4.11445 cm/us,  dvx1 = -0.327443 cm/us,  dvx2 =  -0.332531 cm/us, dvx3 = -0.357588 cm/us, dvx4 = -0.59145 cm/us 
+E = 600V/cm,   Vx = -4.44132 cm/us,  dvx1 = -0.244905 cm/us,  dvx2 =  -0.248589 cm/us, dvx3 = -0.268401 cm/us, dvx4 = -0.437503 cm/us 
+E = 650V/cm,   Vx = -4.68582 cm/us,  dvx1 = -0.167529 cm/us,  dvx2 =  -0.169948 cm/us, dvx3 = -0.184284 cm/us, dvx4 = -0.298057 cm/us 
+E = 700V/cm,   Vx = -4.85308 cm/us,  dvx1 = -0.107688 cm/us,  dvx2 =  -0.109197 cm/us, dvx3 = -0.118886 cm/us, dvx4 = -0.182114 cm/us 
+E = 750V/cm,   Vx = -4.9606 cm/us,  dvx1 = -0.0619496 cm/us,  dvx2 =  -0.0626241 cm/us, dvx3 = -0.0672065 cm/us, dvx4 = -0.0848397 cm/us 
+E = 800V/cm,   Vx = -5.02247 cm/us,  dvx1 = -0.0228218 cm/us,  dvx2 =  -0.0229565 cm/us, dvx3 = -0.0236728 cm/us, dvx4 = -0.0028765 cm/us 
+E = 850V/cm,   Vx = -5.04528 cm/us,  dvx1 = 0.00664257 cm/us,  dvx2 =  0.00696798 cm/us, dvx3 = 0.00985968 cm/us, dvx4 = 0.0572927 cm/us 
+E = 900V/cm,   Vx = -5.03867 cm/us,  dvx1 = 0.0251252 cm/us,  dvx2 =  0.0257076 cm/us, dvx3 = 0.031088 cm/us, dvx4 = 0.0937401 cm/us 
+E = 950V/cm,   Vx = -5.01361 cm/us,  dvx1 = 0.0369913 cm/us,  dvx2 =  0.0376796 cm/us, dvx3 = 0.0442405 cm/us, dvx4 = 0.116165 cm/us 
+E = 1000V/cm,   Vx = -4.9767 cm/us,  dvx1 = 0.0401665 cm/us,  dvx2 =  0.0409227 cm/us, dvx3 = 0.0485515 cm/us, dvx4 = 0.126957 cm/us 
+E = 1500V/cm,   Vx = -4.93661 cm/us,  dvx1 = 0.300266 cm/us,  dvx2 =  0.300468 cm/us, dvx3 = 0.303449 cm/us, dvx4 = 0.313634 cm/us 
+E = 2000V/cm,   Vx = -4.63637 cm/us,  dvx1 = -0.0293706 cm/us,  dvx2 =  -0.02961 cm/us, dvx3 = -0.0347753 cm/us, dvx4 = -0.0943249 cm/us 
+E = 2500V/cm,   Vx = -4.66571 cm/us,  dvx1 = -0.176094 cm/us,  dvx2 =  -0.176376 cm/us, dvx3 = -0.183816 cm/us, dvx4 = -0.246045 cm/us 
+E = 3000V/cm,   Vx = -4.84178 cm/us,  dvx1 = -0.12796 cm/us,  dvx2 =  -0.128152 cm/us, dvx3 = -0.134302 cm/us, dvx4 = -0.192342 cm/us 
+E = 3500V/cm,   Vx = -4.96971 cm/us,  dvx1 = -0.0861324 cm/us,  dvx2 =  -0.0861684 cm/us, dvx3 = -0.0873497 cm/us, dvx4 = -0.0846139 cm/us 
+E = 4000V/cm,   Vx = -5.05584 cm/us,  dvx1 = 0.00447003 cm/us,  dvx2 =  0.00449458 cm/us, dvx3 = 0.0056365 cm/us, dvx4 = 0.0245174 cm/us 
+E = 4500V/cm,   Vx = -5.05138 cm/us,  dvx1 = 0.0274958 cm/us,  dvx2 =  0.027566 cm/us, dvx3 = 0.0310661 cm/us, dvx4 = 0.0667405 cm/us 
+E = 5000V/cm,   Vx = -5.02389 cm/us,  dvx1 = 0.0439723 cm/us,  dvx2 =  0.0440579 cm/us, dvx3 = 0.0487585 cm/us, dvx4 = 0.0982699 cm/us 
+E = 5500V/cm,   Vx = -4.97993 cm/us,  dvx1 = 0.0543184 cm/us,  dvx2 =  0.0544196 cm/us, dvx3 = 0.060442 cm/us, dvx4 = 0.105958 cm/us 
+E = 6000V/cm,   Vx = -4.92562 cm/us,  dvx1 = 0.0484158 cm/us,  dvx2 =  0.0484766 cm/us, dvx3 = 0.0522659 cm/us, dvx4 = 0.0661144 cm/us 
+E = 6500V/cm,   Vx = -4.87721 cm/us,  dvx1 = 0.0195529 cm/us,  dvx2 =  0.0195393 cm/us, dvx3 = 0.018431 cm/us, dvx4 = -0.00479301 cm/us 
+E = 7000V/cm,   Vx = -4.85765 cm/us,  dvx1 = -0.0161472 cm/us,  dvx2 =  -0.0161918 cm/us, dvx3 = -0.0197782 cm/us, dvx4 = -0.0504437 cm/us 
+E = 7500V/cm,   Vx = -4.8738 cm/us,  dvx1 = -0.0248332 cm/us,  dvx2 =  -0.0248741 cm/us, dvx3 = -0.0282867 cm/us, dvx4 = -0.0642559 cm/us 
+E = 8000V/cm,   Vx = -4.89863 cm/us,  dvx1 = -0.0251958 cm/us,  dvx2 =  -0.0252457 cm/us, dvx3 = -0.0296108 cm/us, dvx4 = -0.080461 cm/us 
+E = 8500V/cm,   Vx = -4.92382 cm/us,  dvx1 = -0.0311394 cm/us,  dvx2 =  -0.0312055 cm/us, dvx3 = -0.0375433 cm/us, dvx4 = -0.114581 cm/us 
+E = 9000V/cm,   Vx = -4.95495 cm/us,  dvx1 = -0.0427695 cm/us,  dvx2 =  -0.0428641 cm/us, dvx3 = -0.0524747 cm/us, dvx4 = -0.163203 cm/us 
+E = 9500V/cm,   Vx = -4.99771 cm/us,  dvx1 = -0.0605387 cm/us,  dvx2 =  -0.060662 cm/us, dvx3 = -0.0738303 cm/us, dvx4 = -0.198349 cm/us 
+E = 10000V/cm,   Vx = -5.05823 cm/us,  dvx1 = -0.0765102 cm/us,  dvx2 =  -0.0766329 cm/us, dvx3 = -0.0901249 cm/us, dvx4 = -0.212779 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(91-9).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (91/9)
-E = 20V/cm,   Vx = -0.0698014 cm/us,  Delta_vx = -0.0751211 cm/us
-E = 30V/cm,   Vx = -0.136709 cm/us,  Delta_vx = -0.0761651 cm/us
-E = 40V/cm,   Vx = -0.207807 cm/us,  Delta_vx = -0.0751143 cm/us
-E = 50V/cm,   Vx = -0.276778 cm/us,  Delta_vx = -0.0724687 cm/us
-E = 60V/cm,   Vx = -0.341583 cm/us,  Delta_vx = -0.0783473 cm/us
-E = 70V/cm,   Vx = -0.413043 cm/us,  Delta_vx = -0.0742176 cm/us
-E = 80V/cm,   Vx = -0.48008 cm/us,  Delta_vx = -0.0807945 cm/us
-E = 90V/cm,   Vx = -0.553521 cm/us,  Delta_vx = -0.0806111 cm/us
-E = 100V/cm,   Vx = -0.62684 cm/us,  Delta_vx = -0.0794387 cm/us
-E = 110V/cm,   Vx = -0.699082 cm/us,  Delta_vx = -0.0822646 cm/us
-E = 120V/cm,   Vx = -0.773441 cm/us,  Delta_vx = -0.0883421 cm/us
-E = 130V/cm,   Vx = -0.853863 cm/us,  Delta_vx = -0.0877462 cm/us
-E = 140V/cm,   Vx = -0.933575 cm/us,  Delta_vx = -0.0899428 cm/us
-E = 150V/cm,   Vx = -1.0152 cm/us,  Delta_vx = -0.0933395 cm/us
-E = 160V/cm,   Vx = -1.09982 cm/us,  Delta_vx = -0.0966711 cm/us
-E = 170V/cm,   Vx = -1.18763 cm/us,  Delta_vx = -0.0969763 cm/us
-E = 180V/cm,   Vx = -1.27584 cm/us,  Delta_vx = -0.0972553 cm/us
-E = 190V/cm,   Vx = -1.36418 cm/us,  Delta_vx = -0.100106 cm/us
-E = 200V/cm,   Vx = -1.455 cm/us,  Delta_vx = -0.103677 cm/us
-E = 210V/cm,   Vx = -1.54911 cm/us,  Delta_vx = -0.107113 cm/us
-E = 220V/cm,   Vx = -1.64634 cm/us,  Delta_vx = -0.109881 cm/us
-E = 230V/cm,   Vx = -1.74613 cm/us,  Delta_vx = -0.111818 cm/us
-E = 240V/cm,   Vx = -1.84778 cm/us,  Delta_vx = -0.112628 cm/us
-E = 250V/cm,   Vx = -1.95009 cm/us,  Delta_vx = -0.114276 cm/us
-E = 260V/cm,   Vx = -2.05391 cm/us,  Delta_vx = -0.116899 cm/us
-E = 270V/cm,   Vx = -2.16006 cm/us,  Delta_vx = -0.118628 cm/us
-E = 280V/cm,   Vx = -2.26786 cm/us,  Delta_vx = -0.119376 cm/us
-E = 290V/cm,   Vx = -2.37635 cm/us,  Delta_vx = -0.118708 cm/us
-E = 300V/cm,   Vx = -2.48434 cm/us,  Delta_vx = -0.117813 cm/us
-E = 310V/cm,   Vx = -2.59146 cm/us,  Delta_vx = -0.117478 cm/us
-E = 320V/cm,   Vx = -2.69827 cm/us,  Delta_vx = -0.117906 cm/us
-E = 330V/cm,   Vx = -2.8054 cm/us,  Delta_vx = -0.117902 cm/us
-E = 340V/cm,   Vx = -2.91264 cm/us,  Delta_vx = -0.116603 cm/us
-E = 350V/cm,   Vx = -3.0187 cm/us,  Delta_vx = -0.115305 cm/us
-E = 360V/cm,   Vx = -3.12358 cm/us,  Delta_vx = -0.112461 cm/us
-E = 370V/cm,   Vx = -3.22596 cm/us,  Delta_vx = -0.109629 cm/us
-E = 380V/cm,   Vx = -3.32574 cm/us,  Delta_vx = -0.107055 cm/us
-E = 390V/cm,   Vx = -3.42318 cm/us,  Delta_vx = -0.104481 cm/us
-E = 400V/cm,   Vx = -3.51828 cm/us,  Delta_vx = -0.10184 cm/us
-E = 450V/cm,   Vx = -3.611 cm/us,  Delta_vx = -0.429234 cm/us
-E = 500V/cm,   Vx = -4.03257 cm/us,  Delta_vx = -0.345943 cm/us
-E = 550V/cm,   Vx = -4.37268 cm/us,  Delta_vx = -0.251611 cm/us
-E = 600V/cm,   Vx = -4.62027 cm/us,  Delta_vx = -0.167991 cm/us
-E = 650V/cm,   Vx = -4.7857 cm/us,  Delta_vx = -0.103215 cm/us
-E = 700V/cm,   Vx = -4.88746 cm/us,  Delta_vx = -0.0444806 cm/us
-E = 750V/cm,   Vx = -4.93155 cm/us,  Delta_vx = 6.40466e-05 cm/us
-E = 800V/cm,   Vx = -4.93182 cm/us,  Delta_vx = 0.0261182 cm/us
-E = 850V/cm,   Vx = -4.90639 cm/us,  Delta_vx = 0.0416878 cm/us
-E = 900V/cm,   Vx = -4.86557 cm/us,  Delta_vx = 0.0470535 cm/us
-E = 950V/cm,   Vx = -4.81949 cm/us,  Delta_vx = 0.0530674 cm/us
-E = 1000V/cm,   Vx = -4.7675 cm/us,  Delta_vx = 0.0545375 cm/us
-E = 1500V/cm,   Vx = -4.71403 cm/us,  Delta_vx = 0.287257 cm/us
-E = 2000V/cm,   Vx = -4.42688 cm/us,  Delta_vx = -0.0653869 cm/us
-E = 2500V/cm,   Vx = -4.49196 cm/us,  Delta_vx = -0.167419 cm/us
-E = 3000V/cm,   Vx = -4.65912 cm/us,  Delta_vx = -0.124258 cm/us
-E = 3500V/cm,   Vx = -4.78315 cm/us,  Delta_vx = -0.0459992 cm/us
-E = 4000V/cm,   Vx = -4.82913 cm/us,  Delta_vx = 0.0259318 cm/us
-E = 4500V/cm,   Vx = -4.80331 cm/us,  Delta_vx = 0.0540915 cm/us
-E = 5000V/cm,   Vx = -4.74932 cm/us,  Delta_vx = 0.0497265 cm/us
-E = 5500V/cm,   Vx = -4.69969 cm/us,  Delta_vx = 0.0411708 cm/us
-E = 6000V/cm,   Vx = -4.65858 cm/us,  Delta_vx = 0.0244143 cm/us
-E = 6500V/cm,   Vx = -4.6342 cm/us,  Delta_vx = 0.00653528 cm/us
-E = 7000V/cm,   Vx = -4.62765 cm/us,  Delta_vx = -0.0152126 cm/us
-E = 7500V/cm,   Vx = -4.64281 cm/us,  Delta_vx = -0.0295869 cm/us
-E = 8000V/cm,   Vx = -4.67233 cm/us,  Delta_vx = -0.0402549 cm/us
-E = 8500V/cm,   Vx = -4.71249 cm/us,  Delta_vx = -0.0491607 cm/us
-E = 9000V/cm,   Vx = -4.76154 cm/us,  Delta_vx = -0.061992 cm/us
-E = 9500V/cm,   Vx = -4.82339 cm/us,  Delta_vx = -0.0792005 cm/us
-E = 10000V/cm,   Vx = -4.90242 cm/us,  Delta_vx = -0.0951646 cm/us
+E = 20V/cm,   Vx = -0.0698014 cm/us,  dvx1 = -0.0677158 cm/us,  dvx2 =  -0.0751211 cm/us, dvx3 = -0.0685269 cm/us, dvx4 = -0.0822646 cm/us 
+E = 30V/cm,   Vx = -0.136709 cm/us,  dvx1 = -0.0716047 cm/us,  dvx2 =  -0.0761651 cm/us, dvx3 = -0.0726175 cm/us, dvx4 = -0.0868499 cm/us 
+E = 40V/cm,   Vx = -0.207807 cm/us,  dvx1 = -0.0696321 cm/us,  dvx2 =  -0.0751143 cm/us, dvx3 = -0.0715996 cm/us, dvx4 = -0.0912573 cm/us 
+E = 50V/cm,   Vx = -0.276778 cm/us,  dvx1 = -0.0656048 cm/us,  dvx2 =  -0.0724687 cm/us, dvx3 = -0.068805 cm/us, dvx4 = -0.101257 cm/us 
+E = 60V/cm,   Vx = -0.341583 cm/us,  dvx1 = -0.0721506 cm/us,  dvx2 =  -0.0783473 cm/us, dvx3 = -0.0755974 cm/us, dvx4 = -0.111689 cm/us 
+E = 70V/cm,   Vx = -0.413043 cm/us,  dvx1 = -0.0677522 cm/us,  dvx2 =  -0.0742176 cm/us, dvx3 = -0.0720582 cm/us, dvx4 = -0.118297 cm/us 
+E = 80V/cm,   Vx = -0.48008 cm/us,  dvx1 = -0.074177 cm/us,  dvx2 =  -0.0807945 cm/us, dvx3 = -0.0793242 cm/us, dvx4 = -0.132159 cm/us 
+E = 90V/cm,   Vx = -0.553521 cm/us,  dvx1 = -0.074048 cm/us,  dvx2 =  -0.0806111 cm/us, dvx3 = -0.0798821 cm/us, dvx4 = -0.138395 cm/us 
+E = 100V/cm,   Vx = -0.62684 cm/us,  dvx1 = -0.0729607 cm/us,  dvx2 =  -0.0794387 cm/us, dvx3 = -0.0794387 cm/us, dvx4 = -0.146601 cm/us 
+E = 110V/cm,   Vx = -0.699082 cm/us,  dvx1 = -0.075148 cm/us,  dvx2 =  -0.0822646 cm/us, dvx3 = -0.083057 cm/us, dvx4 = -0.162701 cm/us 
+E = 120V/cm,   Vx = -0.773441 cm/us,  dvx1 = -0.0812134 cm/us,  dvx2 =  -0.0883421 cm/us, dvx3 = -0.0899275 cm/us, dvx4 = -0.176213 cm/us 
+E = 130V/cm,   Vx = -0.853863 cm/us,  dvx1 = -0.0805153 cm/us,  dvx2 =  -0.0877462 cm/us, dvx3 = -0.0901585 cm/us, dvx4 = -0.186381 cm/us 
+E = 140V/cm,   Vx = -0.933575 cm/us,  dvx1 = -0.0824512 cm/us,  dvx2 =  -0.0899428 cm/us, dvx3 = -0.0932793 cm/us, dvx4 = -0.201186 cm/us 
+E = 150V/cm,   Vx = -1.0152 cm/us,  dvx1 = -0.0854988 cm/us,  dvx2 =  -0.0933395 cm/us, dvx3 = -0.0977009 cm/us, dvx4 = -0.216915 cm/us 
+E = 160V/cm,   Vx = -1.09982 cm/us,  dvx1 = -0.0886915 cm/us,  dvx2 =  -0.0966711 cm/us, dvx3 = -0.101998 cm/us, dvx4 = -0.228839 cm/us 
+E = 170V/cm,   Vx = -1.18763 cm/us,  dvx1 = -0.0890858 cm/us,  dvx2 =  -0.0969763 cm/us, dvx3 = -0.103122 cm/us, dvx4 = -0.239687 cm/us 
+E = 180V/cm,   Vx = -1.27584 cm/us,  dvx1 = -0.08923 cm/us,  dvx2 =  -0.0972553 cm/us, dvx3 = -0.104399 cm/us, dvx4 = -0.254224 cm/us 
+E = 190V/cm,   Vx = -1.36418 cm/us,  dvx1 = -0.0917486 cm/us,  dvx2 =  -0.100106 cm/us, dvx3 = -0.108485 cm/us, dvx4 = -0.272289 cm/us 
+E = 200V/cm,   Vx = -1.455 cm/us,  dvx1 = -0.0950665 cm/us,  dvx2 =  -0.103677 cm/us, dvx3 = -0.113272 cm/us, dvx4 = -0.291127 cm/us 
+E = 210V/cm,   Vx = -1.54911 cm/us,  dvx1 = -0.0982129 cm/us,  dvx2 =  -0.107113 cm/us, dvx3 = -0.118014 cm/us, dvx4 = -0.308834 cm/us 
+E = 220V/cm,   Vx = -1.64634 cm/us,  dvx1 = -0.100799 cm/us,  dvx2 =  -0.109881 cm/us, dvx3 = -0.122015 cm/us, dvx4 = -0.324401 cm/us 
+E = 230V/cm,   Vx = -1.74613 cm/us,  dvx1 = -0.102669 cm/us,  dvx2 =  -0.111818 cm/us, dvx3 = -0.125053 cm/us, dvx4 = -0.339215 cm/us 
+E = 240V/cm,   Vx = -1.84778 cm/us,  dvx1 = -0.103345 cm/us,  dvx2 =  -0.112628 cm/us, dvx3 = -0.127092 cm/us, dvx4 = -0.355317 cm/us 
+E = 250V/cm,   Vx = -1.95009 cm/us,  dvx1 = -0.104858 cm/us,  dvx2 =  -0.114276 cm/us, dvx3 = -0.129999 cm/us, dvx4 = -0.37193 cm/us 
+E = 260V/cm,   Vx = -2.05391 cm/us,  dvx1 = -0.107223 cm/us,  dvx2 =  -0.116899 cm/us, dvx3 = -0.134113 cm/us, dvx4 = -0.387498 cm/us 
+E = 270V/cm,   Vx = -2.16006 cm/us,  dvx1 = -0.108891 cm/us,  dvx2 =  -0.118628 cm/us, dvx3 = -0.137035 cm/us, dvx4 = -0.399297 cm/us 
+E = 280V/cm,   Vx = -2.26786 cm/us,  dvx1 = -0.109578 cm/us,  dvx2 =  -0.119376 cm/us, dvx3 = -0.138989 cm/us, dvx4 = -0.409066 cm/us 
+E = 290V/cm,   Vx = -2.37635 cm/us,  dvx1 = -0.109056 cm/us,  dvx2 =  -0.118708 cm/us, dvx3 = -0.139079 cm/us, dvx4 = -0.418254 cm/us 
+E = 300V/cm,   Vx = -2.48434 cm/us,  dvx1 = -0.108188 cm/us,  dvx2 =  -0.117813 cm/us, dvx3 = -0.139194 cm/us, dvx4 = -0.428303 cm/us 
+E = 310V/cm,   Vx = -2.59146 cm/us,  dvx1 = -0.10788 cm/us,  dvx2 =  -0.117478 cm/us, dvx3 = -0.139864 cm/us, dvx4 = -0.437788 cm/us 
+E = 320V/cm,   Vx = -2.69827 cm/us,  dvx1 = -0.108206 cm/us,  dvx2 =  -0.117906 cm/us, dvx3 = -0.141574 cm/us, dvx4 = -0.446149 cm/us 
+E = 330V/cm,   Vx = -2.8054 cm/us,  dvx1 = -0.108309 cm/us,  dvx2 =  -0.117902 cm/us, dvx3 = -0.142374 cm/us, dvx4 = -0.450743 cm/us 
+E = 340V/cm,   Vx = -2.91264 cm/us,  dvx1 = -0.107117 cm/us,  dvx2 =  -0.116603 cm/us, dvx3 = -0.141854 cm/us, dvx4 = -0.452358 cm/us 
+E = 350V/cm,   Vx = -3.0187 cm/us,  dvx1 = -0.105924 cm/us,  dvx2 =  -0.115305 cm/us, dvx3 = -0.141147 cm/us, dvx4 = -0.452321 cm/us 
+E = 360V/cm,   Vx = -3.12358 cm/us,  dvx1 = -0.103387 cm/us,  dvx2 =  -0.112461 cm/us, dvx3 = -0.138568 cm/us, dvx4 = -0.450648 cm/us 
+E = 370V/cm,   Vx = -3.22596 cm/us,  dvx1 = -0.100766 cm/us,  dvx2 =  -0.109629 cm/us, dvx3 = -0.136106 cm/us, dvx4 = -0.448302 cm/us 
+E = 380V/cm,   Vx = -3.32574 cm/us,  dvx1 = -0.0984025 cm/us,  dvx2 =  -0.107055 cm/us, dvx3 = -0.133853 cm/us, dvx4 = -0.445158 cm/us 
+E = 390V/cm,   Vx = -3.42318 cm/us,  dvx1 = -0.0960389 cm/us,  dvx2 =  -0.104481 cm/us, dvx3 = -0.131567 cm/us, dvx4 = -0.440958 cm/us 
+E = 400V/cm,   Vx = -3.51828 cm/us,  dvx1 = -0.093632 cm/us,  dvx2 =  -0.10184 cm/us, dvx3 = -0.129038 cm/us, dvx4 = -0.435753 cm/us 
+E = 450V/cm,   Vx = -3.611 cm/us,  dvx1 = -0.422335 cm/us,  dvx2 =  -0.429234 cm/us, dvx3 = -0.455804 cm/us, dvx4 = -0.732024 cm/us 
+E = 500V/cm,   Vx = -4.03257 cm/us,  dvx1 = -0.340701 cm/us,  dvx2 =  -0.345943 cm/us, dvx3 = -0.368894 cm/us, dvx4 = -0.587703 cm/us 
+E = 550V/cm,   Vx = -4.37268 cm/us,  dvx1 = -0.24799 cm/us,  dvx2 =  -0.251611 cm/us, dvx3 = -0.269362 cm/us, dvx4 = -0.425579 cm/us 
+E = 600V/cm,   Vx = -4.62027 cm/us,  dvx1 = -0.165686 cm/us,  dvx2 =  -0.167991 cm/us, dvx3 = -0.180478 cm/us, dvx4 = -0.280724 cm/us 
+E = 650V/cm,   Vx = -4.7857 cm/us,  dvx1 = -0.101905 cm/us,  dvx2 =  -0.103215 cm/us, dvx3 = -0.110818 cm/us, dvx4 = -0.150024 cm/us 
+E = 700V/cm,   Vx = -4.88746 cm/us,  dvx1 = -0.0441327 cm/us,  dvx2 =  -0.0444806 cm/us, dvx3 = -0.0464771 cm/us, dvx4 = -0.0362736 cm/us 
+E = 750V/cm,   Vx = -4.93155 cm/us,  dvx1 = -0.000241274 cm/us,  dvx2 =  6.40466e-05 cm/us, dvx3 = 0.00243578 cm/us, dvx4 = 0.0443703 cm/us 
+E = 800V/cm,   Vx = -4.93182 cm/us,  dvx1 = 0.0255011 cm/us,  dvx2 =  0.0261182 cm/us, dvx3 = 0.0311096 cm/us, dvx4 = 0.0931966 cm/us 
+E = 850V/cm,   Vx = -4.90639 cm/us,  dvx1 = 0.04091 cm/us,  dvx2 =  0.0416878 cm/us, dvx3 = 0.0482425 cm/us, dvx4 = 0.122733 cm/us 
+E = 900V/cm,   Vx = -4.86557 cm/us,  dvx1 = 0.0461703 cm/us,  dvx2 =  0.0470535 cm/us, dvx3 = 0.0549879 cm/us, dvx4 = 0.14089 cm/us 
+E = 950V/cm,   Vx = -4.81949 cm/us,  dvx1 = 0.0520998 cm/us,  dvx2 =  0.0530674 cm/us, dvx3 = 0.0621968 cm/us, dvx4 = 0.152463 cm/us 
+E = 1000V/cm,   Vx = -4.7675 cm/us,  dvx1 = 0.0535803 cm/us,  dvx2 =  0.0545375 cm/us, dvx3 = 0.0640993 cm/us, dvx4 = 0.150959 cm/us 
+E = 1500V/cm,   Vx = -4.71403 cm/us,  dvx1 = 0.287156 cm/us,  dvx2 =  0.287257 cm/us, dvx3 = 0.288678 cm/us, dvx4 = 0.289986 cm/us 
+E = 2000V/cm,   Vx = -4.42688 cm/us,  dvx1 = -0.0651096 cm/us,  dvx2 =  -0.0653869 cm/us, dvx3 = -0.0712875 cm/us, dvx4 = -0.131706 cm/us 
+E = 2500V/cm,   Vx = -4.49196 cm/us,  dvx1 = -0.167183 cm/us,  dvx2 =  -0.167419 cm/us, dvx3 = -0.17367 cm/us, dvx4 = -0.227892 cm/us 
+E = 3000V/cm,   Vx = -4.65912 cm/us,  dvx1 = -0.124056 cm/us,  dvx2 =  -0.124258 cm/us, dvx3 = -0.130657 cm/us, dvx4 = -0.162482 cm/us 
+E = 3500V/cm,   Vx = -4.78315 cm/us,  dvx1 = -0.0459838 cm/us,  dvx2 =  -0.0459992 cm/us, dvx3 = -0.0464283 cm/us, dvx4 = -0.0349041 cm/us 
+E = 4000V/cm,   Vx = -4.82913 cm/us,  dvx1 = 0.0258356 cm/us,  dvx2 =  0.0259318 cm/us, dvx3 = 0.0301889 cm/us, dvx4 = 0.0699725 cm/us 
+E = 4500V/cm,   Vx = -4.80331 cm/us,  dvx1 = 0.0540033 cm/us,  dvx2 =  0.0540915 cm/us, dvx3 = 0.0583895 cm/us, dvx4 = 0.0987826 cm/us 
+E = 5000V/cm,   Vx = -4.74932 cm/us,  dvx1 = 0.0496401 cm/us,  dvx2 =  0.0497265 cm/us, dvx3 = 0.054393 cm/us, dvx4 = 0.0907366 cm/us 
+E = 5500V/cm,   Vx = -4.69969 cm/us,  dvx1 = 0.0411125 cm/us,  dvx2 =  0.0411708 cm/us, dvx3 = 0.0445704 cm/us, dvx4 = 0.0669928 cm/us 
+E = 6000V/cm,   Vx = -4.65858 cm/us,  dvx1 = 0.0243855 cm/us,  dvx2 =  0.0244143 cm/us, dvx3 = 0.0261652 cm/us, dvx4 = 0.0292035 cm/us 
+E = 6500V/cm,   Vx = -4.6342 cm/us,  dvx1 = 0.00654793 cm/us,  dvx2 =  0.00653528 cm/us, dvx3 = 0.00550023 cm/us, dvx4 = -0.0163474 cm/us 
+E = 7000V/cm,   Vx = -4.62765 cm/us,  dvx1 = -0.0151706 cm/us,  dvx2 =  -0.0152126 cm/us, dvx3 = -0.0185909 cm/us, dvx4 = -0.0594091 cm/us 
+E = 7500V/cm,   Vx = -4.64281 cm/us,  dvx1 = -0.0295246 cm/us,  dvx2 =  -0.0295869 cm/us, dvx3 = -0.0348304 cm/us, dvx4 = -0.0927771 cm/us 
+E = 8000V/cm,   Vx = -4.67233 cm/us,  dvx1 = -0.0401725 cm/us,  dvx2 =  -0.0402549 cm/us, dvx3 = -0.0474795 cm/us, dvx4 = -0.124678 cm/us 
+E = 8500V/cm,   Vx = -4.71249 cm/us,  dvx1 = -0.0490613 cm/us,  dvx2 =  -0.0491607 cm/us, dvx3 = -0.0586201 cm/us, dvx4 = -0.164542 cm/us 
+E = 9000V/cm,   Vx = -4.76154 cm/us,  dvx1 = -0.0618641 cm/us,  dvx2 =  -0.061992 cm/us, dvx3 = -0.0748964 cm/us, dvx4 = -0.215592 cm/us 
+E = 9500V/cm,   Vx = -4.82339 cm/us,  dvx1 = -0.0790438 cm/us,  dvx2 =  -0.0792005 cm/us, dvx3 = -0.0958463 cm/us, dvx4 = -0.251993 cm/us 
+E = 10000V/cm,   Vx = -4.90242 cm/us,  dvx1 = -0.0950087 cm/us,  dvx2 =  -0.0951646 cm/us, dvx3 = -0.112319 cm/us, dvx4 = -0.268271 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(92-8).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (92/8)
-E = 20V/cm,   Vx = -0.0754203 cm/us,  Delta_vx = -0.0842867 cm/us
-E = 30V/cm,   Vx = -0.150499 cm/us,  Delta_vx = -0.0840366 cm/us
-E = 40V/cm,   Vx = -0.225779 cm/us,  Delta_vx = -0.0852041 cm/us
-E = 50V/cm,   Vx = -0.303263 cm/us,  Delta_vx = -0.0827782 cm/us
-E = 60V/cm,   Vx = -0.378393 cm/us,  Delta_vx = -0.0848452 cm/us
-E = 70V/cm,   Vx = -0.455694 cm/us,  Delta_vx = -0.0859008 cm/us
-E = 80V/cm,   Vx = -0.533833 cm/us,  Delta_vx = -0.0891925 cm/us
-E = 90V/cm,   Vx = -0.614416 cm/us,  Delta_vx = -0.0940412 cm/us
-E = 100V/cm,   Vx = -0.700135 cm/us,  Delta_vx = -0.0907029 cm/us
-E = 110V/cm,   Vx = -0.782562 cm/us,  Delta_vx = -0.0951748 cm/us
-E = 120V/cm,   Vx = -0.868544 cm/us,  Delta_vx = -0.101581 cm/us
-E = 130V/cm,   Vx = -0.961379 cm/us,  Delta_vx = -0.0973585 cm/us
-E = 140V/cm,   Vx = -1.04978 cm/us,  Delta_vx = -0.10486 cm/us
-E = 150V/cm,   Vx = -1.14474 cm/us,  Delta_vx = -0.109953 cm/us
-E = 160V/cm,   Vx = -1.24485 cm/us,  Delta_vx = -0.109316 cm/us
-E = 170V/cm,   Vx = -1.34414 cm/us,  Delta_vx = -0.112584 cm/us
-E = 180V/cm,   Vx = -1.44626 cm/us,  Delta_vx = -0.116569 cm/us
-E = 190V/cm,   Vx = -1.55209 cm/us,  Delta_vx = -0.118919 cm/us
-E = 200V/cm,   Vx = -1.66011 cm/us,  Delta_vx = -0.121211 cm/us
-E = 210V/cm,   Vx = -1.77019 cm/us,  Delta_vx = -0.125033 cm/us
-E = 220V/cm,   Vx = -1.88367 cm/us,  Delta_vx = -0.127559 cm/us
-E = 230V/cm,   Vx = -1.99959 cm/us,  Delta_vx = -0.127566 cm/us
-E = 240V/cm,   Vx = -2.11586 cm/us,  Delta_vx = -0.124633 cm/us
-E = 250V/cm,   Vx = -2.22912 cm/us,  Delta_vx = -0.125425 cm/us
-E = 260V/cm,   Vx = -2.34311 cm/us,  Delta_vx = -0.129511 cm/us
-E = 270V/cm,   Vx = -2.46059 cm/us,  Delta_vx = -0.132342 cm/us
-E = 280V/cm,   Vx = -2.5809 cm/us,  Delta_vx = -0.132422 cm/us
-E = 290V/cm,   Vx = -2.70128 cm/us,  Delta_vx = -0.129322 cm/us
-E = 300V/cm,   Vx = -2.81906 cm/us,  Delta_vx = -0.125813 cm/us
-E = 310V/cm,   Vx = -2.93354 cm/us,  Delta_vx = -0.123585 cm/us
-E = 320V/cm,   Vx = -3.04599 cm/us,  Delta_vx = -0.122149 cm/us
-E = 330V/cm,   Vx = -3.15705 cm/us,  Delta_vx = -0.120511 cm/us
-E = 340V/cm,   Vx = -3.26674 cm/us,  Delta_vx = -0.117641 cm/us
-E = 350V/cm,   Vx = -3.37382 cm/us,  Delta_vx = -0.114772 cm/us
-E = 360V/cm,   Vx = -3.47829 cm/us,  Delta_vx = -0.110896 cm/us
-E = 370V/cm,   Vx = -3.5793 cm/us,  Delta_vx = -0.106585 cm/us
-E = 380V/cm,   Vx = -3.67639 cm/us,  Delta_vx = -0.102386 cm/us
-E = 390V/cm,   Vx = -3.76966 cm/us,  Delta_vx = -0.0981862 cm/us
-E = 400V/cm,   Vx = -3.85911 cm/us,  Delta_vx = -0.0932792 cm/us
-E = 450V/cm,   Vx = -3.94414 cm/us,  Delta_vx = -0.364529 cm/us
-E = 500V/cm,   Vx = -4.30265 cm/us,  Delta_vx = -0.256102 cm/us
-E = 550V/cm,   Vx = -4.55466 cm/us,  Delta_vx = -0.162936 cm/us
-E = 600V/cm,   Vx = -4.71533 cm/us,  Delta_vx = -0.0802584 cm/us
-E = 650V/cm,   Vx = -4.7947 cm/us,  Delta_vx = -0.0214752 cm/us
-E = 700V/cm,   Vx = -4.8162 cm/us,  Delta_vx = 0.0210584 cm/us
-E = 750V/cm,   Vx = -4.79584 cm/us,  Delta_vx = 0.0475564 cm/us
-E = 800V/cm,   Vx = -4.74939 cm/us,  Delta_vx = 0.0602545 cm/us
-E = 850V/cm,   Vx = -4.6904 cm/us,  Delta_vx = 0.0671153 cm/us
-E = 900V/cm,   Vx = -4.62461 cm/us,  Delta_vx = 0.066682 cm/us
-E = 950V/cm,   Vx = -4.55921 cm/us,  Delta_vx = 0.0632684 cm/us
-E = 1000V/cm,   Vx = -4.4971 cm/us,  Delta_vx = 0.0562618 cm/us
-E = 1500V/cm,   Vx = -4.44189 cm/us,  Delta_vx = 0.245867 cm/us
-E = 2000V/cm,   Vx = -4.19601 cm/us,  Delta_vx = -0.102849 cm/us
-E = 2500V/cm,   Vx = -4.29852 cm/us,  Delta_vx = -0.161531 cm/us
-E = 3000V/cm,   Vx = -4.45982 cm/us,  Delta_vx = -0.10566 cm/us
-E = 3500V/cm,   Vx = -4.56531 cm/us,  Delta_vx = -0.00343045 cm/us
-E = 4000V/cm,   Vx = -4.56876 cm/us,  Delta_vx = 0.0365407 cm/us
-E = 4500V/cm,   Vx = -4.53235 cm/us,  Delta_vx = 0.069163 cm/us
-E = 5000V/cm,   Vx = -4.46331 cm/us,  Delta_vx = 0.0453562 cm/us
-E = 5500V/cm,   Vx = -4.41801 cm/us,  Delta_vx = 0.0231113 cm/us
-E = 6000V/cm,   Vx = -4.39494 cm/us,  Delta_vx = 0.0151628 cm/us
-E = 6500V/cm,   Vx = -4.3798 cm/us,  Delta_vx = 0.00117658 cm/us
-E = 7000V/cm,   Vx = -4.37861 cm/us,  Delta_vx = -0.0157403 cm/us
-E = 7500V/cm,   Vx = -4.3943 cm/us,  Delta_vx = -0.038018 cm/us
-E = 8000V/cm,   Vx = -4.43222 cm/us,  Delta_vx = -0.0578105 cm/us
-E = 8500V/cm,   Vx = -4.4899 cm/us,  Delta_vx = -0.0696959 cm/us
-E = 9000V/cm,   Vx = -4.55945 cm/us,  Delta_vx = -0.0785169 cm/us
-E = 9500V/cm,   Vx = -4.6378 cm/us,  Delta_vx = -0.0842543 cm/us
-E = 10000V/cm,   Vx = -4.72188 cm/us,  Delta_vx = -0.0909789 cm/us
+E = 20V/cm,   Vx = -0.0754203 cm/us,  dvx1 = -0.0759872 cm/us,  dvx2 =  -0.0842867 cm/us, dvx3 = -0.0768986 cm/us, dvx4 = -0.0926349 cm/us 
+E = 30V/cm,   Vx = -0.150499 cm/us,  dvx1 = -0.0761582 cm/us,  dvx2 =  -0.0840366 cm/us, dvx3 = -0.0779127 cm/us, dvx4 = -0.101126 cm/us 
+E = 40V/cm,   Vx = -0.225779 cm/us,  dvx1 = -0.0782575 cm/us,  dvx2 =  -0.0852041 cm/us, dvx3 = -0.0805805 cm/us, dvx4 = -0.10805 cm/us 
+E = 50V/cm,   Vx = -0.303263 cm/us,  dvx1 = -0.0758747 cm/us,  dvx2 =  -0.0827782 cm/us, dvx3 = -0.0788623 cm/us, dvx4 = -0.114256 cm/us 
+E = 60V/cm,   Vx = -0.378393 cm/us,  dvx1 = -0.0780552 cm/us,  dvx2 =  -0.0848452 cm/us, dvx3 = -0.0818274 cm/us, dvx4 = -0.123645 cm/us 
+E = 70V/cm,   Vx = -0.455694 cm/us,  dvx1 = -0.0789127 cm/us,  dvx2 =  -0.0859008 cm/us, dvx3 = -0.0835675 cm/us, dvx4 = -0.133393 cm/us 
+E = 80V/cm,   Vx = -0.533833 cm/us,  dvx1 = -0.0814432 cm/us,  dvx2 =  -0.0891925 cm/us, dvx3 = -0.0874687 cm/us, dvx4 = -0.149607 cm/us 
+E = 90V/cm,   Vx = -0.614416 cm/us,  dvx1 = -0.0865521 cm/us,  dvx2 =  -0.0940412 cm/us, dvx3 = -0.0932098 cm/us, dvx4 = -0.159911 cm/us 
+E = 100V/cm,   Vx = -0.700135 cm/us,  dvx1 = -0.0832522 cm/us,  dvx2 =  -0.0907029 cm/us, dvx3 = -0.0907029 cm/us, dvx4 = -0.168409 cm/us 
+E = 110V/cm,   Vx = -0.782562 cm/us,  dvx1 = -0.0869006 cm/us,  dvx2 =  -0.0951748 cm/us, dvx3 = -0.0960954 cm/us, dvx4 = -0.187564 cm/us 
+E = 120V/cm,   Vx = -0.868544 cm/us,  dvx1 = -0.0937086 cm/us,  dvx2 =  -0.101581 cm/us, dvx3 = -0.103333 cm/us, dvx4 = -0.19917 cm/us 
+E = 130V/cm,   Vx = -0.961379 cm/us,  dvx1 = -0.0892977 cm/us,  dvx2 =  -0.0973585 cm/us, dvx3 = -0.100049 cm/us, dvx4 = -0.213177 cm/us 
+E = 140V/cm,   Vx = -1.04978 cm/us,  dvx1 = -0.0959477 cm/us,  dvx2 =  -0.10486 cm/us, dvx3 = -0.108831 cm/us, dvx4 = -0.234558 cm/us 
+E = 150V/cm,   Vx = -1.14474 cm/us,  dvx1 = -0.101092 cm/us,  dvx2 =  -0.109953 cm/us, dvx3 = -0.114882 cm/us, dvx4 = -0.249737 cm/us 
+E = 160V/cm,   Vx = -1.24485 cm/us,  dvx1 = -0.100287 cm/us,  dvx2 =  -0.109316 cm/us, dvx3 = -0.115344 cm/us, dvx4 = -0.264577 cm/us 
+E = 170V/cm,   Vx = -1.34414 cm/us,  dvx1 = -0.10317 cm/us,  dvx2 =  -0.112584 cm/us, dvx3 = -0.119921 cm/us, dvx4 = -0.283431 cm/us 
+E = 180V/cm,   Vx = -1.44626 cm/us,  dvx1 = -0.106905 cm/us,  dvx2 =  -0.116569 cm/us, dvx3 = -0.125178 cm/us, dvx4 = -0.301716 cm/us 
+E = 190V/cm,   Vx = -1.55209 cm/us,  dvx1 = -0.109109 cm/us,  dvx2 =  -0.118919 cm/us, dvx3 = -0.128747 cm/us, dvx4 = -0.32003 cm/us 
+E = 200V/cm,   Vx = -1.66011 cm/us,  dvx1 = -0.111184 cm/us,  dvx2 =  -0.121211 cm/us, dvx3 = -0.132376 cm/us, dvx4 = -0.339471 cm/us 
+E = 210V/cm,   Vx = -1.77019 cm/us,  dvx1 = -0.114636 cm/us,  dvx2 =  -0.125033 cm/us, dvx3 = -0.13775 cm/us, dvx4 = -0.356966 cm/us 
+E = 220V/cm,   Vx = -1.88367 cm/us,  dvx1 = -0.117082 cm/us,  dvx2 =  -0.127559 cm/us, dvx3 = -0.14154 cm/us, dvx4 = -0.368197 cm/us 
+E = 230V/cm,   Vx = -1.99959 cm/us,  dvx1 = -0.117401 cm/us,  dvx2 =  -0.127566 cm/us, dvx3 = -0.142259 cm/us, dvx4 = -0.377862 cm/us 
+E = 240V/cm,   Vx = -2.11586 cm/us,  dvx1 = -0.114403 cm/us,  dvx2 =  -0.124633 cm/us, dvx3 = -0.140558 cm/us, dvx4 = -0.392852 cm/us 
+E = 250V/cm,   Vx = -2.22912 cm/us,  dvx1 = -0.115131 cm/us,  dvx2 =  -0.125425 cm/us, dvx3 = -0.142596 cm/us, dvx4 = -0.411959 cm/us 
+E = 260V/cm,   Vx = -2.34311 cm/us,  dvx1 = -0.118687 cm/us,  dvx2 =  -0.129511 cm/us, dvx3 = -0.148757 cm/us, dvx4 = -0.429596 cm/us 
+E = 270V/cm,   Vx = -2.46059 cm/us,  dvx1 = -0.12151 cm/us,  dvx2 =  -0.132342 cm/us, dvx3 = -0.152802 cm/us, dvx4 = -0.438816 cm/us 
+E = 280V/cm,   Vx = -2.5809 cm/us,  dvx1 = -0.121584 cm/us,  dvx2 =  -0.132422 cm/us, dvx3 = -0.154099 cm/us, dvx4 = -0.442762 cm/us 
+E = 290V/cm,   Vx = -2.70128 cm/us,  dvx1 = -0.118938 cm/us,  dvx2 =  -0.129322 cm/us, dvx3 = -0.15119 cm/us, dvx4 = -0.444661 cm/us 
+E = 300V/cm,   Vx = -2.81906 cm/us,  dvx1 = -0.115611 cm/us,  dvx2 =  -0.125813 cm/us, dvx3 = -0.148425 cm/us, dvx4 = -0.447676 cm/us 
+E = 310V/cm,   Vx = -2.93354 cm/us,  dvx1 = -0.113566 cm/us,  dvx2 =  -0.123585 cm/us, dvx3 = -0.1469 cm/us, dvx4 = -0.450841 cm/us 
+E = 320V/cm,   Vx = -3.04599 cm/us,  dvx1 = -0.112172 cm/us,  dvx2 =  -0.122149 cm/us, dvx3 = -0.146446 cm/us, dvx4 = -0.452875 cm/us 
+E = 330V/cm,   Vx = -3.15705 cm/us,  dvx1 = -0.11077 cm/us,  dvx2 =  -0.120511 cm/us, dvx3 = -0.14531 cm/us, dvx4 = -0.451774 cm/us 
+E = 340V/cm,   Vx = -3.26674 cm/us,  dvx1 = -0.108135 cm/us,  dvx2 =  -0.117641 cm/us, dvx3 = -0.142889 cm/us, dvx4 = -0.447414 cm/us 
+E = 350V/cm,   Vx = -3.37382 cm/us,  dvx1 = -0.1055 cm/us,  dvx2 =  -0.114772 cm/us, dvx3 = -0.14033 cm/us, dvx4 = -0.441042 cm/us 
+E = 360V/cm,   Vx = -3.47829 cm/us,  dvx1 = -0.102005 cm/us,  dvx2 =  -0.110896 cm/us, dvx3 = -0.136406 cm/us, dvx4 = -0.43241 cm/us 
+E = 370V/cm,   Vx = -3.5793 cm/us,  dvx1 = -0.0980383 cm/us,  dvx2 =  -0.106585 cm/us, dvx3 = -0.132041 cm/us, dvx4 = -0.42169 cm/us 
+E = 380V/cm,   Vx = -3.67639 cm/us,  dvx1 = -0.0941823 cm/us,  dvx2 =  -0.102386 cm/us, dvx3 = -0.12771 cm/us, dvx4 = -0.409673 cm/us 
+E = 390V/cm,   Vx = -3.76966 cm/us,  dvx1 = -0.0903263 cm/us,  dvx2 =  -0.0981862 cm/us, dvx3 = -0.123206 cm/us, dvx4 = -0.396246 cm/us 
+E = 400V/cm,   Vx = -3.85911 cm/us,  dvx1 = -0.0858544 cm/us,  dvx2 =  -0.0932792 cm/us, dvx3 = -0.117776 cm/us, dvx4 = -0.381115 cm/us 
+E = 450V/cm,   Vx = -3.94414 cm/us,  dvx1 = -0.359114 cm/us,  dvx2 =  -0.364529 cm/us, dvx3 = -0.385274 cm/us, dvx4 = -0.589533 cm/us 
+E = 500V/cm,   Vx = -4.30265 cm/us,  dvx1 = -0.252421 cm/us,  dvx2 =  -0.256102 cm/us, dvx3 = -0.272115 cm/us, dvx4 = -0.412679 cm/us 
+E = 550V/cm,   Vx = -4.55466 cm/us,  dvx1 = -0.160897 cm/us,  dvx2 =  -0.162936 cm/us, dvx3 = -0.172797 cm/us, dvx4 = -0.244189 cm/us 
+E = 600V/cm,   Vx = -4.71533 cm/us,  dvx1 = -0.0794679 cm/us,  dvx2 =  -0.0802584 cm/us, dvx3 = -0.0842989 cm/us, dvx4 = -0.0998265 cm/us 
+E = 650V/cm,   Vx = -4.7947 cm/us,  dvx1 = -0.0214984 cm/us,  dvx2 =  -0.0214752 cm/us, dvx3 = -0.0210192 cm/us, dvx4 = 0.0103194 cm/us 
+E = 700V/cm,   Vx = -4.8162 cm/us,  dvx1 = 0.0204299 cm/us,  dvx2 =  0.0210584 cm/us, dvx3 = 0.0254437 cm/us, dvx4 = 0.089498 cm/us 
+E = 750V/cm,   Vx = -4.79584 cm/us,  dvx1 = 0.0465614 cm/us,  dvx2 =  0.0475564 cm/us, dvx3 = 0.0548158 cm/us, dvx4 = 0.137797 cm/us 
+E = 800V/cm,   Vx = -4.74939 cm/us,  dvx1 = 0.0591226 cm/us,  dvx2 =  0.0602545 cm/us, dvx3 = 0.069142 cm/us, dvx4 = 0.164233 cm/us 
+E = 850V/cm,   Vx = -4.6904 cm/us,  dvx1 = 0.0659228 cm/us,  dvx2 =  0.0671153 cm/us, dvx3 = 0.0770305 cm/us, dvx4 = 0.175618 cm/us 
+E = 900V/cm,   Vx = -4.62461 cm/us,  dvx1 = 0.065521 cm/us,  dvx2 =  0.066682 cm/us, dvx3 = 0.0769766 cm/us, dvx4 = 0.172127 cm/us 
+E = 950V/cm,   Vx = -4.55921 cm/us,  dvx1 = 0.0622245 cm/us,  dvx2 =  0.0632684 cm/us, dvx3 = 0.0730366 cm/us, dvx4 = 0.161994 cm/us 
+E = 1000V/cm,   Vx = -4.4971 cm/us,  dvx1 = 0.0553202 cm/us,  dvx2 =  0.0562618 cm/us, dvx3 = 0.0655765 cm/us, dvx4 = 0.147577 cm/us 
+E = 1500V/cm,   Vx = -4.44189 cm/us,  dvx1 = 0.245877 cm/us,  dvx2 =  0.245867 cm/us, dvx3 = 0.245584 cm/us, dvx4 = 0.232465 cm/us 
+E = 2000V/cm,   Vx = -4.19601 cm/us,  dvx1 = -0.102546 cm/us,  dvx2 =  -0.102849 cm/us, dvx3 = -0.109262 cm/us, dvx4 = -0.171349 cm/us 
+E = 2500V/cm,   Vx = -4.29852 cm/us,  dvx1 = -0.161316 cm/us,  dvx2 =  -0.161531 cm/us, dvx3 = -0.167191 cm/us, dvx4 = -0.214952 cm/us 
+E = 3000V/cm,   Vx = -4.45982 cm/us,  dvx1 = -0.105512 cm/us,  dvx2 =  -0.10566 cm/us, dvx3 = -0.110268 cm/us, dvx4 = -0.115652 cm/us 
+E = 3500V/cm,   Vx = -4.56531 cm/us,  dvx1 = -0.00345096 cm/us,  dvx2 =  -0.00343045 cm/us, dvx3 = -0.00256903 cm/us, dvx4 = 0.0156245 cm/us 
+E = 4000V/cm,   Vx = -4.56876 cm/us,  dvx1 = 0.0364287 cm/us,  dvx2 =  0.0365407 cm/us, dvx3 = 0.0414836 cm/us, dvx4 = 0.0921469 cm/us 
+E = 4500V/cm,   Vx = -4.53235 cm/us,  dvx1 = 0.0690462 cm/us,  dvx2 =  0.069163 cm/us, dvx3 = 0.0748111 cm/us, dvx4 = 0.111442 cm/us 
+E = 5000V/cm,   Vx = -4.46331 cm/us,  dvx1 = 0.0453062 cm/us,  dvx2 =  0.0453562 cm/us, dvx3 = 0.0479692 cm/us, dvx4 = 0.0683707 cm/us 
+E = 5500V/cm,   Vx = -4.41801 cm/us,  dvx1 = 0.0230742 cm/us,  dvx2 =  0.0231113 cm/us, dvx3 = 0.025279 cm/us, dvx4 = 0.0390062 cm/us 
+E = 6000V/cm,   Vx = -4.39494 cm/us,  dvx1 = 0.0151473 cm/us,  dvx2 =  0.0151628 cm/us, dvx3 = 0.0160764 cm/us, dvx4 = 0.01475 cm/us 
+E = 6500V/cm,   Vx = -4.3798 cm/us,  dvx1 = 0.00118738 cm/us,  dvx2 =  0.00117658 cm/us, dvx3 = 0.000247288 cm/us, dvx4 = -0.022995 cm/us 
+E = 7000V/cm,   Vx = -4.37861 cm/us,  dvx1 = -0.0156945 cm/us,  dvx2 =  -0.0157403 cm/us, dvx3 = -0.0194358 cm/us, dvx4 = -0.0746833 cm/us 
+E = 7500V/cm,   Vx = -4.3943 cm/us,  dvx1 = -0.0379291 cm/us,  dvx2 =  -0.038018 cm/us, dvx3 = -0.0455102 cm/us, dvx4 = -0.129329 cm/us 
+E = 8000V/cm,   Vx = -4.43222 cm/us,  dvx1 = -0.0576917 cm/us,  dvx2 =  -0.0578105 cm/us, dvx3 = -0.0683548 cm/us, dvx4 = -0.17321 cm/us 
+E = 8500V/cm,   Vx = -4.4899 cm/us,  dvx1 = -0.0695629 cm/us,  dvx2 =  -0.0696959 cm/us, dvx3 = -0.082244 cm/us, dvx4 = -0.206053 cm/us 
+E = 9000V/cm,   Vx = -4.55945 cm/us,  dvx1 = -0.0783716 cm/us,  dvx2 =  -0.0785169 cm/us, dvx3 = -0.0929935 cm/us, dvx4 = -0.23454 cm/us 
+E = 9500V/cm,   Vx = -4.6378 cm/us,  dvx1 = -0.0840969 cm/us,  dvx2 =  -0.0842543 cm/us, dvx3 = -0.100815 cm/us, dvx4 = -0.253441 cm/us 
+E = 10000V/cm,   Vx = -4.72188 cm/us,  dvx1 = -0.0908218 cm/us,  dvx2 =  -0.0909789 cm/us, dvx3 = -0.108262 cm/us, dvx4 = -0.265377 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(93-7).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (93/7)
-E = 20V/cm,   Vx = -0.0842374 cm/us,  Delta_vx = -0.0915301 cm/us
-E = 30V/cm,   Vx = -0.166604 cm/us,  Delta_vx = -0.0957191 cm/us
-E = 40V/cm,   Vx = -0.254153 cm/us,  Delta_vx = -0.0910671 cm/us
-E = 50V/cm,   Vx = -0.337091 cm/us,  Delta_vx = -0.0948301 cm/us
-E = 60V/cm,   Vx = -0.423136 cm/us,  Delta_vx = -0.0984851 cm/us
-E = 70V/cm,   Vx = -0.512336 cm/us,  Delta_vx = -0.101474 cm/us
-E = 80V/cm,   Vx = -0.60475 cm/us,  Delta_vx = -0.102338 cm/us
-E = 90V/cm,   Vx = -0.697414 cm/us,  Delta_vx = -0.105252 cm/us
-E = 100V/cm,   Vx = -0.793299 cm/us,  Delta_vx = -0.10551 cm/us
-E = 110V/cm,   Vx = -0.888877 cm/us,  Delta_vx = -0.110176 cm/us
-E = 120V/cm,   Vx = -0.989043 cm/us,  Delta_vx = -0.114027 cm/us
-E = 130V/cm,   Vx = -1.09188 cm/us,  Delta_vx = -0.125311 cm/us
-E = 140V/cm,   Vx = -1.2056 cm/us,  Delta_vx = -0.123861 cm/us
-E = 150V/cm,   Vx = -1.31828 cm/us,  Delta_vx = -0.125668 cm/us
-E = 160V/cm,   Vx = -1.43195 cm/us,  Delta_vx = -0.133971 cm/us
-E = 170V/cm,   Vx = -1.55356 cm/us,  Delta_vx = -0.135597 cm/us
-E = 180V/cm,   Vx = -1.67691 cm/us,  Delta_vx = -0.135604 cm/us
-E = 190V/cm,   Vx = -1.80011 cm/us,  Delta_vx = -0.138459 cm/us
-E = 200V/cm,   Vx = -1.92583 cm/us,  Delta_vx = -0.140926 cm/us
-E = 210V/cm,   Vx = -2.05387 cm/us,  Delta_vx = -0.142081 cm/us
-E = 220V/cm,   Vx = -2.18303 cm/us,  Delta_vx = -0.14224 cm/us
-E = 230V/cm,   Vx = -2.31233 cm/us,  Delta_vx = -0.14247 cm/us
-E = 240V/cm,   Vx = -2.44185 cm/us,  Delta_vx = -0.142218 cm/us
-E = 250V/cm,   Vx = -2.57116 cm/us,  Delta_vx = -0.141814 cm/us
-E = 260V/cm,   Vx = -2.7001 cm/us,  Delta_vx = -0.142602 cm/us
-E = 270V/cm,   Vx = -2.82973 cm/us,  Delta_vx = -0.141217 cm/us
-E = 280V/cm,   Vx = -2.95824 cm/us,  Delta_vx = -0.138291 cm/us
-E = 290V/cm,   Vx = -3.0841 cm/us,  Delta_vx = -0.132297 cm/us
-E = 300V/cm,   Vx = -3.2047 cm/us,  Delta_vx = -0.126322 cm/us
-E = 310V/cm,   Vx = -3.31975 cm/us,  Delta_vx = -0.121684 cm/us
-E = 320V/cm,   Vx = -3.43058 cm/us,  Delta_vx = -0.118345 cm/us
-E = 330V/cm,   Vx = -3.53824 cm/us,  Delta_vx = -0.114888 cm/us
-E = 340V/cm,   Vx = -3.64293 cm/us,  Delta_vx = -0.109501 cm/us
-E = 350V/cm,   Vx = -3.74272 cm/us,  Delta_vx = -0.104114 cm/us
-E = 360V/cm,   Vx = -3.83761 cm/us,  Delta_vx = -0.0955521 cm/us
-E = 370V/cm,   Vx = -3.92481 cm/us,  Delta_vx = -0.0888397 cm/us
-E = 380V/cm,   Vx = -4.00585 cm/us,  Delta_vx = -0.0828884 cm/us
-E = 390V/cm,   Vx = -4.08147 cm/us,  Delta_vx = -0.0769372 cm/us
-E = 400V/cm,   Vx = -4.15169 cm/us,  Delta_vx = -0.0723328 cm/us
-E = 450V/cm,   Vx = -4.21765 cm/us,  Delta_vx = -0.263007 cm/us
-E = 500V/cm,   Vx = -4.47672 cm/us,  Delta_vx = -0.146912 cm/us
-E = 550V/cm,   Vx = -4.62173 cm/us,  Delta_vx = -0.0566998 cm/us
-E = 600V/cm,   Vx = -4.67802 cm/us,  Delta_vx = 0.00530991 cm/us
-E = 650V/cm,   Vx = -4.67333 cm/us,  Delta_vx = 0.0479592 cm/us
-E = 700V/cm,   Vx = -4.62659 cm/us,  Delta_vx = 0.0723773 cm/us
-E = 750V/cm,   Vx = -4.55574 cm/us,  Delta_vx = 0.0815044 cm/us
-E = 800V/cm,   Vx = -4.4758 cm/us,  Delta_vx = 0.078894 cm/us
-E = 850V/cm,   Vx = -4.39843 cm/us,  Delta_vx = 0.0773028 cm/us
-E = 900V/cm,   Vx = -4.32263 cm/us,  Delta_vx = 0.0734908 cm/us
-E = 950V/cm,   Vx = -4.25052 cm/us,  Delta_vx = 0.0664269 cm/us
-E = 1000V/cm,   Vx = -4.18529 cm/us,  Delta_vx = 0.0561669 cm/us
-E = 1500V/cm,   Vx = -4.13013 cm/us,  Delta_vx = 0.164637 cm/us
-E = 2000V/cm,   Vx = -3.96534 cm/us,  Delta_vx = -0.137394 cm/us
-E = 2500V/cm,   Vx = -4.10241 cm/us,  Delta_vx = -0.143741 cm/us
-E = 3000V/cm,   Vx = -4.24594 cm/us,  Delta_vx = -0.0639545 cm/us
-E = 3500V/cm,   Vx = -4.30985 cm/us,  Delta_vx = 0.0199077 cm/us
-E = 4000V/cm,   Vx = -4.29002 cm/us,  Delta_vx = 0.0615467 cm/us
-E = 4500V/cm,   Vx = -4.22863 cm/us,  Delta_vx = 0.0721349 cm/us
-E = 5000V/cm,   Vx = -4.15661 cm/us,  Delta_vx = 0.0332162 cm/us
-E = 5500V/cm,   Vx = -4.12343 cm/us,  Delta_vx = 0.0268836 cm/us
-E = 6000V/cm,   Vx = -4.09661 cm/us,  Delta_vx = 0.00728449 cm/us
-E = 6500V/cm,   Vx = -4.08926 cm/us,  Delta_vx = -0.0441457 cm/us
-E = 7000V/cm,   Vx = -4.13334 cm/us,  Delta_vx = -0.0384162 cm/us
-E = 7500V/cm,   Vx = -4.17167 cm/us,  Delta_vx = -0.0498041 cm/us
-E = 8000V/cm,   Vx = -4.22136 cm/us,  Delta_vx = -0.0670596 cm/us
-E = 8500V/cm,   Vx = -4.28827 cm/us,  Delta_vx = -0.0884231 cm/us
-E = 9000V/cm,   Vx = -4.3765 cm/us,  Delta_vx = -0.0959885 cm/us
-E = 9500V/cm,   Vx = -4.47231 cm/us,  Delta_vx = -0.0883038 cm/us
-E = 10000V/cm,   Vx = -4.56044 cm/us,  Delta_vx = -0.0849071 cm/us
+E = 20V/cm,   Vx = -0.0842374 cm/us,  dvx1 = -0.08328 cm/us,  dvx2 =  -0.0915301 cm/us, dvx3 = -0.0841942 cm/us, dvx4 = -0.100814 cm/us 
+E = 30V/cm,   Vx = -0.166604 cm/us,  dvx1 = -0.0883747 cm/us,  dvx2 =  -0.0957191 cm/us, dvx3 = -0.0900203 cm/us, dvx4 = -0.111685 cm/us 
+E = 40V/cm,   Vx = -0.254153 cm/us,  dvx1 = -0.0837449 cm/us,  dvx2 =  -0.0910671 cm/us, dvx3 = -0.0861635 cm/us, dvx4 = -0.116291 cm/us 
+E = 50V/cm,   Vx = -0.337091 cm/us,  dvx1 = -0.0869368 cm/us,  dvx2 =  -0.0948301 cm/us, dvx3 = -0.0905002 cm/us, dvx4 = -0.129753 cm/us 
+E = 60V/cm,   Vx = -0.423136 cm/us,  dvx1 = -0.0901264 cm/us,  dvx2 =  -0.0984851 cm/us, dvx3 = -0.0947662 cm/us, dvx4 = -0.144815 cm/us 
+E = 70V/cm,   Vx = -0.512336 cm/us,  dvx1 = -0.0933185 cm/us,  dvx2 =  -0.101474 cm/us, dvx3 = -0.098753 cm/us, dvx4 = -0.156426 cm/us 
+E = 80V/cm,   Vx = -0.60475 cm/us,  dvx1 = -0.0936314 cm/us,  dvx2 =  -0.102338 cm/us, dvx3 = -0.100402 cm/us, dvx4 = -0.169851 cm/us 
+E = 90V/cm,   Vx = -0.697414 cm/us,  dvx1 = -0.0968208 cm/us,  dvx2 =  -0.105252 cm/us, dvx3 = -0.104315 cm/us, dvx4 = -0.181569 cm/us 
+E = 100V/cm,   Vx = -0.793299 cm/us,  dvx1 = -0.0965698 cm/us,  dvx2 =  -0.10551 cm/us, dvx3 = -0.10551 cm/us, dvx4 = -0.195745 cm/us 
+E = 110V/cm,   Vx = -0.888877 cm/us,  dvx1 = -0.101165 cm/us,  dvx2 =  -0.110176 cm/us, dvx3 = -0.11118 cm/us, dvx4 = -0.214193 cm/us 
+E = 120V/cm,   Vx = -0.989043 cm/us,  dvx1 = -0.103951 cm/us,  dvx2 =  -0.114027 cm/us, dvx3 = -0.116271 cm/us, dvx4 = -0.239774 cm/us 
+E = 130V/cm,   Vx = -1.09188 cm/us,  dvx1 = -0.114878 cm/us,  dvx2 =  -0.125311 cm/us, dvx3 = -0.128796 cm/us, dvx4 = -0.260004 cm/us 
+E = 140V/cm,   Vx = -1.2056 cm/us,  dvx1 = -0.113803 cm/us,  dvx2 =  -0.123861 cm/us, dvx3 = -0.128338 cm/us, dvx4 = -0.274577 cm/us 
+E = 150V/cm,   Vx = -1.31828 cm/us,  dvx1 = -0.114862 cm/us,  dvx2 =  -0.125668 cm/us, dvx3 = -0.131683 cm/us, dvx4 = -0.297401 cm/us 
+E = 160V/cm,   Vx = -1.43195 cm/us,  dvx1 = -0.122851 cm/us,  dvx2 =  -0.133971 cm/us, dvx3 = -0.1414 cm/us, dvx4 = -0.318707 cm/us 
+E = 170V/cm,   Vx = -1.55356 cm/us,  dvx1 = -0.124567 cm/us,  dvx2 =  -0.135597 cm/us, dvx3 = -0.144185 cm/us, dvx4 = -0.334152 cm/us 
+E = 180V/cm,   Vx = -1.67691 cm/us,  dvx1 = -0.124443 cm/us,  dvx2 =  -0.135604 cm/us, dvx3 = -0.145535 cm/us, dvx4 = -0.351237 cm/us 
+E = 190V/cm,   Vx = -1.80011 cm/us,  dvx1 = -0.126996 cm/us,  dvx2 =  -0.138459 cm/us, dvx3 = -0.149934 cm/us, dvx4 = -0.370007 cm/us 
+E = 200V/cm,   Vx = -1.92583 cm/us,  dvx1 = -0.129327 cm/us,  dvx2 =  -0.140926 cm/us, dvx3 = -0.153828 cm/us, dvx4 = -0.386498 cm/us 
+E = 210V/cm,   Vx = -2.05387 cm/us,  dvx1 = -0.130454 cm/us,  dvx2 =  -0.142081 cm/us, dvx3 = -0.156294 cm/us, dvx4 = -0.400929 cm/us 
+E = 220V/cm,   Vx = -2.18303 cm/us,  dvx1 = -0.130591 cm/us,  dvx2 =  -0.14224 cm/us, dvx3 = -0.157775 cm/us, dvx4 = -0.413945 cm/us 
+E = 230V/cm,   Vx = -2.31233 cm/us,  dvx1 = -0.130817 cm/us,  dvx2 =  -0.14247 cm/us, dvx3 = -0.159296 cm/us, dvx4 = -0.426381 cm/us 
+E = 240V/cm,   Vx = -2.44185 cm/us,  dvx1 = -0.130599 cm/us,  dvx2 =  -0.142218 cm/us, dvx3 = -0.160287 cm/us, dvx4 = -0.439603 cm/us 
+E = 250V/cm,   Vx = -2.57116 cm/us,  dvx1 = -0.130228 cm/us,  dvx2 =  -0.141814 cm/us, dvx3 = -0.161118 cm/us, dvx4 = -0.450342 cm/us 
+E = 260V/cm,   Vx = -2.7001 cm/us,  dvx1 = -0.130929 cm/us,  dvx2 =  -0.142602 cm/us, dvx3 = -0.1633 cm/us, dvx4 = -0.457397 cm/us 
+E = 270V/cm,   Vx = -2.82973 cm/us,  dvx1 = -0.129784 cm/us,  dvx2 =  -0.141217 cm/us, dvx3 = -0.162754 cm/us, dvx4 = -0.455944 cm/us 
+E = 280V/cm,   Vx = -2.95824 cm/us,  dvx1 = -0.127097 cm/us,  dvx2 =  -0.138291 cm/us, dvx3 = -0.160614 cm/us, dvx4 = -0.450507 cm/us 
+E = 290V/cm,   Vx = -3.0841 cm/us,  dvx1 = -0.121773 cm/us,  dvx2 =  -0.132297 cm/us, dvx3 = -0.154401 cm/us, dvx4 = -0.443402 cm/us 
+E = 300V/cm,   Vx = -3.2047 cm/us,  dvx1 = -0.116179 cm/us,  dvx2 =  -0.126322 cm/us, dvx3 = -0.148742 cm/us, dvx4 = -0.438226 cm/us 
+E = 310V/cm,   Vx = -3.31975 cm/us,  dvx1 = -0.11192 cm/us,  dvx2 =  -0.121684 cm/us, dvx3 = -0.144334 cm/us, dvx4 = -0.432678 cm/us 
+E = 320V/cm,   Vx = -3.43058 cm/us,  dvx1 = -0.108727 cm/us,  dvx2 =  -0.118345 cm/us, dvx3 = -0.141689 cm/us, dvx4 = -0.42542 cm/us 
+E = 330V/cm,   Vx = -3.53824 cm/us,  dvx1 = -0.10571 cm/us,  dvx2 =  -0.114888 cm/us, dvx3 = -0.138161 cm/us, dvx4 = -0.411456 cm/us 
+E = 340V/cm,   Vx = -3.64293 cm/us,  dvx1 = -0.100764 cm/us,  dvx2 =  -0.109501 cm/us, dvx3 = -0.132604 cm/us, dvx4 = -0.393822 cm/us 
+E = 350V/cm,   Vx = -3.74272 cm/us,  dvx1 = -0.0958178 cm/us,  dvx2 =  -0.104114 cm/us, dvx3 = -0.126526 cm/us, dvx4 = -0.374539 cm/us 
+E = 360V/cm,   Vx = -3.83761 cm/us,  dvx1 = -0.0880424 cm/us,  dvx2 =  -0.0955521 cm/us, dvx3 = -0.117001 cm/us, dvx4 = -0.35411 cm/us 
+E = 370V/cm,   Vx = -3.92481 cm/us,  dvx1 = -0.0818169 cm/us,  dvx2 =  -0.0888397 cm/us, dvx3 = -0.109645 cm/us, dvx4 = -0.336397 cm/us 
+E = 380V/cm,   Vx = -4.00585 cm/us,  dvx1 = -0.0763526 cm/us,  dvx2 =  -0.0828884 cm/us, dvx3 = -0.102942 cm/us, dvx4 = -0.319114 cm/us 
+E = 390V/cm,   Vx = -4.08147 cm/us,  dvx1 = -0.0708882 cm/us,  dvx2 =  -0.0769372 cm/us, dvx3 = -0.0963277 cm/us, dvx4 = -0.301499 cm/us 
+E = 400V/cm,   Vx = -4.15169 cm/us,  dvx1 = -0.0666065 cm/us,  dvx2 =  -0.0723328 cm/us, dvx3 = -0.0911429 cm/us, dvx4 = -0.283251 cm/us 
+E = 450V/cm,   Vx = -4.21765 cm/us,  dvx1 = -0.25946 cm/us,  dvx2 =  -0.263007 cm/us, dvx3 = -0.276472 cm/us, dvx4 = -0.394115 cm/us 
+E = 500V/cm,   Vx = -4.47672 cm/us,  dvx1 = -0.145206 cm/us,  dvx2 =  -0.146912 cm/us, dvx3 = -0.154181 cm/us, dvx4 = -0.201301 cm/us 
+E = 550V/cm,   Vx = -4.62173 cm/us,  dvx1 = -0.0563288 cm/us,  dvx2 =  -0.0566998 cm/us, dvx3 = -0.0583035 cm/us, dvx4 = -0.0482807 cm/us 
+E = 600V/cm,   Vx = -4.67802 cm/us,  dvx1 = 0.00474962 cm/us,  dvx2 =  0.00530991 cm/us, dvx3 = 0.0087268 cm/us, dvx4 = 0.0641266 cm/us 
+E = 650V/cm,   Vx = -4.67333 cm/us,  dvx1 = 0.0468607 cm/us,  dvx2 =  0.0479592 cm/us, dvx3 = 0.0548674 cm/us, dvx4 = 0.140772 cm/us 
+E = 700V/cm,   Vx = -4.62659 cm/us,  dvx1 = 0.0710058 cm/us,  dvx2 =  0.0723773 cm/us, dvx3 = 0.0815846 cm/us, dvx4 = 0.181966 cm/us 
+E = 750V/cm,   Vx = -4.55574 cm/us,  dvx1 = 0.0800951 cm/us,  dvx2 =  0.0815044 cm/us, dvx3 = 0.0916643 cm/us, dvx4 = 0.195276 cm/us 
+E = 800V/cm,   Vx = -4.4758 cm/us,  dvx1 = 0.0775188 cm/us,  dvx2 =  0.078894 cm/us, dvx3 = 0.0895686 cm/us, dvx4 = 0.197145 cm/us 
+E = 850V/cm,   Vx = -4.39843 cm/us,  dvx1 = 0.0759527 cm/us,  dvx2 =  0.0773028 cm/us, dvx3 = 0.0884789 cm/us, dvx4 = 0.194696 cm/us 
+E = 900V/cm,   Vx = -4.32263 cm/us,  dvx1 = 0.0722473 cm/us,  dvx2 =  0.0734908 cm/us, dvx3 = 0.0844598 cm/us, dvx4 = 0.182245 cm/us 
+E = 950V/cm,   Vx = -4.25052 cm/us,  dvx1 = 0.0653484 cm/us,  dvx2 =  0.0664269 cm/us, dvx3 = 0.076457 cm/us, dvx4 = 0.160907 cm/us 
+E = 1000V/cm,   Vx = -4.18529 cm/us,  dvx1 = 0.0552634 cm/us,  dvx2 =  0.0561669 cm/us, dvx3 = 0.0650293 cm/us, dvx4 = 0.131899 cm/us 
+E = 1500V/cm,   Vx = -4.13013 cm/us,  dvx1 = 0.164774 cm/us,  dvx2 =  0.164637 cm/us, dvx3 = 0.162395 cm/us, dvx4 = 0.134855 cm/us 
+E = 2000V/cm,   Vx = -3.96534 cm/us,  dvx1 = -0.137099 cm/us,  dvx2 =  -0.137394 cm/us, dvx3 = -0.143596 cm/us, dvx4 = -0.199666 cm/us 
+E = 2500V/cm,   Vx = -4.10241 cm/us,  dvx1 = -0.143553 cm/us,  dvx2 =  -0.143741 cm/us, dvx3 = -0.148646 cm/us, dvx4 = -0.184992 cm/us 
+E = 3000V/cm,   Vx = -4.24594 cm/us,  dvx1 = -0.0639126 cm/us,  dvx2 =  -0.0639545 cm/us, dvx3 = -0.0651566 cm/us, dvx4 = -0.0585145 cm/us 
+E = 3500V/cm,   Vx = -4.30985 cm/us,  dvx1 = 0.0198375 cm/us,  dvx2 =  0.0199077 cm/us, dvx3 = 0.0226498 cm/us, dvx4 = 0.057918 cm/us 
+E = 4000V/cm,   Vx = -4.29002 cm/us,  dvx1 = 0.0614044 cm/us,  dvx2 =  0.0615467 cm/us, dvx3 = 0.0677432 cm/us, dvx4 = 0.121525 cm/us 
+E = 4500V/cm,   Vx = -4.22863 cm/us,  dvx1 = 0.0720335 cm/us,  dvx2 =  0.0721349 cm/us, dvx3 = 0.0769679 cm/us, dvx4 = 0.103369 cm/us 
+E = 5000V/cm,   Vx = -4.15661 cm/us,  dvx1 = 0.0331845 cm/us,  dvx2 =  0.0332162 cm/us, dvx3 = 0.0348685 cm/us, dvx4 = 0.0600009 cm/us 
+E = 5500V/cm,   Vx = -4.12343 cm/us,  dvx1 = 0.0268263 cm/us,  dvx2 =  0.0268836 cm/us, dvx3 = 0.0301854 cm/us, dvx4 = 0.0309856 cm/us 
+E = 6000V/cm,   Vx = -4.09661 cm/us,  dvx1 = 0.00733927 cm/us,  dvx2 =  0.00728449 cm/us, dvx3 = 0.00349614 cm/us, dvx4 = -0.0437781 cm/us 
+E = 6500V/cm,   Vx = -4.08926 cm/us,  dvx1 = -0.0440836 cm/us,  dvx2 =  -0.0441457 cm/us, dvx3 = -0.0486219 cm/us, dvx4 = -0.0954184 cm/us 
+E = 7000V/cm,   Vx = -4.13334 cm/us,  dvx1 = -0.0383402 cm/us,  dvx2 =  -0.0384162 cm/us, dvx3 = -0.0443163 cm/us, dvx4 = -0.112865 cm/us 
+E = 7500V/cm,   Vx = -4.17167 cm/us,  dvx1 = -0.049698 cm/us,  dvx2 =  -0.0498041 cm/us, dvx3 = -0.0587043 cm/us, dvx4 = -0.159246 cm/us 
+E = 8000V/cm,   Vx = -4.22136 cm/us,  dvx1 = -0.0669248 cm/us,  dvx2 =  -0.0670596 cm/us, dvx3 = -0.0795263 cm/us, dvx4 = -0.212086 cm/us 
+E = 8500V/cm,   Vx = -4.28827 cm/us,  dvx1 = -0.0882559 cm/us,  dvx2 =  -0.0884231 cm/us, dvx3 = -0.104123 cm/us, dvx4 = -0.246095 cm/us 
+E = 9000V/cm,   Vx = -4.3765 cm/us,  dvx1 = -0.0958268 cm/us,  dvx2 =  -0.0959885 cm/us, dvx3 = -0.111923 cm/us, dvx4 = -0.251999 cm/us 
+E = 9500V/cm,   Vx = -4.47231 cm/us,  dvx1 = -0.0881483 cm/us,  dvx2 =  -0.0883038 cm/us, dvx3 = -0.104492 cm/us, dvx4 = -0.250725 cm/us 
+E = 10000V/cm,   Vx = -4.56044 cm/us,  dvx1 = -0.0847514 cm/us,  dvx2 =  -0.0849071 cm/us, dvx3 = -0.102036 cm/us, dvx4 = -0.257756 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(94-6).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (94/6)
-E = 20V/cm,   Vx = -0.0978624 cm/us,  Delta_vx = -0.100505 cm/us
-E = 30V/cm,   Vx = -0.187908 cm/us,  Delta_vx = -0.110277 cm/us
-E = 40V/cm,   Vx = -0.288311 cm/us,  Delta_vx = -0.107275 cm/us
-E = 50V/cm,   Vx = -0.386026 cm/us,  Delta_vx = -0.113344 cm/us
-E = 60V/cm,   Vx = -0.488679 cm/us,  Delta_vx = -0.107093 cm/us
-E = 70V/cm,   Vx = -0.585799 cm/us,  Delta_vx = -0.116391 cm/us
-E = 80V/cm,   Vx = -0.69116 cm/us,  Delta_vx = -0.120699 cm/us
-E = 90V/cm,   Vx = -0.801068 cm/us,  Delta_vx = -0.123939 cm/us
-E = 100V/cm,   Vx = -0.913087 cm/us,  Delta_vx = -0.135035 cm/us
-E = 110V/cm,   Vx = -1.03565 cm/us,  Delta_vx = -0.135753 cm/us
-E = 120V/cm,   Vx = -1.15935 cm/us,  Delta_vx = -0.135957 cm/us
-E = 130V/cm,   Vx = -1.28199 cm/us,  Delta_vx = -0.149453 cm/us
-E = 140V/cm,   Vx = -1.41759 cm/us,  Delta_vx = -0.149614 cm/us
-E = 150V/cm,   Vx = -1.55367 cm/us,  Delta_vx = -0.150721 cm/us
-E = 160V/cm,   Vx = -1.69033 cm/us,  Delta_vx = -0.156625 cm/us
-E = 170V/cm,   Vx = -1.83254 cm/us,  Delta_vx = -0.160036 cm/us
-E = 180V/cm,   Vx = -1.97794 cm/us,  Delta_vx = -0.161857 cm/us
-E = 190V/cm,   Vx = -2.12501 cm/us,  Delta_vx = -0.163612 cm/us
-E = 200V/cm,   Vx = -2.27373 cm/us,  Delta_vx = -0.163217 cm/us
-E = 210V/cm,   Vx = -2.42216 cm/us,  Delta_vx = -0.160951 cm/us
-E = 220V/cm,   Vx = -2.56867 cm/us,  Delta_vx = -0.15739 cm/us
-E = 230V/cm,   Vx = -2.71188 cm/us,  Delta_vx = -0.155013 cm/us
-E = 240V/cm,   Vx = -2.85276 cm/us,  Delta_vx = -0.152895 cm/us
-E = 250V/cm,   Vx = -2.99199 cm/us,  Delta_vx = -0.147754 cm/us
-E = 260V/cm,   Vx = -3.12655 cm/us,  Delta_vx = -0.140179 cm/us
-E = 270V/cm,   Vx = -3.25443 cm/us,  Delta_vx = -0.131993 cm/us
-E = 280V/cm,   Vx = -3.37472 cm/us,  Delta_vx = -0.125349 cm/us
-E = 290V/cm,   Vx = -3.48898 cm/us,  Delta_vx = -0.120192 cm/us
-E = 300V/cm,   Vx = -3.59848 cm/us,  Delta_vx = -0.114253 cm/us
-E = 310V/cm,   Vx = -3.70265 cm/us,  Delta_vx = -0.10748 cm/us
-E = 320V/cm,   Vx = -3.80067 cm/us,  Delta_vx = -0.0996047 cm/us
-E = 330V/cm,   Vx = -3.89166 cm/us,  Delta_vx = -0.0912722 cm/us
-E = 340V/cm,   Vx = -3.97495 cm/us,  Delta_vx = -0.084325 cm/us
-E = 350V/cm,   Vx = -4.05192 cm/us,  Delta_vx = -0.0773779 cm/us
-E = 360V/cm,   Vx = -4.12258 cm/us,  Delta_vx = -0.072174 cm/us
-E = 370V/cm,   Vx = -4.18847 cm/us,  Delta_vx = -0.0658353 cm/us
-E = 380V/cm,   Vx = -4.24862 cm/us,  Delta_vx = -0.0590633 cm/us
-E = 390V/cm,   Vx = -4.30262 cm/us,  Delta_vx = -0.0522913 cm/us
-E = 400V/cm,   Vx = -4.35047 cm/us,  Delta_vx = -0.0425223 cm/us
-E = 450V/cm,   Vx = -4.38948 cm/us,  Delta_vx = -0.116815 cm/us
-E = 500V/cm,   Vx = -4.50497 cm/us,  Delta_vx = -0.024894 cm/us
-E = 550V/cm,   Vx = -4.53012 cm/us,  Delta_vx = 0.0426359 cm/us
-E = 600V/cm,   Vx = -4.48885 cm/us,  Delta_vx = 0.0827269 cm/us
-E = 650V/cm,   Vx = -4.408 cm/us,  Delta_vx = 0.0925511 cm/us
-E = 700V/cm,   Vx = -4.31732 cm/us,  Delta_vx = 0.0986226 cm/us
-E = 750V/cm,   Vx = -4.22064 cm/us,  Delta_vx = 0.0975358 cm/us
-E = 800V/cm,   Vx = -4.12487 cm/us,  Delta_vx = 0.084847 cm/us
-E = 850V/cm,   Vx = -4.04159 cm/us,  Delta_vx = 0.0744292 cm/us
-E = 900V/cm,   Vx = -3.96852 cm/us,  Delta_vx = 0.064388 cm/us
-E = 950V/cm,   Vx = -3.9053 cm/us,  Delta_vx = 0.0543144 cm/us
-E = 1000V/cm,   Vx = -3.85195 cm/us,  Delta_vx = 0.0448821 cm/us
-E = 1500V/cm,   Vx = -3.80786 cm/us,  Delta_vx = 0.0887607 cm/us
-E = 2000V/cm,   Vx = -3.71895 cm/us,  Delta_vx = -0.149273 cm/us
-E = 2500V/cm,   Vx = -3.86787 cm/us,  Delta_vx = -0.132586 cm/us
-E = 3000V/cm,   Vx = -4.00029 cm/us,  Delta_vx = -0.00443792 cm/us
-E = 3500V/cm,   Vx = -4.00484 cm/us,  Delta_vx = 0.0341818 cm/us
-E = 4000V/cm,   Vx = -3.9708 cm/us,  Delta_vx = 0.077982 cm/us
-E = 4500V/cm,   Vx = -3.89295 cm/us,  Delta_vx = 0.0343037 cm/us
-E = 5000V/cm,   Vx = -3.85867 cm/us,  Delta_vx = 0.0355344 cm/us
-E = 5500V/cm,   Vx = -3.82323 cm/us,  Delta_vx = 0.0130539 cm/us
-E = 6000V/cm,   Vx = -3.81013 cm/us,  Delta_vx = -0.0298956 cm/us
-E = 6500V/cm,   Vx = -3.83998 cm/us,  Delta_vx = -0.0301689 cm/us
-E = 7000V/cm,   Vx = -3.87006 cm/us,  Delta_vx = -0.0555497 cm/us
-E = 7500V/cm,   Vx = -3.92548 cm/us,  Delta_vx = -0.0773802 cm/us
-E = 8000V/cm,   Vx = -4.00269 cm/us,  Delta_vx = -0.0893059 cm/us
-E = 8500V/cm,   Vx = -4.09181 cm/us,  Delta_vx = -0.0834834 cm/us
-E = 9000V/cm,   Vx = -4.17512 cm/us,  Delta_vx = -0.0853374 cm/us
-E = 9500V/cm,   Vx = -4.26028 cm/us,  Delta_vx = -0.0962076 cm/us
-E = 10000V/cm,   Vx = -4.35629 cm/us,  Delta_vx = -0.104766 cm/us
+E = 20V/cm,   Vx = -0.0978624 cm/us,  dvx1 = -0.0910574 cm/us,  dvx2 =  -0.100505 cm/us, dvx3 = -0.0920768 cm/us, dvx4 = -0.111616 cm/us 
+E = 30V/cm,   Vx = -0.187908 cm/us,  dvx1 = -0.101392 cm/us,  dvx2 =  -0.110277 cm/us, dvx3 = -0.103369 cm/us, dvx4 = -0.129857 cm/us 
+E = 40V/cm,   Vx = -0.288311 cm/us,  dvx1 = -0.0987044 cm/us,  dvx2 =  -0.107275 cm/us, dvx3 = -0.10167 cm/us, dvx4 = -0.1346 cm/us 
+E = 50V/cm,   Vx = -0.386026 cm/us,  dvx1 = -0.103806 cm/us,  dvx2 =  -0.113344 cm/us, dvx3 = -0.108392 cm/us, dvx4 = -0.15166 cm/us 
+E = 60V/cm,   Vx = -0.488679 cm/us,  dvx1 = -0.098113 cm/us,  dvx2 =  -0.107093 cm/us, dvx3 = -0.103093 cm/us, dvx4 = -0.159061 cm/us 
+E = 70V/cm,   Vx = -0.585799 cm/us,  dvx1 = -0.106464 cm/us,  dvx2 =  -0.116391 cm/us, dvx3 = -0.113081 cm/us, dvx4 = -0.182836 cm/us 
+E = 80V/cm,   Vx = -0.69116 cm/us,  dvx1 = -0.110985 cm/us,  dvx2 =  -0.120699 cm/us, dvx3 = -0.118537 cm/us, dvx4 = -0.198341 cm/us 
+E = 90V/cm,   Vx = -0.801068 cm/us,  dvx1 = -0.113208 cm/us,  dvx2 =  -0.123939 cm/us, dvx3 = -0.122743 cm/us, dvx4 = -0.222113 cm/us 
+E = 100V/cm,   Vx = -0.913087 cm/us,  dvx1 = -0.123806 cm/us,  dvx2 =  -0.135035 cm/us, dvx3 = -0.135035 cm/us, dvx4 = -0.246267 cm/us 
+E = 110V/cm,   Vx = -1.03565 cm/us,  dvx1 = -0.124911 cm/us,  dvx2 =  -0.135753 cm/us, dvx3 = -0.13696 cm/us, dvx4 = -0.259665 cm/us 
+E = 120V/cm,   Vx = -1.15935 cm/us,  dvx1 = -0.123965 cm/us,  dvx2 =  -0.135957 cm/us, dvx3 = -0.138628 cm/us, dvx4 = -0.285992 cm/us 
+E = 130V/cm,   Vx = -1.28199 cm/us,  dvx1 = -0.136984 cm/us,  dvx2 =  -0.149453 cm/us, dvx3 = -0.153619 cm/us, dvx4 = -0.312336 cm/us 
+E = 140V/cm,   Vx = -1.41759 cm/us,  dvx1 = -0.137436 cm/us,  dvx2 =  -0.149614 cm/us, dvx3 = -0.155032 cm/us, dvx4 = -0.329206 cm/us 
+E = 150V/cm,   Vx = -1.55367 cm/us,  dvx1 = -0.138062 cm/us,  dvx2 =  -0.150721 cm/us, dvx3 = -0.157766 cm/us, dvx4 = -0.351286 cm/us 
+E = 160V/cm,   Vx = -1.69033 cm/us,  dvx1 = -0.143651 cm/us,  dvx2 =  -0.156625 cm/us, dvx3 = -0.16529 cm/us, dvx4 = -0.375668 cm/us 
+E = 170V/cm,   Vx = -1.83254 cm/us,  dvx1 = -0.14686 cm/us,  dvx2 =  -0.160036 cm/us, dvx3 = -0.170292 cm/us, dvx4 = -0.396477 cm/us 
+E = 180V/cm,   Vx = -1.97794 cm/us,  dvx1 = -0.148546 cm/us,  dvx2 =  -0.161857 cm/us, dvx3 = -0.173699 cm/us, dvx4 = -0.414611 cm/us 
+E = 190V/cm,   Vx = -2.12501 cm/us,  dvx1 = -0.150215 cm/us,  dvx2 =  -0.163612 cm/us, dvx3 = -0.177 cm/us, dvx4 = -0.429197 cm/us 
+E = 200V/cm,   Vx = -2.27373 cm/us,  dvx1 = -0.149906 cm/us,  dvx2 =  -0.163217 cm/us, dvx3 = -0.177998 cm/us, dvx4 = -0.438151 cm/us 
+E = 210V/cm,   Vx = -2.42216 cm/us,  dvx1 = -0.147956 cm/us,  dvx2 =  -0.160951 cm/us, dvx3 = -0.176804 cm/us, dvx4 = -0.444737 cm/us 
+E = 220V/cm,   Vx = -2.56867 cm/us,  dvx1 = -0.144633 cm/us,  dvx2 =  -0.15739 cm/us, dvx3 = -0.174367 cm/us, dvx4 = -0.450607 cm/us 
+E = 230V/cm,   Vx = -2.71188 cm/us,  dvx1 = -0.142295 cm/us,  dvx2 =  -0.155013 cm/us, dvx3 = -0.173316 cm/us, dvx4 = -0.45412 cm/us 
+E = 240V/cm,   Vx = -2.85276 cm/us,  dvx1 = -0.140598 cm/us,  dvx2 =  -0.152895 cm/us, dvx3 = -0.171949 cm/us, dvx4 = -0.450506 cm/us 
+E = 250V/cm,   Vx = -2.99199 cm/us,  dvx1 = -0.135878 cm/us,  dvx2 =  -0.147754 cm/us, dvx3 = -0.167464 cm/us, dvx4 = -0.440612 cm/us 
+E = 260V/cm,   Vx = -3.12655 cm/us,  dvx1 = -0.129111 cm/us,  dvx2 =  -0.140179 cm/us, dvx3 = -0.159736 cm/us, dvx4 = -0.428534 cm/us 
+E = 270V/cm,   Vx = -3.25443 cm/us,  dvx1 = -0.121468 cm/us,  dvx2 =  -0.131993 cm/us, dvx3 = -0.15174 cm/us, dvx4 = -0.417618 cm/us 
+E = 280V/cm,   Vx = -3.37472 cm/us,  dvx1 = -0.115368 cm/us,  dvx2 =  -0.125349 cm/us, dvx3 = -0.145165 cm/us, dvx4 = -0.406834 cm/us 
+E = 290V/cm,   Vx = -3.48898 cm/us,  dvx1 = -0.11057 cm/us,  dvx2 =  -0.120192 cm/us, dvx3 = -0.140342 cm/us, dvx4 = -0.394004 cm/us 
+E = 300V/cm,   Vx = -3.59848 cm/us,  dvx1 = -0.105185 cm/us,  dvx2 =  -0.114253 cm/us, dvx3 = -0.134226 cm/us, dvx4 = -0.376474 cm/us 
+E = 310V/cm,   Vx = -3.70265 cm/us,  dvx1 = -0.0989664 cm/us,  dvx2 =  -0.10748 cm/us, dvx3 = -0.127153 cm/us, dvx4 = -0.356624 cm/us 
+E = 320V/cm,   Vx = -3.80067 cm/us,  dvx1 = -0.0918556 cm/us,  dvx2 =  -0.0996047 cm/us, dvx3 = -0.118332 cm/us, dvx4 = -0.33529 cm/us 
+E = 330V/cm,   Vx = -3.89166 cm/us,  dvx1 = -0.0840915 cm/us,  dvx2 =  -0.0912722 cm/us, dvx3 = -0.10939 cm/us, dvx4 = -0.3155 cm/us 
+E = 340V/cm,   Vx = -3.97495 cm/us,  dvx1 = -0.0777128 cm/us,  dvx2 =  -0.084325 cm/us, dvx3 = -0.101708 cm/us, dvx4 = -0.296013 cm/us 
+E = 350V/cm,   Vx = -4.05192 cm/us,  dvx1 = -0.071334 cm/us,  dvx2 =  -0.0773779 cm/us, dvx3 = -0.0941364 cm/us, dvx4 = -0.275393 cm/us 
+E = 360V/cm,   Vx = -4.12258 cm/us,  dvx1 = -0.0665132 cm/us,  dvx2 =  -0.072174 cm/us, dvx3 = -0.0882473 cm/us, dvx4 = -0.252305 cm/us 
+E = 370V/cm,   Vx = -4.18847 cm/us,  dvx1 = -0.0607286 cm/us,  dvx2 =  -0.0658353 cm/us, dvx3 = -0.0808563 cm/us, dvx4 = -0.224524 cm/us 
+E = 380V/cm,   Vx = -4.24862 cm/us,  dvx1 = -0.0545106 cm/us,  dvx2 =  -0.0590633 cm/us, dvx3 = -0.0729082 cm/us, dvx4 = -0.196131 cm/us 
+E = 390V/cm,   Vx = -4.30262 cm/us,  dvx1 = -0.0482927 cm/us,  dvx2 =  -0.0522913 cm/us, dvx3 = -0.0642706 cm/us, dvx4 = -0.167561 cm/us 
+E = 400V/cm,   Vx = -4.35047 cm/us,  dvx1 = -0.0393603 cm/us,  dvx2 =  -0.0425223 cm/us, dvx3 = -0.0527561 cm/us, dvx4 = -0.139397 cm/us 
+E = 450V/cm,   Vx = -4.38948 cm/us,  dvx1 = -0.115625 cm/us,  dvx2 =  -0.116815 cm/us, dvx3 = -0.121182 cm/us, dvx4 = -0.1416 cm/us 
+E = 500V/cm,   Vx = -4.50497 cm/us,  dvx1 = -0.0251291 cm/us,  dvx2 =  -0.024894 cm/us, dvx3 = -0.023623 cm/us, dvx4 = 0.0161202 cm/us 
+E = 550V/cm,   Vx = -4.53012 cm/us,  dvx1 = 0.04141 cm/us,  dvx2 =  0.0426359 cm/us, dvx3 = 0.0488921 cm/us, dvx4 = 0.131512 cm/us 
+E = 600V/cm,   Vx = -4.48885 cm/us,  dvx1 = 0.0810321 cm/us,  dvx2 =  0.0827269 cm/us, dvx3 = 0.0919895 cm/us, dvx4 = 0.19028 cm/us 
+E = 650V/cm,   Vx = -4.408 cm/us,  dvx1 = 0.0908737 cm/us,  dvx2 =  0.0925511 cm/us, dvx3 = 0.102845 cm/us, dvx4 = 0.216466 cm/us 
+E = 700V/cm,   Vx = -4.31732 cm/us,  dvx1 = 0.0968674 cm/us,  dvx2 =  0.0986226 cm/us, dvx3 = 0.110295 cm/us, dvx4 = 0.226985 cm/us 
+E = 750V/cm,   Vx = -4.22064 cm/us,  dvx1 = 0.0959465 cm/us,  dvx2 =  0.0975358 cm/us, dvx3 = 0.108915 cm/us, dvx4 = 0.216858 cm/us 
+E = 800V/cm,   Vx = -4.12487 cm/us,  dvx1 = 0.083442 cm/us,  dvx2 =  0.084847 cm/us, dvx3 = 0.0956611 cm/us, dvx4 = 0.195455 cm/us 
+E = 850V/cm,   Vx = -4.04159 cm/us,  dvx1 = 0.0732056 cm/us,  dvx2 =  0.0744292 cm/us, dvx3 = 0.0845032 cm/us, dvx4 = 0.174715 cm/us 
+E = 900V/cm,   Vx = -3.96852 cm/us,  dvx1 = 0.0633395 cm/us,  dvx2 =  0.064388 cm/us, dvx3 = 0.0735704 cm/us, dvx4 = 0.152538 cm/us 
+E = 950V/cm,   Vx = -3.9053 cm/us,  dvx1 = 0.0534442 cm/us,  dvx2 =  0.0543144 cm/us, dvx3 = 0.0623942 cm/us, dvx4 = 0.129686 cm/us 
+E = 1000V/cm,   Vx = -3.85195 cm/us,  dvx1 = 0.0441685 cm/us,  dvx2 =  0.0448821 cm/us, dvx3 = 0.0518621 cm/us, dvx4 = 0.107301 cm/us 
+E = 1500V/cm,   Vx = -3.80786 cm/us,  dvx1 = 0.0888925 cm/us,  dvx2 =  0.0887607 cm/us, dvx3 = 0.0866305 cm/us, dvx4 = 0.0549553 cm/us 
+E = 2000V/cm,   Vx = -3.71895 cm/us,  dvx1 = -0.148953 cm/us,  dvx2 =  -0.149273 cm/us, dvx3 = -0.155989 cm/us, dvx4 = -0.21617 cm/us 
+E = 2500V/cm,   Vx = -3.86787 cm/us,  dvx1 = -0.132433 cm/us,  dvx2 =  -0.132586 cm/us, dvx3 = -0.136521 cm/us, dvx4 = -0.157343 cm/us 
+E = 3000V/cm,   Vx = -4.00029 cm/us,  dvx1 = -0.00454237 cm/us,  dvx2 =  -0.00443792 cm/us, dvx3 = -0.000952782 cm/us, dvx4 = 0.0106718 cm/us 
+E = 3500V/cm,   Vx = -4.00484 cm/us,  dvx1 = 0.0340536 cm/us,  dvx2 =  0.0341818 cm/us, dvx3 = 0.0391016 cm/us, dvx4 = 0.0902549 cm/us 
+E = 4000V/cm,   Vx = -3.9708 cm/us,  dvx1 = 0.0778619 cm/us,  dvx2 =  0.077982 cm/us, dvx3 = 0.0830732 cm/us, dvx4 = 0.10949 cm/us 
+E = 4500V/cm,   Vx = -3.89295 cm/us,  dvx1 = 0.0342821 cm/us,  dvx2 =  0.0343037 cm/us, dvx3 = 0.0353126 cm/us, dvx4 = 0.0648715 cm/us 
+E = 5000V/cm,   Vx = -3.85867 cm/us,  dvx1 = 0.0354485 cm/us,  dvx2 =  0.0355344 cm/us, dvx3 = 0.0401356 cm/us, dvx4 = 0.048539 cm/us 
+E = 5500V/cm,   Vx = -3.82323 cm/us,  dvx1 = 0.0130954 cm/us,  dvx2 =  0.0130539 cm/us, dvx3 = 0.0103618 cm/us, dvx4 = -0.019181 cm/us 
+E = 6000V/cm,   Vx = -3.81013 cm/us,  dvx1 = -0.0298529 cm/us,  dvx2 =  -0.0298956 cm/us, dvx3 = -0.0327827 cm/us, dvx4 = -0.0693876 cm/us 
+E = 6500V/cm,   Vx = -3.83998 cm/us,  dvx1 = -0.0300873 cm/us,  dvx2 =  -0.0301689 cm/us, dvx3 = -0.0361358 cm/us, dvx4 = -0.106077 cm/us 
+E = 7000V/cm,   Vx = -3.87006 cm/us,  dvx1 = -0.0554316 cm/us,  dvx2 =  -0.0555497 cm/us, dvx3 = -0.0647956 cm/us, dvx4 = -0.167362 cm/us 
+E = 7500V/cm,   Vx = -3.92548 cm/us,  dvx1 = -0.0772267 cm/us,  dvx2 =  -0.0773802 cm/us, dvx3 = -0.0900917 cm/us, dvx4 = -0.208355 cm/us 
+E = 8000V/cm,   Vx = -4.00269 cm/us,  dvx1 = -0.0891386 cm/us,  dvx2 =  -0.0893059 cm/us, dvx3 = -0.103512 cm/us, dvx4 = -0.223013 cm/us 
+E = 8500V/cm,   Vx = -4.09181 cm/us,  dvx1 = -0.0833333 cm/us,  dvx2 =  -0.0834834 cm/us, dvx3 = -0.0975329 cm/us, dvx4 = -0.234777 cm/us 
+E = 9000V/cm,   Vx = -4.17512 cm/us,  dvx1 = -0.0851723 cm/us,  dvx2 =  -0.0853374 cm/us, dvx3 = -0.101804 cm/us, dvx4 = -0.264129 cm/us 
+E = 9500V/cm,   Vx = -4.26028 cm/us,  dvx1 = -0.096027 cm/us,  dvx2 =  -0.0962076 cm/us, dvx3 = -0.115216 cm/us, dvx4 = -0.290653 cm/us 
+E = 10000V/cm,   Vx = -4.35629 cm/us,  dvx1 = -0.104586 cm/us,  dvx2 =  -0.104766 cm/us, dvx3 = -0.124584 cm/us, dvx4 = -0.304744 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(95-5).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (95/5)
-E = 20V/cm,   Vx = -0.109847 cm/us,  Delta_vx = -0.120728 cm/us
-E = 30V/cm,   Vx = -0.221259 cm/us,  Delta_vx = -0.122059 cm/us
-E = 40V/cm,   Vx = -0.332547 cm/us,  Delta_vx = -0.128389 cm/us
-E = 50V/cm,   Vx = -0.449582 cm/us,  Delta_vx = -0.13067 cm/us
-E = 60V/cm,   Vx = -0.567779 cm/us,  Delta_vx = -0.135736 cm/us
-E = 70V/cm,   Vx = -0.690548 cm/us,  Delta_vx = -0.142316 cm/us
-E = 80V/cm,   Vx = -0.819334 cm/us,  Delta_vx = -0.15118 cm/us
-E = 90V/cm,   Vx = -0.956753 cm/us,  Delta_vx = -0.155393 cm/us
-E = 100V/cm,   Vx = -1.09758 cm/us,  Delta_vx = -0.161336 cm/us
-E = 110V/cm,   Vx = -1.2442 cm/us,  Delta_vx = -0.166563 cm/us
-E = 120V/cm,   Vx = -1.39503 cm/us,  Delta_vx = -0.17665 cm/us
-E = 130V/cm,   Vx = -1.55537 cm/us,  Delta_vx = -0.180512 cm/us
-E = 140V/cm,   Vx = -1.71937 cm/us,  Delta_vx = -0.180448 cm/us
-E = 150V/cm,   Vx = -1.8834 cm/us,  Delta_vx = -0.182871 cm/us
-E = 160V/cm,   Vx = -2.04921 cm/us,  Delta_vx = -0.188052 cm/us
-E = 170V/cm,   Vx = -2.22013 cm/us,  Delta_vx = -0.186592 cm/us
-E = 180V/cm,   Vx = -2.39001 cm/us,  Delta_vx = -0.182071 cm/us
-E = 190V/cm,   Vx = -2.55569 cm/us,  Delta_vx = -0.179262 cm/us
-E = 200V/cm,   Vx = -2.71884 cm/us,  Delta_vx = -0.174199 cm/us
-E = 210V/cm,   Vx = -2.87748 cm/us,  Delta_vx = -0.166453 cm/us
-E = 220V/cm,   Vx = -3.02926 cm/us,  Delta_vx = -0.157292 cm/us
-E = 230V/cm,   Vx = -3.17263 cm/us,  Delta_vx = -0.149513 cm/us
-E = 240V/cm,   Vx = -3.30879 cm/us,  Delta_vx = -0.142198 cm/us
-E = 250V/cm,   Vx = -3.43848 cm/us,  Delta_vx = -0.132922 cm/us
-E = 260V/cm,   Vx = -3.55974 cm/us,  Delta_vx = -0.122441 cm/us
-E = 270V/cm,   Vx = -3.67159 cm/us,  Delta_vx = -0.111222 cm/us
-E = 280V/cm,   Vx = -3.77319 cm/us,  Delta_vx = -0.100628 cm/us
-E = 290V/cm,   Vx = -3.86515 cm/us,  Delta_vx = -0.0888463 cm/us
-E = 300V/cm,   Vx = -3.94642 cm/us,  Delta_vx = -0.0787944 cm/us
-E = 310V/cm,   Vx = -4.01846 cm/us,  Delta_vx = -0.0696734 cm/us
-E = 320V/cm,   Vx = -4.08222 cm/us,  Delta_vx = -0.0617598 cm/us
-E = 330V/cm,   Vx = -4.13861 cm/us,  Delta_vx = -0.0551953 cm/us
-E = 340V/cm,   Vx = -4.18914 cm/us,  Delta_vx = -0.0474987 cm/us
-E = 350V/cm,   Vx = -4.23267 cm/us,  Delta_vx = -0.0398021 cm/us
-E = 360V/cm,   Vx = -4.2692 cm/us,  Delta_vx = -0.029905 cm/us
-E = 370V/cm,   Vx = -4.29673 cm/us,  Delta_vx = -0.0231135 cm/us
-E = 380V/cm,   Vx = -4.31802 cm/us,  Delta_vx = -0.0170832 cm/us
-E = 390V/cm,   Vx = -4.33382 cm/us,  Delta_vx = -0.0110528 cm/us
-E = 400V/cm,   Vx = -4.34414 cm/us,  Delta_vx = -0.00761127 cm/us
-E = 450V/cm,   Vx = -4.35119 cm/us,  Delta_vx = 0.0167522 cm/us
-E = 500V/cm,   Vx = -4.33559 cm/us,  Delta_vx = 0.0831722 cm/us
-E = 550V/cm,   Vx = -4.25435 cm/us,  Delta_vx = 0.11157 cm/us
-E = 600V/cm,   Vx = -4.14523 cm/us,  Delta_vx = 0.126528 cm/us
-E = 650V/cm,   Vx = -4.02122 cm/us,  Delta_vx = 0.115915 cm/us
-E = 700V/cm,   Vx = -3.90746 cm/us,  Delta_vx = 0.105813 cm/us
-E = 750V/cm,   Vx = -3.80363 cm/us,  Delta_vx = 0.0951637 cm/us
-E = 800V/cm,   Vx = -3.71021 cm/us,  Delta_vx = 0.0816404 cm/us
-E = 850V/cm,   Vx = -3.63002 cm/us,  Delta_vx = 0.0651686 cm/us
-E = 900V/cm,   Vx = -3.56593 cm/us,  Delta_vx = 0.0481058 cm/us
-E = 950V/cm,   Vx = -3.51864 cm/us,  Delta_vx = 0.0351206 cm/us
-E = 1000V/cm,   Vx = -3.48411 cm/us,  Delta_vx = 0.0265567 cm/us
-E = 1500V/cm,   Vx = -3.458 cm/us,  Delta_vx = 0.00473534 cm/us
-E = 2000V/cm,   Vx = -3.45301 cm/us,  Delta_vx = -0.15068 cm/us
-E = 2500V/cm,   Vx = -3.6034 cm/us,  Delta_vx = -0.0794949 cm/us
-E = 3000V/cm,   Vx = -3.68294 cm/us,  Delta_vx = 0.0326182 cm/us
-E = 3500V/cm,   Vx = -3.65038 cm/us,  Delta_vx = 0.0609163 cm/us
-E = 4000V/cm,   Vx = -3.58958 cm/us,  Delta_vx = 0.0549572 cm/us
-E = 4500V/cm,   Vx = -3.53473 cm/us,  Delta_vx = 0.0422772 cm/us
-E = 5000V/cm,   Vx = -3.4925 cm/us,  Delta_vx = -0.00334808 cm/us
-E = 5500V/cm,   Vx = -3.4958 cm/us,  Delta_vx = -0.0314228 cm/us
-E = 6000V/cm,   Vx = -3.52715 cm/us,  Delta_vx = -0.0507826 cm/us
-E = 6500V/cm,   Vx = -3.57779 cm/us,  Delta_vx = -0.0727529 cm/us
-E = 7000V/cm,   Vx = -3.65044 cm/us,  Delta_vx = -0.0563078 cm/us
-E = 7500V/cm,   Vx = -3.70663 cm/us,  Delta_vx = -0.0644663 cm/us
-E = 8000V/cm,   Vx = -3.77095 cm/us,  Delta_vx = -0.0845056 cm/us
-E = 8500V/cm,   Vx = -3.85526 cm/us,  Delta_vx = -0.116634 cm/us
-E = 9000V/cm,   Vx = -3.97166 cm/us,  Delta_vx = -0.118827 cm/us
-E = 9500V/cm,   Vx = -4.09029 cm/us,  Delta_vx = -0.0878472 cm/us
-E = 10000V/cm,   Vx = -4.17798 cm/us,  Delta_vx = -0.0661852 cm/us
+E = 20V/cm,   Vx = -0.109847 cm/us,  dvx1 = -0.112359 cm/us,  dvx2 =  -0.120728 cm/us, dvx3 = -0.113303 cm/us, dvx4 = -0.130808 cm/us 
+E = 30V/cm,   Vx = -0.221259 cm/us,  dvx1 = -0.112362 cm/us,  dvx2 =  -0.122059 cm/us, dvx3 = -0.11451 cm/us, dvx4 = -0.144052 cm/us 
+E = 40V/cm,   Vx = -0.332547 cm/us,  dvx1 = -0.118206 cm/us,  dvx2 =  -0.128389 cm/us, dvx3 = -0.121713 cm/us, dvx4 = -0.160803 cm/us 
+E = 50V/cm,   Vx = -0.449582 cm/us,  dvx1 = -0.119506 cm/us,  dvx2 =  -0.13067 cm/us, dvx3 = -0.124726 cm/us, dvx4 = -0.17818 cm/us 
+E = 60V/cm,   Vx = -0.567779 cm/us,  dvx1 = -0.124062 cm/us,  dvx2 =  -0.135736 cm/us, dvx3 = -0.13054 cm/us, dvx4 = -0.199831 cm/us 
+E = 70V/cm,   Vx = -0.690548 cm/us,  dvx1 = -0.130136 cm/us,  dvx2 =  -0.142316 cm/us, dvx3 = -0.13825 cm/us, dvx4 = -0.224923 cm/us 
+E = 80V/cm,   Vx = -0.819334 cm/us,  dvx1 = -0.138793 cm/us,  dvx2 =  -0.15118 cm/us, dvx3 = -0.148424 cm/us, dvx4 = -0.249268 cm/us 
+E = 90V/cm,   Vx = -0.956753 cm/us,  dvx1 = -0.142283 cm/us,  dvx2 =  -0.155393 cm/us, dvx3 = -0.153935 cm/us, dvx4 = -0.272787 cm/us 
+E = 100V/cm,   Vx = -1.09758 cm/us,  dvx1 = -0.148088 cm/us,  dvx2 =  -0.161336 cm/us, dvx3 = -0.161336 cm/us, dvx4 = -0.297451 cm/us 
+E = 110V/cm,   Vx = -1.2442 cm/us,  dvx1 = -0.152403 cm/us,  dvx2 =  -0.166563 cm/us, dvx3 = -0.168139 cm/us, dvx4 = -0.327483 cm/us 
+E = 120V/cm,   Vx = -1.39503 cm/us,  dvx1 = -0.161965 cm/us,  dvx2 =  -0.17665 cm/us, dvx3 = -0.179915 cm/us, dvx4 = -0.35737 cm/us 
+E = 130V/cm,   Vx = -1.55537 cm/us,  dvx1 = -0.165657 cm/us,  dvx2 =  -0.180512 cm/us, dvx3 = -0.185467 cm/us, dvx4 = -0.377359 cm/us 
+E = 140V/cm,   Vx = -1.71937 cm/us,  dvx1 = -0.165669 cm/us,  dvx2 =  -0.180448 cm/us, dvx3 = -0.187022 cm/us, dvx4 = -0.398131 cm/us 
+E = 150V/cm,   Vx = -1.8834 cm/us,  dvx1 = -0.167512 cm/us,  dvx2 =  -0.182871 cm/us, dvx3 = -0.191406 cm/us, dvx4 = -0.422423 cm/us 
+E = 160V/cm,   Vx = -2.04921 cm/us,  dvx1 = -0.172638 cm/us,  dvx2 =  -0.188052 cm/us, dvx3 = -0.19833 cm/us, dvx4 = -0.440602 cm/us 
+E = 170V/cm,   Vx = -2.22013 cm/us,  dvx1 = -0.171551 cm/us,  dvx2 =  -0.186592 cm/us, dvx3 = -0.198273 cm/us, dvx4 = -0.450032 cm/us 
+E = 180V/cm,   Vx = -2.39001 cm/us,  dvx1 = -0.167321 cm/us,  dvx2 =  -0.182071 cm/us, dvx3 = -0.195159 cm/us, dvx4 = -0.456186 cm/us 
+E = 190V/cm,   Vx = -2.55569 cm/us,  dvx1 = -0.164762 cm/us,  dvx2 =  -0.179262 cm/us, dvx3 = -0.193717 cm/us, dvx4 = -0.458827 cm/us 
+E = 200V/cm,   Vx = -2.71884 cm/us,  dvx1 = -0.160199 cm/us,  dvx2 =  -0.174199 cm/us, dvx3 = -0.189703 cm/us, dvx4 = -0.453788 cm/us 
+E = 210V/cm,   Vx = -2.87748 cm/us,  dvx1 = -0.153253 cm/us,  dvx2 =  -0.166453 cm/us, dvx3 = -0.182504 cm/us, dvx4 = -0.44466 cm/us 
+E = 220V/cm,   Vx = -3.02926 cm/us,  dvx1 = -0.14476 cm/us,  dvx2 =  -0.157292 cm/us, dvx3 = -0.173909 cm/us, dvx4 = -0.434147 cm/us 
+E = 230V/cm,   Vx = -3.17263 cm/us,  dvx1 = -0.137503 cm/us,  dvx2 =  -0.149513 cm/us, dvx3 = -0.16674 cm/us, dvx4 = -0.42185 cm/us 
+E = 240V/cm,   Vx = -3.30879 cm/us,  dvx1 = -0.130947 cm/us,  dvx2 =  -0.142198 cm/us, dvx3 = -0.159564 cm/us, dvx4 = -0.404594 cm/us 
+E = 250V/cm,   Vx = -3.43848 cm/us,  dvx1 = -0.12243 cm/us,  dvx2 =  -0.132922 cm/us, dvx3 = -0.150257 cm/us, dvx4 = -0.381886 cm/us 
+E = 260V/cm,   Vx = -3.55974 cm/us,  dvx1 = -0.112912 cm/us,  dvx2 =  -0.122441 cm/us, dvx3 = -0.139189 cm/us, dvx4 = -0.355532 cm/us 
+E = 270V/cm,   Vx = -3.67159 cm/us,  dvx1 = -0.10256 cm/us,  dvx2 =  -0.111222 cm/us, dvx3 = -0.127372 cm/us, dvx4 = -0.326126 cm/us 
+E = 280V/cm,   Vx = -3.77319 cm/us,  dvx1 = -0.0928327 cm/us,  dvx2 =  -0.100628 cm/us, dvx3 = -0.115985 cm/us, dvx4 = -0.296943 cm/us 
+E = 290V/cm,   Vx = -3.86515 cm/us,  dvx1 = -0.0820301 cm/us,  dvx2 =  -0.0888463 cm/us, dvx3 = -0.103016 cm/us, dvx4 = -0.268023 cm/us 
+E = 300V/cm,   Vx = -3.94642 cm/us,  dvx1 = -0.0727245 cm/us,  dvx2 =  -0.0787944 cm/us, dvx3 = -0.0920427 cm/us, dvx4 = -0.24272 cm/us 
+E = 310V/cm,   Vx = -4.01846 cm/us,  dvx1 = -0.0643497 cm/us,  dvx2 =  -0.0696734 cm/us, dvx3 = -0.0818341 cm/us, dvx4 = -0.218172 cm/us 
+E = 320V/cm,   Vx = -4.08222 cm/us,  dvx1 = -0.0569321 cm/us,  dvx2 =  -0.0617598 cm/us, dvx3 = -0.0733223 cm/us, dvx4 = -0.193451 cm/us 
+E = 330V/cm,   Vx = -4.13861 cm/us,  dvx1 = -0.0509974 cm/us,  dvx2 =  -0.0551953 cm/us, dvx3 = -0.065666 cm/us, dvx4 = -0.165083 cm/us 
+E = 340V/cm,   Vx = -4.18914 cm/us,  dvx1 = -0.0439305 cm/us,  dvx2 =  -0.0474987 cm/us, dvx3 = -0.0567369 cm/us, dvx4 = -0.13586 cm/us 
+E = 350V/cm,   Vx = -4.23267 cm/us,  dvx1 = -0.0368635 cm/us,  dvx2 =  -0.0398021 cm/us, dvx3 = -0.0472872 cm/us, dvx4 = -0.107 cm/us 
+E = 360V/cm,   Vx = -4.2692 cm/us,  dvx1 = -0.0277696 cm/us,  dvx2 =  -0.029905 cm/us, dvx3 = -0.0358243 cm/us, dvx4 = -0.0794078 cm/us 
+E = 370V/cm,   Vx = -4.29673 cm/us,  dvx1 = -0.0214716 cm/us,  dvx2 =  -0.0231135 cm/us, dvx3 = -0.0277729 cm/us, dvx4 = -0.0576415 cm/us 
+E = 380V/cm,   Vx = -4.31802 cm/us,  dvx1 = -0.0159346 cm/us,  dvx2 =  -0.0170832 cm/us, dvx3 = -0.0203724 cm/us, dvx4 = -0.037874 cm/us 
+E = 390V/cm,   Vx = -4.33382 cm/us,  dvx1 = -0.0103976 cm/us,  dvx2 =  -0.0110528 cm/us, dvx3 = -0.0132048 cm/us, dvx4 = -0.0193442 cm/us 
+E = 400V/cm,   Vx = -4.34414 cm/us,  dvx1 = -0.00710974 cm/us,  dvx2 =  -0.00761127 cm/us, dvx3 = -0.00907784 cm/us, dvx4 = -0.001733 cm/us 
+E = 450V/cm,   Vx = -4.35119 cm/us,  dvx1 = 0.0157176 cm/us,  dvx2 =  0.0167522 cm/us, dvx3 = 0.0209433 cm/us, dvx4 = 0.0873273 cm/us 
+E = 500V/cm,   Vx = -4.33559 cm/us,  dvx1 = 0.0814324 cm/us,  dvx2 =  0.0831722 cm/us, dvx3 = 0.0910015 cm/us, dvx4 = 0.190363 cm/us 
+E = 550V/cm,   Vx = -4.25435 cm/us,  dvx1 = 0.109368 cm/us,  dvx2 =  0.11157 cm/us, dvx3 = 0.122597 cm/us, dvx4 = 0.2456 cm/us 
+E = 600V/cm,   Vx = -4.14523 cm/us,  dvx1 = 0.124264 cm/us,  dvx2 =  0.126528 cm/us, dvx3 = 0.138815 cm/us, dvx4 = 0.259183 cm/us 
+E = 650V/cm,   Vx = -4.02122 cm/us,  dvx1 = 0.113972 cm/us,  dvx2 =  0.115915 cm/us, dvx3 = 0.127721 cm/us, dvx4 = 0.246809 cm/us 
+E = 700V/cm,   Vx = -3.90746 cm/us,  dvx1 = 0.104031 cm/us,  dvx2 =  0.105813 cm/us, dvx3 = 0.117597 cm/us, dvx4 = 0.231108 cm/us 
+E = 750V/cm,   Vx = -3.80363 cm/us,  dvx1 = 0.0935894 cm/us,  dvx2 =  0.0951637 cm/us, dvx3 = 0.106391 cm/us, dvx4 = 0.208118 cm/us 
+E = 800V/cm,   Vx = -3.71021 cm/us,  dvx1 = 0.0803338 cm/us,  dvx2 =  0.0816404 cm/us, dvx3 = 0.0916379 cm/us, dvx4 = 0.174253 cm/us 
+E = 850V/cm,   Vx = -3.63002 cm/us,  dvx1 = 0.0642003 cm/us,  dvx2 =  0.0651686 cm/us, dvx3 = 0.0730705 cm/us, dvx4 = 0.136627 cm/us 
+E = 900V/cm,   Vx = -3.56593 cm/us,  dvx1 = 0.0473767 cm/us,  dvx2 =  0.0481058 cm/us, dvx3 = 0.054397 cm/us, dvx4 = 0.103305 cm/us 
+E = 950V/cm,   Vx = -3.51864 cm/us,  dvx1 = 0.034585 cm/us,  dvx2 =  0.0351206 cm/us, dvx3 = 0.0400597 cm/us, dvx4 = 0.0782061 cm/us 
+E = 1000V/cm,   Vx = -3.48411 cm/us,  dvx1 = 0.0261553 cm/us,  dvx2 =  0.0265567 cm/us, dvx3 = 0.0304386 cm/us, dvx4 = 0.0614326 cm/us 
+E = 1500V/cm,   Vx = -3.458 cm/us,  dvx1 = 0.00496749 cm/us,  dvx2 =  0.00473534 cm/us, dvx3 = 0.00109194 cm/us, dvx4 = -0.0401408 cm/us 
+E = 2000V/cm,   Vx = -3.45301 cm/us,  dvx1 = -0.150424 cm/us,  dvx2 =  -0.15068 cm/us, dvx3 = -0.156017 cm/us, dvx4 = -0.200863 cm/us 
+E = 2500V/cm,   Vx = -3.6034 cm/us,  dvx1 = -0.0795372 cm/us,  dvx2 =  -0.0794949 cm/us, dvx3 = -0.0782708 cm/us, dvx4 = -0.0589165 cm/us 
+E = 3000V/cm,   Vx = -3.68294 cm/us,  dvx1 = 0.0325663 cm/us,  dvx2 =  0.0326182 cm/us, dvx3 = 0.034324 cm/us, dvx4 = 0.06772 cm/us 
+E = 3500V/cm,   Vx = -3.65038 cm/us,  dvx1 = 0.0608169 cm/us,  dvx2 =  0.0609163 cm/us, dvx3 = 0.0646515 cm/us, dvx4 = 0.0986726 cm/us 
+E = 4000V/cm,   Vx = -3.58958 cm/us,  dvx1 = 0.0548592 cm/us,  dvx2 =  0.0549572 cm/us, dvx3 = 0.0591584 cm/us, dvx4 = 0.0914815 cm/us 
+E = 4500V/cm,   Vx = -3.53473 cm/us,  dvx1 = 0.0422341 cm/us,  dvx2 =  0.0422772 cm/us, dvx3 = 0.0442292 cm/us, dvx4 = 0.0413133 cm/us 
+E = 5000V/cm,   Vx = -3.4925 cm/us,  dvx1 = -0.00330238 cm/us,  dvx2 =  -0.00334808 cm/us, dvx3 = -0.00598769 cm/us, dvx4 = -0.0346489 cm/us 
+E = 5500V/cm,   Vx = -3.4958 cm/us,  dvx1 = -0.0313587 cm/us,  dvx2 =  -0.0314228 cm/us, dvx3 = -0.0353831 cm/us, dvx4 = -0.088906 cm/us 
+E = 6000V/cm,   Vx = -3.52715 cm/us,  dvx1 = -0.050659 cm/us,  dvx2 =  -0.0507826 cm/us, dvx3 = -0.0589464 cm/us, dvx4 = -0.134339 cm/us 
+E = 6500V/cm,   Vx = -3.57779 cm/us,  dvx1 = -0.0726539 cm/us,  dvx2 =  -0.0727529 cm/us, dvx3 = -0.0798154 cm/us, dvx4 = -0.146151 cm/us 
+E = 7000V/cm,   Vx = -3.65044 cm/us,  dvx1 = -0.0562046 cm/us,  dvx2 =  -0.0563078 cm/us, dvx3 = -0.0642472 cm/us, dvx4 = -0.151985 cm/us 
+E = 7500V/cm,   Vx = -3.70663 cm/us,  dvx1 = -0.0643314 cm/us,  dvx2 =  -0.0644663 cm/us, dvx3 = -0.0757681 cm/us, dvx4 = -0.205369 cm/us 
+E = 8000V/cm,   Vx = -3.77095 cm/us,  dvx1 = -0.0843369 cm/us,  dvx2 =  -0.0845056 cm/us, dvx3 = -0.100534 cm/us, dvx4 = -0.272425 cm/us 
+E = 8500V/cm,   Vx = -3.85526 cm/us,  dvx1 = -0.116419 cm/us,  dvx2 =  -0.116634 cm/us, dvx3 = -0.136701 cm/us, dvx4 = -0.298686 cm/us 
+E = 9000V/cm,   Vx = -3.97166 cm/us,  dvx1 = -0.11865 cm/us,  dvx2 =  -0.118827 cm/us, dvx3 = -0.136014 cm/us, dvx4 = -0.260881 cm/us 
+E = 9500V/cm,   Vx = -4.09029 cm/us,  dvx1 = -0.0877089 cm/us,  dvx2 =  -0.0878472 cm/us, dvx3 = -0.101906 cm/us, dvx4 = -0.223351 cm/us 
+E = 10000V/cm,   Vx = -4.17798 cm/us,  dvx1 = -0.0660459 cm/us,  dvx2 =  -0.0661852 cm/us, dvx3 = -0.0815031 cm/us, dvx4 = -0.220756 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(96-4).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (96/4)
-E = 20V/cm,   Vx = -0.130216 cm/us,  Delta_vx = -0.145566 cm/us
-E = 30V/cm,   Vx = -0.262434 cm/us,  Delta_vx = -0.14668 cm/us
-E = 40V/cm,   Vx = -0.396117 cm/us,  Delta_vx = -0.155157 cm/us
-E = 50V/cm,   Vx = -0.537809 cm/us,  Delta_vx = -0.166267 cm/us
-E = 60V/cm,   Vx = -0.688414 cm/us,  Delta_vx = -0.168093 cm/us
-E = 70V/cm,   Vx = -0.840056 cm/us,  Delta_vx = -0.188643 cm/us
-E = 80V/cm,   Vx = -1.01206 cm/us,  Delta_vx = -0.190392 cm/us
-E = 90V/cm,   Vx = -1.18398 cm/us,  Delta_vx = -0.208935 cm/us
-E = 100V/cm,   Vx = -1.3737 cm/us,  Delta_vx = -0.209364 cm/us
-E = 110V/cm,   Vx = -1.56427 cm/us,  Delta_vx = -0.210455 cm/us
-E = 120V/cm,   Vx = -1.75499 cm/us,  Delta_vx = -0.221359 cm/us
-E = 130V/cm,   Vx = -1.95566 cm/us,  Delta_vx = -0.226377 cm/us
-E = 140V/cm,   Vx = -2.16156 cm/us,  Delta_vx = -0.217898 cm/us
-E = 150V/cm,   Vx = -2.36018 cm/us,  Delta_vx = -0.208569 cm/us
-E = 160V/cm,   Vx = -2.54997 cm/us,  Delta_vx = -0.202422 cm/us
-E = 170V/cm,   Vx = -2.73437 cm/us,  Delta_vx = -0.193617 cm/us
-E = 180V/cm,   Vx = -2.91087 cm/us,  Delta_vx = -0.182447 cm/us
-E = 190V/cm,   Vx = -3.07726 cm/us,  Delta_vx = -0.170236 cm/us
-E = 200V/cm,   Vx = -3.23266 cm/us,  Delta_vx = -0.15608 cm/us
-E = 210V/cm,   Vx = -3.3752 cm/us,  Delta_vx = -0.140213 cm/us
-E = 220V/cm,   Vx = -3.50344 cm/us,  Delta_vx = -0.124574 cm/us
-E = 230V/cm,   Vx = -3.61734 cm/us,  Delta_vx = -0.110767 cm/us
-E = 240V/cm,   Vx = -3.71855 cm/us,  Delta_vx = -0.0988584 cm/us
-E = 250V/cm,   Vx = -3.80899 cm/us,  Delta_vx = -0.0863384 cm/us
-E = 260V/cm,   Vx = -3.88805 cm/us,  Delta_vx = -0.0733364 cm/us
-E = 270V/cm,   Vx = -3.95529 cm/us,  Delta_vx = -0.0613213 cm/us
-E = 280V/cm,   Vx = -4.01155 cm/us,  Delta_vx = -0.0499644 cm/us
-E = 290V/cm,   Vx = -4.05749 cm/us,  Delta_vx = -0.0383769 cm/us
-E = 300V/cm,   Vx = -4.09283 cm/us,  Delta_vx = -0.0290691 cm/us
-E = 310V/cm,   Vx = -4.11965 cm/us,  Delta_vx = -0.020409 cm/us
-E = 320V/cm,   Vx = -4.1386 cm/us,  Delta_vx = -0.0125137 cm/us
-E = 330V/cm,   Vx = -4.15024 cm/us,  Delta_vx = -0.00664281 cm/us
-E = 340V/cm,   Vx = -4.15655 cm/us,  Delta_vx = -0.000583756 cm/us
-E = 350V/cm,   Vx = -4.15736 cm/us,  Delta_vx = 0.00547529 cm/us
-E = 360V/cm,   Vx = -4.15265 cm/us,  Delta_vx = 0.0119884 cm/us
-E = 370V/cm,   Vx = -4.14195 cm/us,  Delta_vx = 0.0159155 cm/us
-E = 380V/cm,   Vx = -4.12764 cm/us,  Delta_vx = 0.0194366 cm/us
-E = 390V/cm,   Vx = -4.11013 cm/us,  Delta_vx = 0.0229577 cm/us
-E = 400V/cm,   Vx = -4.08942 cm/us,  Delta_vx = 0.0233631 cm/us
-E = 450V/cm,   Vx = -4.06821 cm/us,  Delta_vx = 0.134423 cm/us
-E = 500V/cm,   Vx = -3.93693 cm/us,  Delta_vx = 0.159429 cm/us
-E = 550V/cm,   Vx = -3.78033 cm/us,  Delta_vx = 0.138875 cm/us
-E = 600V/cm,   Vx = -3.64418 cm/us,  Delta_vx = 0.132261 cm/us
-E = 650V/cm,   Vx = -3.51438 cm/us,  Delta_vx = 0.112396 cm/us
-E = 700V/cm,   Vx = -3.40399 cm/us,  Delta_vx = 0.0910561 cm/us
-E = 750V/cm,   Vx = -3.31452 cm/us,  Delta_vx = 0.0716953 cm/us
-E = 800V/cm,   Vx = -3.24405 cm/us,  Delta_vx = 0.0557254 cm/us
-E = 850V/cm,   Vx = -3.18928 cm/us,  Delta_vx = 0.0416482 cm/us
-E = 900V/cm,   Vx = -3.14832 cm/us,  Delta_vx = 0.0303442 cm/us
-E = 950V/cm,   Vx = -3.11848 cm/us,  Delta_vx = 0.021564 cm/us
-E = 1000V/cm,   Vx = -3.09728 cm/us,  Delta_vx = 0.0151895 cm/us
-E = 1500V/cm,   Vx = -3.08232 cm/us,  Delta_vx = -0.0812991 cm/us
-E = 2000V/cm,   Vx = -3.16328 cm/us,  Delta_vx = -0.12864 cm/us
-E = 2500V/cm,   Vx = -3.29176 cm/us,  Delta_vx = -0.0242927 cm/us
-E = 3000V/cm,   Vx = -3.31612 cm/us,  Delta_vx = 0.0631874 cm/us
-E = 3500V/cm,   Vx = -3.2531 cm/us,  Delta_vx = 0.0807658 cm/us
-E = 4000V/cm,   Vx = -3.17247 cm/us,  Delta_vx = 0.0281047 cm/us
-E = 4500V/cm,   Vx = -3.14434 cm/us,  Delta_vx = -0.019001 cm/us
-E = 5000V/cm,   Vx = -3.16331 cm/us,  Delta_vx = -0.011685 cm/us
-E = 5500V/cm,   Vx = -3.17496 cm/us,  Delta_vx = -0.037942 cm/us
-E = 6000V/cm,   Vx = -3.21278 cm/us,  Delta_vx = -0.0700918 cm/us
-E = 6500V/cm,   Vx = -3.28273 cm/us,  Delta_vx = -0.0831662 cm/us
-E = 7000V/cm,   Vx = -3.36568 cm/us,  Delta_vx = -0.10502 cm/us
-E = 7500V/cm,   Vx = -3.47049 cm/us,  Delta_vx = -0.0914818 cm/us
-E = 8000V/cm,   Vx = -3.56182 cm/us,  Delta_vx = -0.0813359 cm/us
-E = 8500V/cm,   Vx = -3.64299 cm/us,  Delta_vx = -0.109235 cm/us
-E = 9000V/cm,   Vx = -3.75199 cm/us,  Delta_vx = -0.12501 cm/us
-E = 9500V/cm,   Vx = -3.87675 cm/us,  Delta_vx = -0.126368 cm/us
-E = 10000V/cm,   Vx = -4.00286 cm/us,  Delta_vx = -0.13131 cm/us
+E = 20V/cm,   Vx = -0.130216 cm/us,  dvx1 = -0.133568 cm/us,  dvx2 =  -0.145566 cm/us, dvx3 = -0.134914 cm/us, dvx4 = -0.158108 cm/us 
+E = 30V/cm,   Vx = -0.262434 cm/us,  dvx1 = -0.134973 cm/us,  dvx2 =  -0.14668 cm/us, dvx3 = -0.137558 cm/us, dvx4 = -0.173678 cm/us 
+E = 40V/cm,   Vx = -0.396117 cm/us,  dvx1 = -0.143054 cm/us,  dvx2 =  -0.155157 cm/us, dvx3 = -0.14713 cm/us, dvx4 = -0.196222 cm/us 
+E = 50V/cm,   Vx = -0.537809 cm/us,  dvx1 = -0.152278 cm/us,  dvx2 =  -0.166267 cm/us, dvx3 = -0.158937 cm/us, dvx4 = -0.224506 cm/us 
+E = 60V/cm,   Vx = -0.688414 cm/us,  dvx1 = -0.153277 cm/us,  dvx2 =  -0.168093 cm/us, dvx3 = -0.161486 cm/us, dvx4 = -0.253781 cm/us 
+E = 70V/cm,   Vx = -0.840056 cm/us,  dvx1 = -0.173665 cm/us,  dvx2 =  -0.188643 cm/us, dvx3 = -0.183644 cm/us, dvx4 = -0.289987 cm/us 
+E = 80V/cm,   Vx = -1.01206 cm/us,  dvx1 = -0.173758 cm/us,  dvx2 =  -0.190392 cm/us, dvx3 = -0.186686 cm/us, dvx4 = -0.323239 cm/us 
+E = 90V/cm,   Vx = -1.18398 cm/us,  dvx1 = -0.191642 cm/us,  dvx2 =  -0.208935 cm/us, dvx3 = -0.207013 cm/us, dvx4 = -0.361529 cm/us 
+E = 100V/cm,   Vx = -1.3737 cm/us,  dvx1 = -0.192449 cm/us,  dvx2 =  -0.209364 cm/us, dvx3 = -0.209364 cm/us, dvx4 = -0.381289 cm/us 
+E = 110V/cm,   Vx = -1.56427 cm/us,  dvx1 = -0.192688 cm/us,  dvx2 =  -0.210455 cm/us, dvx3 = -0.212432 cm/us, dvx4 = -0.412077 cm/us 
+E = 120V/cm,   Vx = -1.75499 cm/us,  dvx1 = -0.202738 cm/us,  dvx2 =  -0.221359 cm/us, dvx3 = -0.225495 cm/us, dvx4 = -0.447491 cm/us 
+E = 130V/cm,   Vx = -1.95566 cm/us,  dvx1 = -0.207956 cm/us,  dvx2 =  -0.226377 cm/us, dvx3 = -0.232513 cm/us, dvx4 = -0.462143 cm/us 
+E = 140V/cm,   Vx = -2.16156 cm/us,  dvx1 = -0.200549 cm/us,  dvx2 =  -0.217898 cm/us, dvx3 = -0.22559 cm/us, dvx4 = -0.463073 cm/us 
+E = 150V/cm,   Vx = -2.36018 cm/us,  dvx1 = -0.19167 cm/us,  dvx2 =  -0.208569 cm/us, dvx3 = -0.217931 cm/us, dvx4 = -0.463548 cm/us 
+E = 160V/cm,   Vx = -2.54997 cm/us,  dvx1 = -0.186204 cm/us,  dvx2 =  -0.202422 cm/us, dvx3 = -0.213199 cm/us, dvx4 = -0.461999 cm/us 
+E = 170V/cm,   Vx = -2.73437 cm/us,  dvx1 = -0.17822 cm/us,  dvx2 =  -0.193617 cm/us, dvx3 = -0.205534 cm/us, dvx4 = -0.452981 cm/us 
+E = 180V/cm,   Vx = -2.91087 cm/us,  dvx1 = -0.167999 cm/us,  dvx2 =  -0.182447 cm/us, dvx3 = -0.195219 cm/us, dvx4 = -0.436861 cm/us 
+E = 190V/cm,   Vx = -3.07726 cm/us,  dvx1 = -0.156885 cm/us,  dvx2 =  -0.170236 cm/us, dvx3 = -0.183482 cm/us, dvx4 = -0.414087 cm/us 
+E = 200V/cm,   Vx = -3.23266 cm/us,  dvx1 = -0.143903 cm/us,  dvx2 =  -0.15608 cm/us, dvx3 = -0.169487 cm/us, dvx4 = -0.38468 cm/us 
+E = 210V/cm,   Vx = -3.3752 cm/us,  dvx1 = -0.129447 cm/us,  dvx2 =  -0.140213 cm/us, dvx3 = -0.153229 cm/us, dvx4 = -0.352904 cm/us 
+E = 220V/cm,   Vx = -3.50344 cm/us,  dvx1 = -0.114966 cm/us,  dvx2 =  -0.124574 cm/us, dvx3 = -0.137222 cm/us, dvx4 = -0.322266 cm/us 
+E = 230V/cm,   Vx = -3.61734 cm/us,  dvx1 = -0.102172 cm/us,  dvx2 =  -0.110767 cm/us, dvx3 = -0.12302 cm/us, dvx4 = -0.292208 cm/us 
+E = 240V/cm,   Vx = -3.71855 cm/us,  dvx1 = -0.0912873 cm/us,  dvx2 =  -0.0988584 cm/us, dvx3 = -0.110452 cm/us, dvx4 = -0.260489 cm/us 
+E = 250V/cm,   Vx = -3.80899 cm/us,  dvx1 = -0.0797917 cm/us,  dvx2 =  -0.0863384 cm/us, dvx3 = -0.0970448 cm/us, dvx4 = -0.226827 cm/us 
+E = 260V/cm,   Vx = -3.88805 cm/us,  dvx1 = -0.0678593 cm/us,  dvx2 =  -0.0733364 cm/us, dvx3 = -0.0828671 cm/us, dvx4 = -0.191855 cm/us 
+E = 270V/cm,   Vx = -3.95529 cm/us,  dvx1 = -0.0567734 cm/us,  dvx2 =  -0.0613213 cm/us, dvx3 = -0.0696837 cm/us, dvx4 = -0.157143 cm/us 
+E = 280V/cm,   Vx = -4.01155 cm/us,  dvx1 = -0.0463456 cm/us,  dvx2 =  -0.0499644 cm/us, dvx3 = -0.056951 cm/us, dvx4 = -0.123887 cm/us 
+E = 290V/cm,   Vx = -4.05749 cm/us,  dvx1 = -0.0356478 cm/us,  dvx2 =  -0.0383769 cm/us, dvx3 = -0.0439289 cm/us, dvx4 = -0.091808 cm/us 
+E = 300V/cm,   Vx = -4.09283 cm/us,  dvx1 = -0.0270486 cm/us,  dvx2 =  -0.0290691 cm/us, dvx3 = -0.033331 cm/us, dvx4 = -0.0637162 cm/us 
+E = 310V/cm,   Vx = -4.11965 cm/us,  dvx1 = -0.019097 cm/us,  dvx2 =  -0.020409 cm/us, dvx3 = -0.0232224 cm/us, dvx4 = -0.0374798 cm/us 
+E = 320V/cm,   Vx = -4.1386 cm/us,  dvx1 = -0.0117248 cm/us,  dvx2 =  -0.0125137 cm/us, dvx3 = -0.0142543 cm/us, dvx4 = -0.0124513 cm/us 
+E = 330V/cm,   Vx = -4.15024 cm/us,  dvx1 = -0.00634965 cm/us,  dvx2 =  -0.00664281 cm/us, dvx3 = -0.00718927 cm/us, dvx4 = 0.0122398 cm/us 
+E = 340V/cm,   Vx = -4.15655 cm/us,  dvx1 = -0.000786343 cm/us,  dvx2 =  -0.000583756 cm/us, dvx3 = 0.000174602 cm/us, dvx4 = 0.035526 cm/us 
+E = 350V/cm,   Vx = -4.15736 cm/us,  dvx1 = 0.00477697 cm/us,  dvx2 =  0.00547529 cm/us, dvx3 = 0.00781966 cm/us, dvx4 = 0.0571771 cm/us 
+E = 360V/cm,   Vx = -4.15265 cm/us,  dvx1 = 0.0108288 cm/us,  dvx2 =  0.0119884 cm/us, dvx3 = 0.0154839 cm/us, dvx4 = 0.0760268 cm/us 
+E = 370V/cm,   Vx = -4.14195 cm/us,  dvx1 = 0.0144679 cm/us,  dvx2 =  0.0159155 cm/us, dvx3 = 0.0204141 cm/us, dvx4 = 0.0891347 cm/us 
+E = 380V/cm,   Vx = -4.12764 cm/us,  dvx1 = 0.0177009 cm/us,  dvx2 =  0.0194366 cm/us, dvx3 = 0.0250026 cm/us, dvx4 = 0.1007 cm/us 
+E = 390V/cm,   Vx = -4.11013 cm/us,  dvx1 = 0.0209339 cm/us,  dvx2 =  0.0229577 cm/us, dvx3 = 0.0291962 cm/us, dvx4 = 0.111128 cm/us 
+E = 400V/cm,   Vx = -4.08942 cm/us,  dvx1 = 0.0214296 cm/us,  dvx2 =  0.0233631 cm/us, dvx3 = 0.0299077 cm/us, dvx4 = 0.121269 cm/us 
+E = 450V/cm,   Vx = -4.06821 cm/us,  dvx1 = 0.131592 cm/us,  dvx2 =  0.134423 cm/us, dvx3 = 0.145469 cm/us, dvx4 = 0.273629 cm/us 
+E = 500V/cm,   Vx = -3.93693 cm/us,  dvx1 = 0.15688 cm/us,  dvx2 =  0.159429 cm/us, dvx3 = 0.170704 cm/us, dvx4 = 0.292748 cm/us 
+E = 550V/cm,   Vx = -3.78033 cm/us,  dvx1 = 0.136424 cm/us,  dvx2 =  0.138875 cm/us, dvx3 = 0.151066 cm/us, dvx4 = 0.27816 cm/us 
+E = 600V/cm,   Vx = -3.64418 cm/us,  dvx1 = 0.130044 cm/us,  dvx2 =  0.132261 cm/us, dvx3 = 0.144364 cm/us, dvx4 = 0.259828 cm/us 
+E = 650V/cm,   Vx = -3.51438 cm/us,  dvx1 = 0.110597 cm/us,  dvx2 =  0.112396 cm/us, dvx3 = 0.123249 cm/us, dvx4 = 0.222887 cm/us 
+E = 700V/cm,   Vx = -3.40399 cm/us,  dvx1 = 0.0896302 cm/us,  dvx2 =  0.0910561 cm/us, dvx3 = 0.100414 cm/us, dvx4 = 0.1835 cm/us 
+E = 750V/cm,   Vx = -3.31452 cm/us,  dvx1 = 0.070588 cm/us,  dvx2 =  0.0716953 cm/us, dvx3 = 0.0795599 cm/us, dvx4 = 0.147446 cm/us 
+E = 800V/cm,   Vx = -3.24405 cm/us,  dvx1 = 0.0548664 cm/us,  dvx2 =  0.0557254 cm/us, dvx3 = 0.0622535 cm/us, dvx4 = 0.114786 cm/us 
+E = 850V/cm,   Vx = -3.18928 cm/us,  dvx1 = 0.0410266 cm/us,  dvx2 =  0.0416482 cm/us, dvx3 = 0.0467073 cm/us, dvx4 = 0.0861679 cm/us 
+E = 900V/cm,   Vx = -3.14832 cm/us,  dvx1 = 0.0298951 cm/us,  dvx2 =  0.0303442 cm/us, dvx3 = 0.034199 cm/us, dvx4 = 0.063562 cm/us 
+E = 950V/cm,   Vx = -3.11848 cm/us,  dvx1 = 0.0212341 cm/us,  dvx2 =  0.021564 cm/us, dvx3 = 0.02457 cm/us, dvx4 = 0.0434409 cm/us 
+E = 1000V/cm,   Vx = -3.09728 cm/us,  dvx1 = 0.0149836 cm/us,  dvx2 =  0.0151895 cm/us, dvx3 = 0.0171259 cm/us, dvx4 = 0.0235909 cm/us 
+E = 1500V/cm,   Vx = -3.08232 cm/us,  dvx1 = -0.0809963 cm/us,  dvx2 =  -0.0812991 cm/us, dvx3 = -0.0860318 cm/us, dvx4 = -0.135665 cm/us 
+E = 2000V/cm,   Vx = -3.16328 cm/us,  dvx1 = -0.128492 cm/us,  dvx2 =  -0.12864 cm/us, dvx3 = -0.131721 cm/us, dvx4 = -0.155979 cm/us 
+E = 2500V/cm,   Vx = -3.29176 cm/us,  dvx1 = -0.0243565 cm/us,  dvx2 =  -0.0242927 cm/us, dvx3 = -0.0225109 cm/us, dvx4 = 0.00157653 cm/us 
+E = 3000V/cm,   Vx = -3.31612 cm/us,  dvx1 = 0.0630415 cm/us,  dvx2 =  0.0631874 cm/us, dvx3 = 0.0679352 cm/us, dvx4 = 0.112481 cm/us 
+E = 3500V/cm,   Vx = -3.2531 cm/us,  dvx1 = 0.0806385 cm/us,  dvx2 =  0.0807658 cm/us, dvx3 = 0.0854312 cm/us, dvx4 = 0.111313 cm/us 
+E = 4000V/cm,   Vx = -3.17247 cm/us,  dvx1 = 0.0281323 cm/us,  dvx2 =  0.0281047 cm/us, dvx3 = 0.0267678 cm/us, dvx4 = 0.0120079 cm/us 
+E = 4500V/cm,   Vx = -3.14434 cm/us,  dvx1 = -0.0189754 cm/us,  dvx2 =  -0.019001 cm/us, dvx3 = -0.0202489 cm/us, dvx4 = -0.0290938 cm/us 
+E = 5000V/cm,   Vx = -3.16331 cm/us,  dvx1 = -0.0116555 cm/us,  dvx2 =  -0.011685 cm/us, dvx3 = -0.0133924 cm/us, dvx4 = -0.0494747 cm/us 
+E = 5500V/cm,   Vx = -3.17496 cm/us,  dvx1 = -0.0378344 cm/us,  dvx2 =  -0.037942 cm/us, dvx3 = -0.0445635 cm/us, dvx4 = -0.115312 cm/us 
+E = 6000V/cm,   Vx = -3.21278 cm/us,  dvx1 = -0.0699574 cm/us,  dvx2 =  -0.0700918 cm/us, dvx3 = -0.079019 cm/us, dvx4 = -0.173773 cm/us 
+E = 6500V/cm,   Vx = -3.28273 cm/us,  dvx1 = -0.0829785 cm/us,  dvx2 =  -0.0831662 cm/us, dvx3 = -0.0965203 cm/us, dvx4 = -0.219425 cm/us 
+E = 7000V/cm,   Vx = -3.36568 cm/us,  dvx1 = -0.10483 cm/us,  dvx2 =  -0.10502 cm/us, dvx3 = -0.119571 cm/us, dvx4 = -0.228221 cm/us 
+E = 7500V/cm,   Vx = -3.47049 cm/us,  dvx1 = -0.0913386 cm/us,  dvx2 =  -0.0914818 cm/us, dvx3 = -0.103297 cm/us, dvx4 = -0.223977 cm/us 
+E = 8000V/cm,   Vx = -3.56182 cm/us,  dvx1 = -0.0811869 cm/us,  dvx2 =  -0.0813359 cm/us, dvx3 = -0.0954693 cm/us, dvx4 = -0.263632 cm/us 
+E = 8500V/cm,   Vx = -3.64299 cm/us,  dvx1 = -0.109022 cm/us,  dvx2 =  -0.109235 cm/us, dvx3 = -0.12932 cm/us, dvx4 = -0.321519 cm/us 
+E = 9000V/cm,   Vx = -3.75199 cm/us,  dvx1 = -0.124787 cm/us,  dvx2 =  -0.12501 cm/us, dvx3 = -0.147098 cm/us, dvx4 = -0.35532 cm/us 
+E = 9500V/cm,   Vx = -3.87675 cm/us,  dvx1 = -0.126137 cm/us,  dvx2 =  -0.126368 cm/us, dvx3 = -0.150631 cm/us, dvx4 = -0.372785 cm/us 
+E = 10000V/cm,   Vx = -4.00286 cm/us,  dvx1 = -0.131079 cm/us,  dvx2 =  -0.13131 cm/us, dvx3 = -0.156746 cm/us, dvx4 = -0.387988 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(97-3).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (97/3)
-E = 20V/cm,   Vx = -0.16016 cm/us,  Delta_vx = -0.179007 cm/us
-E = 30V/cm,   Vx = -0.321799 cm/us,  Delta_vx = -0.19236 cm/us
-E = 40V/cm,   Vx = -0.496315 cm/us,  Delta_vx = -0.206686 cm/us
-E = 50V/cm,   Vx = -0.682824 cm/us,  Delta_vx = -0.220551 cm/us
-E = 60V/cm,   Vx = -0.881822 cm/us,  Delta_vx = -0.244536 cm/us
-E = 70V/cm,   Vx = -1.1043 cm/us,  Delta_vx = -0.247645 cm/us
-E = 80V/cm,   Vx = -1.32795 cm/us,  Delta_vx = -0.270849 cm/us
-E = 90V/cm,   Vx = -1.57395 cm/us,  Delta_vx = -0.270929 cm/us
-E = 100V/cm,   Vx = -1.82058 cm/us,  Delta_vx = -0.268086 cm/us
-E = 110V/cm,   Vx = -2.06415 cm/us,  Delta_vx = -0.268358 cm/us
-E = 120V/cm,   Vx = -2.30837 cm/us,  Delta_vx = -0.25797 cm/us
-E = 130V/cm,   Vx = -2.54391 cm/us,  Delta_vx = -0.235708 cm/us
-E = 140V/cm,   Vx = -2.75919 cm/us,  Delta_vx = -0.212985 cm/us
-E = 150V/cm,   Vx = -2.95383 cm/us,  Delta_vx = -0.191168 cm/us
-E = 160V/cm,   Vx = -3.12854 cm/us,  Delta_vx = -0.170884 cm/us
-E = 170V/cm,   Vx = -3.28481 cm/us,  Delta_vx = -0.151826 cm/us
-E = 180V/cm,   Vx = -3.4237 cm/us,  Delta_vx = -0.131085 cm/us
-E = 190V/cm,   Vx = -3.54389 cm/us,  Delta_vx = -0.104153 cm/us
-E = 200V/cm,   Vx = -3.63978 cm/us,  Delta_vx = -0.0809515 cm/us
-E = 210V/cm,   Vx = -3.71427 cm/us,  Delta_vx = -0.0647804 cm/us
-E = 220V/cm,   Vx = -3.77363 cm/us,  Delta_vx = -0.0527972 cm/us
-E = 230V/cm,   Vx = -3.82225 cm/us,  Delta_vx = -0.0389077 cm/us
-E = 240V/cm,   Vx = -3.85829 cm/us,  Delta_vx = -0.0254971 cm/us
-E = 250V/cm,   Vx = -3.88202 cm/us,  Delta_vx = -0.0134891 cm/us
-E = 260V/cm,   Vx = -3.89483 cm/us,  Delta_vx = -0.000556819 cm/us
-E = 270V/cm,   Vx = -3.89584 cm/us,  Delta_vx = 0.0088523 cm/us
-E = 280V/cm,   Vx = -3.88814 cm/us,  Delta_vx = 0.0164802 cm/us
-E = 290V/cm,   Vx = -3.87351 cm/us,  Delta_vx = 0.0206793 cm/us
-E = 300V/cm,   Vx = -3.85479 cm/us,  Delta_vx = 0.023625 cm/us
-E = 310V/cm,   Vx = -3.8335 cm/us,  Delta_vx = 0.0277575 cm/us
-E = 320V/cm,   Vx = -3.80845 cm/us,  Delta_vx = 0.0327254 cm/us
-E = 330V/cm,   Vx = -3.77895 cm/us,  Delta_vx = 0.0365951 cm/us
-E = 340V/cm,   Vx = -3.74578 cm/us,  Delta_vx = 0.0387626 cm/us
-E = 350V/cm,   Vx = -3.71064 cm/us,  Delta_vx = 0.04093 cm/us
-E = 360V/cm,   Vx = -3.67353 cm/us,  Delta_vx = 0.0405154 cm/us
-E = 370V/cm,   Vx = -3.63667 cm/us,  Delta_vx = 0.0403438 cm/us
-E = 380V/cm,   Vx = -3.60001 cm/us,  Delta_vx = 0.0406299 cm/us
-E = 390V/cm,   Vx = -3.56309 cm/us,  Delta_vx = 0.040916 cm/us
-E = 400V/cm,   Vx = -3.5259 cm/us,  Delta_vx = 0.0415933 cm/us
-E = 450V/cm,   Vx = -3.48808 cm/us,  Delta_vx = 0.183019 cm/us
-E = 500V/cm,   Vx = -3.30835 cm/us,  Delta_vx = 0.157486 cm/us
-E = 550V/cm,   Vx = -3.1538 cm/us,  Delta_vx = 0.137046 cm/us
-E = 600V/cm,   Vx = -3.01915 cm/us,  Delta_vx = 0.107799 cm/us
-E = 650V/cm,   Vx = -2.91318 cm/us,  Delta_vx = 0.0778978 cm/us
-E = 700V/cm,   Vx = -2.83659 cm/us,  Delta_vx = 0.0602715 cm/us
-E = 750V/cm,   Vx = -2.77739 cm/us,  Delta_vx = 0.0460524 cm/us
-E = 800V/cm,   Vx = -2.73195 cm/us,  Delta_vx = 0.0250265 cm/us
-E = 850V/cm,   Vx = -2.70729 cm/us,  Delta_vx = 0.0148629 cm/us
-E = 900V/cm,   Vx = -2.69271 cm/us,  Delta_vx = 0.0108892 cm/us
-E = 950V/cm,   Vx = -2.68196 cm/us,  Delta_vx = 0.00274038 cm/us
-E = 1000V/cm,   Vx = -2.67918 cm/us,  Delta_vx = -0.00457056 cm/us
-E = 1500V/cm,   Vx = -2.68361 cm/us,  Delta_vx = -0.142948 cm/us
-E = 2000V/cm,   Vx = -2.82625 cm/us,  Delta_vx = -0.0728861 cm/us
-E = 2500V/cm,   Vx = -2.8992 cm/us,  Delta_vx = 0.0534822 cm/us
-E = 3000V/cm,   Vx = -2.84589 cm/us,  Delta_vx = 0.0691918 cm/us
-E = 3500V/cm,   Vx = -2.77678 cm/us,  Delta_vx = 0.0328903 cm/us
-E = 4000V/cm,   Vx = -2.74398 cm/us,  Delta_vx = 0.00765862 cm/us
-E = 4500V/cm,   Vx = -2.73624 cm/us,  Delta_vx = -0.0435935 cm/us
-E = 5000V/cm,   Vx = -2.77975 cm/us,  Delta_vx = -0.0538125 cm/us
-E = 5500V/cm,   Vx = -2.83343 cm/us,  Delta_vx = -0.0735587 cm/us
-E = 6000V/cm,   Vx = -2.90682 cm/us,  Delta_vx = -0.109718 cm/us
-E = 6500V/cm,   Vx = -3.01626 cm/us,  Delta_vx = -0.138356 cm/us
-E = 7000V/cm,   Vx = -3.15444 cm/us,  Delta_vx = -0.0873444 cm/us
-E = 7500V/cm,   Vx = -3.24161 cm/us,  Delta_vx = -0.0967407 cm/us
-E = 8000V/cm,   Vx = -3.33813 cm/us,  Delta_vx = -0.118642 cm/us
-E = 8500V/cm,   Vx = -3.45652 cm/us,  Delta_vx = -0.116642 cm/us
-E = 9000V/cm,   Vx = -3.57293 cm/us,  Delta_vx = -0.119411 cm/us
-E = 9500V/cm,   Vx = -3.69209 cm/us,  Delta_vx = -0.127978 cm/us
-E = 10000V/cm,   Vx = -3.81981 cm/us,  Delta_vx = -0.135138 cm/us
+E = 20V/cm,   Vx = -0.16016 cm/us,  dvx1 = -0.163375 cm/us,  dvx2 =  -0.179007 cm/us, dvx3 = -0.16511 cm/us, dvx4 = -0.19584 cm/us 
+E = 30V/cm,   Vx = -0.321799 cm/us,  dvx1 = -0.176301 cm/us,  dvx2 =  -0.19236 cm/us, dvx3 = -0.179872 cm/us, dvx4 = -0.227887 cm/us 
+E = 40V/cm,   Vx = -0.496315 cm/us,  dvx1 = -0.188557 cm/us,  dvx2 =  -0.206686 cm/us, dvx3 = -0.194713 cm/us, dvx4 = -0.264954 cm/us 
+E = 50V/cm,   Vx = -0.682824 cm/us,  dvx1 = -0.201094 cm/us,  dvx2 =  -0.220551 cm/us, dvx3 = -0.209527 cm/us, dvx4 = -0.310191 cm/us 
+E = 60V/cm,   Vx = -0.881822 cm/us,  dvx1 = -0.224686 cm/us,  dvx2 =  -0.244536 cm/us, dvx3 = -0.235714 cm/us, dvx4 = -0.355029 cm/us 
+E = 70V/cm,   Vx = -1.1043 cm/us,  dvx1 = -0.226045 cm/us,  dvx2 =  -0.247645 cm/us, dvx3 = -0.240431 cm/us, dvx4 = -0.394895 cm/us 
+E = 80V/cm,   Vx = -1.32795 cm/us,  dvx1 = -0.248482 cm/us,  dvx2 =  -0.270849 cm/us, dvx3 = -0.265879 cm/us, dvx4 = -0.443955 cm/us 
+E = 90V/cm,   Vx = -1.57395 cm/us,  dvx1 = -0.249057 cm/us,  dvx2 =  -0.270929 cm/us, dvx3 = -0.2685 cm/us, dvx4 = -0.465673 cm/us 
+E = 100V/cm,   Vx = -1.82058 cm/us,  dvx1 = -0.246029 cm/us,  dvx2 =  -0.268086 cm/us, dvx3 = -0.268086 cm/us, dvx4 = -0.48779 cm/us 
+E = 110V/cm,   Vx = -2.06415 cm/us,  dvx1 = -0.246633 cm/us,  dvx2 =  -0.268358 cm/us, dvx3 = -0.270766 cm/us, dvx4 = -0.502183 cm/us 
+E = 120V/cm,   Vx = -2.30837 cm/us,  dvx1 = -0.237792 cm/us,  dvx2 =  -0.25797 cm/us, dvx3 = -0.262432 cm/us, dvx4 = -0.491474 cm/us 
+E = 130V/cm,   Vx = -2.54391 cm/us,  dvx1 = -0.217333 cm/us,  dvx2 =  -0.235708 cm/us, dvx3 = -0.241797 cm/us, dvx4 = -0.464371 cm/us 
+E = 140V/cm,   Vx = -2.75919 cm/us,  dvx1 = -0.196481 cm/us,  dvx2 =  -0.212985 cm/us, dvx3 = -0.220268 cm/us, dvx4 = -0.434061 cm/us 
+E = 150V/cm,   Vx = -2.95383 cm/us,  dvx1 = -0.17637 cm/us,  dvx2 =  -0.191168 cm/us, dvx3 = -0.199325 cm/us, dvx4 = -0.402239 cm/us 
+E = 160V/cm,   Vx = -3.12854 cm/us,  dvx1 = -0.157736 cm/us,  dvx2 =  -0.170884 cm/us, dvx3 = -0.179567 cm/us, dvx4 = -0.369719 cm/us 
+E = 170V/cm,   Vx = -3.28481 cm/us,  dvx1 = -0.14019 cm/us,  dvx2 =  -0.151826 cm/us, dvx3 = -0.160761 cm/us, dvx4 = -0.329139 cm/us 
+E = 180V/cm,   Vx = -3.4237 cm/us,  dvx1 = -0.121289 cm/us,  dvx2 =  -0.131085 cm/us, dvx3 = -0.139654 cm/us, dvx4 = -0.277111 cm/us 
+E = 190V/cm,   Vx = -3.54389 cm/us,  dvx1 = -0.0967322 cm/us,  dvx2 =  -0.104153 cm/us, dvx3 = -0.111429 cm/us, dvx4 = -0.224195 cm/us 
+E = 200V/cm,   Vx = -3.63978 cm/us,  dvx1 = -0.0751418 cm/us,  dvx2 =  -0.0809515 cm/us, dvx3 = -0.0872366 cm/us, dvx4 = -0.182465 cm/us 
+E = 210V/cm,   Vx = -3.71427 cm/us,  dvx1 = -0.0599049 cm/us,  dvx2 =  -0.0647804 cm/us, dvx3 = -0.0706022 cm/us, dvx4 = -0.146886 cm/us 
+E = 220V/cm,   Vx = -3.77363 cm/us,  dvx1 = -0.0490444 cm/us,  dvx2 =  -0.0527972 cm/us, dvx3 = -0.0576438 cm/us, dvx4 = -0.111825 cm/us 
+E = 230V/cm,   Vx = -3.82225 cm/us,  dvx1 = -0.0363353 cm/us,  dvx2 =  -0.0389077 cm/us, dvx3 = -0.0424674 cm/us, dvx4 = -0.0742916 cm/us 
+E = 240V/cm,   Vx = -3.85829 cm/us,  dvx1 = -0.0239071 cm/us,  dvx2 =  -0.0254971 cm/us, dvx3 = -0.0277946 cm/us, dvx4 = -0.0353003 cm/us 
+E = 250V/cm,   Vx = -3.88202 cm/us,  dvx1 = -0.0128816 cm/us,  dvx2 =  -0.0134891 cm/us, dvx3 = -0.0143051 cm/us, dvx4 = 0.000328162 cm/us 
+E = 260V/cm,   Vx = -3.89483 cm/us,  dvx1 = -0.000972168 cm/us,  dvx2 =  -0.000556819 cm/us, dvx3 = 0.000320269 cm/us, dvx4 = 0.0325768 cm/us 
+E = 270V/cm,   Vx = -3.89584 cm/us,  dvx1 = 0.00781285 cm/us,  dvx2 =  0.0088523 cm/us, dvx3 = 0.010969 cm/us, dvx4 = 0.0555637 cm/us 
+E = 280V/cm,   Vx = -3.88814 cm/us,  dvx1 = 0.0148167 cm/us,  dvx2 =  0.0164802 cm/us, dvx3 = 0.0199758 cm/us, dvx4 = 0.0743806 cm/us 
+E = 290V/cm,   Vx = -3.87351 cm/us,  dvx1 = 0.0189137 cm/us,  dvx2 =  0.0206793 cm/us, dvx3 = 0.0245066 cm/us, dvx4 = 0.0913437 cm/us 
+E = 300V/cm,   Vx = -3.85479 cm/us,  dvx1 = 0.0215213 cm/us,  dvx2 =  0.023625 cm/us, dvx3 = 0.0284089 cm/us, dvx4 = 0.109003 cm/us 
+E = 310V/cm,   Vx = -3.8335 cm/us,  dvx1 = 0.0253157 cm/us,  dvx2 =  0.0277575 cm/us, dvx3 = 0.0335734 cm/us, dvx4 = 0.126476 cm/us 
+E = 320V/cm,   Vx = -3.80845 cm/us,  dvx1 = 0.0298191 cm/us,  dvx2 =  0.0327254 cm/us, dvx3 = 0.0398971 cm/us, dvx4 = 0.142576 cm/us 
+E = 330V/cm,   Vx = -3.77895 cm/us,  dvx1 = 0.0335114 cm/us,  dvx2 =  0.0365951 cm/us, dvx3 = 0.0445482 cm/us, dvx4 = 0.153253 cm/us 
+E = 340V/cm,   Vx = -3.74578 cm/us,  dvx1 = 0.0355015 cm/us,  dvx2 =  0.0387626 cm/us, dvx3 = 0.0475367 cm/us, dvx4 = 0.160513 cm/us 
+E = 350V/cm,   Vx = -3.71064 cm/us,  dvx1 = 0.0374916 cm/us,  dvx2 =  0.04093 cm/us, dvx3 = 0.0502798 cm/us, dvx4 = 0.166117 cm/us 
+E = 360V/cm,   Vx = -3.67353 cm/us,  dvx1 = 0.0372262 cm/us,  dvx2 =  0.0405154 cm/us, dvx3 = 0.0500296 cm/us, dvx4 = 0.170299 cm/us 
+E = 370V/cm,   Vx = -3.63667 cm/us,  dvx1 = 0.0370311 cm/us,  dvx2 =  0.0403438 cm/us, dvx3 = 0.0502945 cm/us, dvx4 = 0.174898 cm/us 
+E = 380V/cm,   Vx = -3.60001 cm/us,  dvx1 = 0.0372938 cm/us,  dvx2 =  0.0406299 cm/us, dvx3 = 0.0510223 cm/us, dvx4 = 0.179053 cm/us 
+E = 390V/cm,   Vx = -3.56309 cm/us,  dvx1 = 0.0375565 cm/us,  dvx2 =  0.040916 cm/us, dvx3 = 0.0518643 cm/us, dvx4 = 0.182308 cm/us 
+E = 400V/cm,   Vx = -3.5259 cm/us,  dvx1 = 0.0381966 cm/us,  dvx2 =  0.0415933 cm/us, dvx3 = 0.0528845 cm/us, dvx4 = 0.184162 cm/us 
+E = 450V/cm,   Vx = -3.48808 cm/us,  dvx1 = 0.18006 cm/us,  dvx2 =  0.183019 cm/us, dvx3 = 0.194458 cm/us, dvx4 = 0.319497 cm/us 
+E = 500V/cm,   Vx = -3.30835 cm/us,  dvx1 = 0.15485 cm/us,  dvx2 =  0.157486 cm/us, dvx3 = 0.169114 cm/us, dvx4 = 0.289208 cm/us 
+E = 550V/cm,   Vx = -3.1538 cm/us,  dvx1 = 0.134892 cm/us,  dvx2 =  0.137046 cm/us, dvx3 = 0.147681 cm/us, dvx4 = 0.249607 cm/us 
+E = 600V/cm,   Vx = -3.01915 cm/us,  dvx1 = 0.106149 cm/us,  dvx2 =  0.107799 cm/us, dvx3 = 0.116642 cm/us, dvx4 = 0.195263 cm/us 
+E = 650V/cm,   Vx = -2.91318 cm/us,  dvx1 = 0.0767203 cm/us,  dvx2 =  0.0778978 cm/us, dvx3 = 0.0849456 cm/us, dvx4 = 0.151124 cm/us 
+E = 700V/cm,   Vx = -2.83659 cm/us,  dvx1 = 0.0593114 cm/us,  dvx2 =  0.0602715 cm/us, dvx3 = 0.0665391 cm/us, dvx4 = 0.115952 cm/us 
+E = 750V/cm,   Vx = -2.77739 cm/us,  dvx1 = 0.0455027 cm/us,  dvx2 =  0.0460524 cm/us, dvx3 = 0.0499067 cm/us, dvx4 = 0.0779144 cm/us 
+E = 800V/cm,   Vx = -2.73195 cm/us,  dvx1 = 0.0246933 cm/us,  dvx2 =  0.0250265 cm/us, dvx3 = 0.0274847 cm/us, dvx4 = 0.0464848 cm/us 
+E = 850V/cm,   Vx = -2.70729 cm/us,  dvx1 = 0.0146108 cm/us,  dvx2 =  0.0148629 cm/us, dvx3 = 0.0168796 cm/us, dvx4 = 0.0285538 cm/us 
+E = 900V/cm,   Vx = -2.69271 cm/us,  dvx1 = 0.0107572 cm/us,  dvx2 =  0.0108892 cm/us, dvx3 = 0.0119675 cm/us, dvx4 = 0.0103423 cm/us 
+E = 950V/cm,   Vx = -2.68196 cm/us,  dvx1 = 0.0027802 cm/us,  dvx2 =  0.00274038 cm/us, dvx3 = 0.00229162 cm/us, dvx4 = -0.00881255 cm/us 
+E = 1000V/cm,   Vx = -2.67918 cm/us,  dvx1 = -0.0044489 cm/us,  dvx2 =  -0.00457056 cm/us, dvx3 = -0.00586811 cm/us, dvx4 = -0.0201694 cm/us 
+E = 1500V/cm,   Vx = -2.68361 cm/us,  dvx1 = -0.142667 cm/us,  dvx2 =  -0.142948 cm/us, dvx3 = -0.147275 cm/us, dvx4 = -0.182309 cm/us 
+E = 2000V/cm,   Vx = -2.82625 cm/us,  dvx1 = -0.0729406 cm/us,  dvx2 =  -0.0728861 cm/us, dvx3 = -0.0716604 cm/us, dvx4 = -0.0529124 cm/us 
+E = 2500V/cm,   Vx = -2.8992 cm/us,  dvx1 = 0.0533261 cm/us,  dvx2 =  0.0534822 cm/us, dvx3 = 0.0576488 cm/us, dvx4 = 0.0965558 cm/us 
+E = 3000V/cm,   Vx = -2.84589 cm/us,  dvx1 = 0.0691207 cm/us,  dvx2 =  0.0691918 cm/us, dvx3 = 0.0713974 cm/us, dvx4 = 0.08698 cm/us 
+E = 3500V/cm,   Vx = -2.77678 cm/us,  dvx1 = 0.0328089 cm/us,  dvx2 =  0.0328903 cm/us, dvx3 = 0.0358759 cm/us, dvx4 = 0.0497016 cm/us 
+E = 4000V/cm,   Vx = -2.74398 cm/us,  dvx1 = 0.0077269 cm/us,  dvx2 =  0.00765862 cm/us, dvx3 = 0.00454795 cm/us, dvx4 = -0.0273618 cm/us 
+E = 4500V/cm,   Vx = -2.73624 cm/us,  dvx1 = -0.0435154 cm/us,  dvx2 =  -0.0435935 cm/us, dvx3 = -0.047459 cm/us, dvx4 = -0.0907889 cm/us 
+E = 5000V/cm,   Vx = -2.77975 cm/us,  dvx1 = -0.0536954 cm/us,  dvx2 =  -0.0538125 cm/us, dvx3 = -0.0602895 cm/us, dvx4 = -0.127072 cm/us 
+E = 5500V/cm,   Vx = -2.83343 cm/us,  dvx1 = -0.0734063 cm/us,  dvx2 =  -0.0735587 cm/us, dvx3 = -0.0828902 cm/us, dvx4 = -0.196637 cm/us 
+E = 6000V/cm,   Vx = -2.90682 cm/us,  dvx1 = -0.10947 cm/us,  dvx2 =  -0.109718 cm/us, dvx3 = -0.126011 cm/us, dvx4 = -0.265775 cm/us 
+E = 6500V/cm,   Vx = -3.01626 cm/us,  dvx1 = -0.138191 cm/us,  dvx2 =  -0.138356 cm/us, dvx3 = -0.150018 cm/us, dvx4 = -0.249743 cm/us 
+E = 7000V/cm,   Vx = -3.15444 cm/us,  dvx1 = -0.0871956 cm/us,  dvx2 =  -0.0873444 cm/us, dvx3 = -0.0986626 cm/us, dvx4 = -0.229824 cm/us 
+E = 7500V/cm,   Vx = -3.24161 cm/us,  dvx1 = -0.0965368 cm/us,  dvx2 =  -0.0967407 cm/us, dvx3 = -0.113621 cm/us, dvx4 = -0.273253 cm/us 
+E = 8000V/cm,   Vx = -3.33813 cm/us,  dvx1 = -0.118419 cm/us,  dvx2 =  -0.118642 cm/us, dvx3 = -0.137805 cm/us, dvx4 = -0.305751 cm/us 
+E = 8500V/cm,   Vx = -3.45652 cm/us,  dvx1 = -0.116431 cm/us,  dvx2 =  -0.116642 cm/us, dvx3 = -0.136369 cm/us, dvx4 = -0.32422 cm/us 
+E = 9000V/cm,   Vx = -3.57293 cm/us,  dvx1 = -0.119188 cm/us,  dvx2 =  -0.119411 cm/us, dvx3 = -0.141623 cm/us, dvx4 = -0.354207 cm/us 
+E = 9500V/cm,   Vx = -3.69209 cm/us,  dvx1 = -0.127742 cm/us,  dvx2 =  -0.127978 cm/us, dvx3 = -0.152791 cm/us, dvx4 = -0.380609 cm/us 
+E = 10000V/cm,   Vx = -3.81981 cm/us,  dvx1 = -0.134902 cm/us,  dvx2 =  -0.135138 cm/us, dvx3 = -0.161102 cm/us, dvx4 = -0.397137 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(98-2).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (98/2)
-E = 20V/cm,   Vx = -0.205569 cm/us,  Delta_vx = -0.245479 cm/us
-E = 30V/cm,   Vx = -0.427629 cm/us,  Delta_vx = -0.278964 cm/us
-E = 40V/cm,   Vx = -0.678256 cm/us,  Delta_vx = -0.309409 cm/us
-E = 50V/cm,   Vx = -0.956904 cm/us,  Delta_vx = -0.350082 cm/us
-E = 60V/cm,   Vx = -1.2746 cm/us,  Delta_vx = -0.361947 cm/us
-E = 70V/cm,   Vx = -1.60357 cm/us,  Delta_vx = -0.353521 cm/us
-E = 80V/cm,   Vx = -1.92565 cm/us,  Delta_vx = -0.338278 cm/us
-E = 90V/cm,   Vx = -2.23391 cm/us,  Delta_vx = -0.313255 cm/us
-E = 100V/cm,   Vx = -2.52058 cm/us,  Delta_vx = -0.26767 cm/us
-E = 110V/cm,   Vx = -2.76619 cm/us,  Delta_vx = -0.226856 cm/us
-E = 120V/cm,   Vx = -2.9735 cm/us,  Delta_vx = -0.192855 cm/us
-E = 130V/cm,   Vx = -3.15185 cm/us,  Delta_vx = -0.139246 cm/us
-E = 140V/cm,   Vx = -3.28028 cm/us,  Delta_vx = -0.107088 cm/us
-E = 150V/cm,   Vx = -3.3788 cm/us,  Delta_vx = -0.0789981 cm/us
-E = 160V/cm,   Vx = -3.45212 cm/us,  Delta_vx = -0.0497873 cm/us
-E = 170V/cm,   Vx = -3.49853 cm/us,  Delta_vx = -0.0257834 cm/us
-E = 180V/cm,   Vx = -3.52285 cm/us,  Delta_vx = -0.00719934 cm/us
-E = 190V/cm,   Vx = -3.5302 cm/us,  Delta_vx = 0.0093456 cm/us
-E = 200V/cm,   Vx = -3.52227 cm/us,  Delta_vx = 0.020959 cm/us
-E = 210V/cm,   Vx = -3.50371 cm/us,  Delta_vx = 0.0297886 cm/us
-E = 220V/cm,   Vx = -3.47686 cm/us,  Delta_vx = 0.0357752 cm/us
-E = 230V/cm,   Vx = -3.44465 cm/us,  Delta_vx = 0.0431021 cm/us
-E = 240V/cm,   Vx = -3.40593 cm/us,  Delta_vx = 0.0499872 cm/us
-E = 250V/cm,   Vx = -3.36065 cm/us,  Delta_vx = 0.0536028 cm/us
-E = 260V/cm,   Vx = -3.31208 cm/us,  Delta_vx = 0.0554588 cm/us
-E = 270V/cm,   Vx = -3.26162 cm/us,  Delta_vx = 0.0549918 cm/us
-E = 280V/cm,   Vx = -3.21163 cm/us,  Delta_vx = 0.0550408 cm/us
-E = 290V/cm,   Vx = -3.1616 cm/us,  Delta_vx = 0.0539666 cm/us
-E = 300V/cm,   Vx = -3.11246 cm/us,  Delta_vx = 0.0526523 cm/us
-E = 310V/cm,   Vx = -3.06455 cm/us,  Delta_vx = 0.0517678 cm/us
-E = 320V/cm,   Vx = -3.01745 cm/us,  Delta_vx = 0.0513454 cm/us
-E = 330V/cm,   Vx = -2.97078 cm/us,  Delta_vx = 0.050617 cm/us
-E = 340V/cm,   Vx = -2.92469 cm/us,  Delta_vx = 0.0490834 cm/us
-E = 350V/cm,   Vx = -2.88 cm/us,  Delta_vx = 0.0475498 cm/us
-E = 360V/cm,   Vx = -2.8367 cm/us,  Delta_vx = 0.0443553 cm/us
-E = 370V/cm,   Vx = -2.79626 cm/us,  Delta_vx = 0.0421438 cm/us
-E = 380V/cm,   Vx = -2.75787 cm/us,  Delta_vx = 0.0403326 cm/us
-E = 390V/cm,   Vx = -2.72112 cm/us,  Delta_vx = 0.0385213 cm/us
-E = 400V/cm,   Vx = -2.68602 cm/us,  Delta_vx = 0.0380955 cm/us
-E = 450V/cm,   Vx = -2.65133 cm/us,  Delta_vx = 0.148778 cm/us
-E = 500V/cm,   Vx = -2.50488 cm/us,  Delta_vx = 0.10408 cm/us
-E = 550V/cm,   Vx = -2.40271 cm/us,  Delta_vx = 0.0841511 cm/us
-E = 600V/cm,   Vx = -2.31987 cm/us,  Delta_vx = 0.0536497 cm/us
-E = 650V/cm,   Vx = -2.26701 cm/us,  Delta_vx = 0.028942 cm/us
-E = 700V/cm,   Vx = -2.23849 cm/us,  Delta_vx = 0.0193157 cm/us
-E = 750V/cm,   Vx = -2.21953 cm/us,  Delta_vx = 0.0135562 cm/us
-E = 800V/cm,   Vx = -2.20609 cm/us,  Delta_vx = 0.00114954 cm/us
-E = 850V/cm,   Vx = -2.20487 cm/us,  Delta_vx = -0.0106125 cm/us
-E = 900V/cm,   Vx = -2.21513 cm/us,  Delta_vx = -0.0188039 cm/us
-E = 950V/cm,   Vx = -2.23354 cm/us,  Delta_vx = -0.0154063 cm/us
-E = 1000V/cm,   Vx = -2.24879 cm/us,  Delta_vx = -0.00822576 cm/us
-E = 1500V/cm,   Vx = -2.25685 cm/us,  Delta_vx = -0.133098 cm/us
-E = 2000V/cm,   Vx = -2.3899 cm/us,  Delta_vx = 0.0540236 cm/us
-E = 2500V/cm,   Vx = -2.33604 cm/us,  Delta_vx = 0.0618565 cm/us
-E = 3000V/cm,   Vx = -2.27422 cm/us,  Delta_vx = 0.0391656 cm/us
-E = 3500V/cm,   Vx = -2.23515 cm/us,  Delta_vx = -0.0414858 cm/us
-E = 4000V/cm,   Vx = -2.27655 cm/us,  Delta_vx = -0.0519919 cm/us
-E = 4500V/cm,   Vx = -2.32841 cm/us,  Delta_vx = -0.0813521 cm/us
-E = 5000V/cm,   Vx = -2.40957 cm/us,  Delta_vx = -0.108125 cm/us
-E = 5500V/cm,   Vx = -2.51747 cm/us,  Delta_vx = -0.105701 cm/us
-E = 6000V/cm,   Vx = -2.62297 cm/us,  Delta_vx = -0.0950103 cm/us
-E = 6500V/cm,   Vx = -2.71779 cm/us,  Delta_vx = -0.10342 cm/us
-E = 7000V/cm,   Vx = -2.82097 cm/us,  Delta_vx = -0.130026 cm/us
-E = 7500V/cm,   Vx = -2.95072 cm/us,  Delta_vx = -0.146108 cm/us
-E = 8000V/cm,   Vx = -3.09653 cm/us,  Delta_vx = -0.150492 cm/us
-E = 8500V/cm,   Vx = -3.24672 cm/us,  Delta_vx = -0.143153 cm/us
-E = 9000V/cm,   Vx = -3.38959 cm/us,  Delta_vx = -0.132692 cm/us
-E = 9500V/cm,   Vx = -3.52204 cm/us,  Delta_vx = -0.119292 cm/us
-E = 10000V/cm,   Vx = -3.6411 cm/us,  Delta_vx = -0.106971 cm/us
+E = 20V/cm,   Vx = -0.205569 cm/us,  dvx1 = -0.224383 cm/us,  dvx2 =  -0.245479 cm/us, dvx3 = -0.22671 cm/us, dvx4 = -0.268162 cm/us 
+E = 30V/cm,   Vx = -0.427629 cm/us,  dvx1 = -0.253456 cm/us,  dvx2 =  -0.278964 cm/us, dvx3 = -0.259118 cm/us, dvx4 = -0.335373 cm/us 
+E = 40V/cm,   Vx = -0.678256 cm/us,  dvx1 = -0.281687 cm/us,  dvx2 =  -0.309409 cm/us, dvx3 = -0.290844 cm/us, dvx4 = -0.404258 cm/us 
+E = 50V/cm,   Vx = -0.956904 cm/us,  dvx1 = -0.32091 cm/us,  dvx2 =  -0.350082 cm/us, dvx3 = -0.3338 cm/us, dvx4 = -0.481191 cm/us 
+E = 60V/cm,   Vx = -1.2746 cm/us,  dvx1 = -0.332274 cm/us,  dvx2 =  -0.361947 cm/us, dvx3 = -0.348765 cm/us, dvx4 = -0.524223 cm/us 
+E = 70V/cm,   Vx = -1.60357 cm/us,  dvx1 = -0.325234 cm/us,  dvx2 =  -0.353521 cm/us, dvx3 = -0.344105 cm/us, dvx4 = -0.539019 cm/us 
+E = 80V/cm,   Vx = -1.92565 cm/us,  dvx1 = -0.311272 cm/us,  dvx2 =  -0.338278 cm/us, dvx3 = -0.332295 cm/us, dvx4 = -0.540542 cm/us 
+E = 90V/cm,   Vx = -2.23391 cm/us,  dvx1 = -0.289345 cm/us,  dvx2 =  -0.313255 cm/us, dvx3 = -0.310615 cm/us, dvx4 = -0.509854 cm/us 
+E = 100V/cm,   Vx = -2.52058 cm/us,  dvx1 = -0.247829 cm/us,  dvx2 =  -0.26767 cm/us, dvx3 = -0.26767 cm/us, dvx4 = -0.452916 cm/us 
+E = 110V/cm,   Vx = -2.76619 cm/us,  dvx1 = -0.209281 cm/us,  dvx2 =  -0.226856 cm/us, dvx3 = -0.22879 cm/us, dvx4 = -0.400164 cm/us 
+E = 120V/cm,   Vx = -2.9735 cm/us,  dvx1 = -0.179817 cm/us,  dvx2 =  -0.192855 cm/us, dvx3 = -0.195711 cm/us, dvx4 = -0.32804 cm/us 
+E = 130V/cm,   Vx = -3.15185 cm/us,  dvx1 = -0.129531 cm/us,  dvx2 =  -0.139246 cm/us, dvx3 = -0.142418 cm/us, dvx4 = -0.251864 cm/us 
+E = 140V/cm,   Vx = -3.28028 cm/us,  dvx1 = -0.0993864 cm/us,  dvx2 =  -0.107088 cm/us, dvx3 = -0.110441 cm/us, dvx4 = -0.193153 cm/us 
+E = 150V/cm,   Vx = -3.3788 cm/us,  dvx1 = -0.0739055 cm/us,  dvx2 =  -0.0789981 cm/us, dvx3 = -0.0817473 cm/us, dvx4 = -0.134357 cm/us 
+E = 160V/cm,   Vx = -3.45212 cm/us,  dvx1 = -0.0467536 cm/us,  dvx2 =  -0.0497873 cm/us, dvx3 = -0.0517069 cm/us, dvx4 = -0.0770688 cm/us 
+E = 170V/cm,   Vx = -3.49853 cm/us,  dvx1 = -0.024478 cm/us,  dvx2 =  -0.0257834 cm/us, dvx3 = -0.0267086 cm/us, dvx4 = -0.0273778 cm/us 
+E = 180V/cm,   Vx = -3.52285 cm/us,  dvx1 = -0.00734112 cm/us,  dvx2 =  -0.00719934 cm/us, dvx3 = -0.00696398 cm/us, dvx4 = 0.0146419 cm/us 
+E = 190V/cm,   Vx = -3.5302 cm/us,  dvx1 = 0.00807144 cm/us,  dvx2 =  0.0093456 cm/us, dvx3 = 0.0106999 cm/us, dvx4 = 0.0504632 cm/us 
+E = 200V/cm,   Vx = -3.52227 cm/us,  dvx1 = 0.0187946 cm/us,  dvx2 =  0.020959 cm/us, dvx3 = 0.0234579 cm/us, dvx4 = 0.0776183 cm/us 
+E = 210V/cm,   Vx = -3.50371 cm/us,  dvx1 = 0.0271391 cm/us,  dvx2 =  0.0297886 cm/us, dvx3 = 0.0330955 cm/us, dvx4 = 0.102161 cm/us 
+E = 220V/cm,   Vx = -3.47686 cm/us,  dvx1 = 0.032565 cm/us,  dvx2 =  0.0357752 cm/us, dvx3 = 0.0401339 cm/us, dvx4 = 0.125662 cm/us 
+E = 230V/cm,   Vx = -3.44465 cm/us,  dvx1 = 0.0391587 cm/us,  dvx2 =  0.0431021 cm/us, dvx3 = 0.0488452 cm/us, dvx4 = 0.147777 cm/us 
+E = 240V/cm,   Vx = -3.40593 cm/us,  dvx1 = 0.0457479 cm/us,  dvx2 =  0.0499872 cm/us, dvx3 = 0.0566345 cm/us, dvx4 = 0.164297 cm/us 
+E = 250V/cm,   Vx = -3.36065 cm/us,  dvx1 = 0.0490677 cm/us,  dvx2 =  0.0536028 cm/us, dvx3 = 0.0612204 cm/us, dvx4 = 0.174029 cm/us 
+E = 260V/cm,   Vx = -3.31208 cm/us,  dvx1 = 0.0509615 cm/us,  dvx2 =  0.0554588 cm/us, dvx3 = 0.063455 cm/us, dvx4 = 0.180239 cm/us 
+E = 270V/cm,   Vx = -3.26162 cm/us,  dvx1 = 0.0504905 cm/us,  dvx2 =  0.0549918 cm/us, dvx3 = 0.0634954 cm/us, dvx4 = 0.182784 cm/us 
+E = 280V/cm,   Vx = -3.21163 cm/us,  dvx1 = 0.0505354 cm/us,  dvx2 =  0.0550408 cm/us, dvx3 = 0.0640526 cm/us, dvx4 = 0.184826 cm/us 
+E = 290V/cm,   Vx = -3.1616 cm/us,  dvx1 = 0.0496228 cm/us,  dvx2 =  0.0539666 cm/us, dvx3 = 0.0631153 cm/us, dvx4 = 0.186136 cm/us 
+E = 300V/cm,   Vx = -3.11246 cm/us,  dvx1 = 0.048381 cm/us,  dvx2 =  0.0526523 cm/us, dvx3 = 0.0621209 cm/us, dvx4 = 0.187767 cm/us 
+E = 310V/cm,   Vx = -3.06455 cm/us,  dvx1 = 0.0475688 cm/us,  dvx2 =  0.0517678 cm/us, dvx3 = 0.0615401 cm/us, dvx4 = 0.188945 cm/us 
+E = 320V/cm,   Vx = -3.01745 cm/us,  dvx1 = 0.0471419 cm/us,  dvx2 =  0.0513454 cm/us, dvx3 = 0.0615731 cm/us, dvx4 = 0.189239 cm/us 
+E = 330V/cm,   Vx = -2.97078 cm/us,  dvx1 = 0.046539 cm/us,  dvx2 =  0.050617 cm/us, dvx3 = 0.0609873 cm/us, dvx4 = 0.186206 cm/us 
+E = 340V/cm,   Vx = -2.92469 cm/us,  dvx1 = 0.0451309 cm/us,  dvx2 =  0.0490834 cm/us, dvx3 = 0.0595683 cm/us, dvx4 = 0.181721 cm/us 
+E = 350V/cm,   Vx = -2.88 cm/us,  dvx1 = 0.0437227 cm/us,  dvx2 =  0.0475498 cm/us, dvx3 = 0.0578989 cm/us, dvx4 = 0.176638 cm/us 
+E = 360V/cm,   Vx = -2.8367 cm/us,  dvx1 = 0.0408338 cm/us,  dvx2 =  0.0443553 cm/us, dvx3 = 0.0544536 cm/us, dvx4 = 0.171542 cm/us 
+E = 370V/cm,   Vx = -2.79626 cm/us,  dvx1 = 0.0387705 cm/us,  dvx2 =  0.0421438 cm/us, dvx3 = 0.0521837 cm/us, dvx4 = 0.168463 cm/us 
+E = 380V/cm,   Vx = -2.75787 cm/us,  dvx1 = 0.0371075 cm/us,  dvx2 =  0.0403326 cm/us, dvx3 = 0.0502809 cm/us, dvx4 = 0.165355 cm/us 
+E = 390V/cm,   Vx = -2.72112 cm/us,  dvx1 = 0.0354444 cm/us,  dvx2 =  0.0385213 cm/us, dvx3 = 0.0485878 cm/us, dvx4 = 0.161818 cm/us 
+E = 400V/cm,   Vx = -2.68602 cm/us,  dvx1 = 0.0350239 cm/us,  dvx2 =  0.0380955 cm/us, dvx3 = 0.0482339 cm/us, dvx4 = 0.157096 cm/us 
+E = 450V/cm,   Vx = -2.65133 cm/us,  dvx1 = 0.146686 cm/us,  dvx2 =  0.148778 cm/us, dvx3 = 0.156803 cm/us, dvx4 = 0.238934 cm/us 
+E = 500V/cm,   Vx = -2.50488 cm/us,  dvx1 = 0.102362 cm/us,  dvx2 =  0.10408 cm/us, dvx3 = 0.111621 cm/us, dvx4 = 0.185009 cm/us 
+E = 550V/cm,   Vx = -2.40271 cm/us,  dvx1 = 0.0829696 cm/us,  dvx2 =  0.0841511 cm/us, dvx3 = 0.0899317 cm/us, dvx4 = 0.139497 cm/us 
+E = 600V/cm,   Vx = -2.31987 cm/us,  dvx1 = 0.0529386 cm/us,  dvx2 =  0.0536497 cm/us, dvx3 = 0.0573339 cm/us, dvx4 = 0.085315 cm/us 
+E = 650V/cm,   Vx = -2.26701 cm/us,  dvx1 = 0.0285653 cm/us,  dvx2 =  0.028942 cm/us, dvx3 = 0.031144 cm/us, dvx4 = 0.0524114 cm/us 
+E = 700V/cm,   Vx = -2.23849 cm/us,  dvx1 = 0.0189989 cm/us,  dvx2 =  0.0193157 cm/us, dvx3 = 0.021357 cm/us, dvx4 = 0.0340997 cm/us 
+E = 750V/cm,   Vx = -2.21953 cm/us,  dvx1 = 0.0134451 cm/us,  dvx2 =  0.0135562 cm/us, dvx3 = 0.0142609 cm/us, dvx4 = 0.0114861 cm/us 
+E = 800V/cm,   Vx = -2.20609 cm/us,  dvx1 = 0.00122036 cm/us,  dvx2 =  0.00114954 cm/us, dvx3 = 0.000486968 cm/us, dvx4 = -0.0198565 cm/us 
+E = 850V/cm,   Vx = -2.20487 cm/us,  dvx1 = -0.0102977 cm/us,  dvx2 =  -0.0106125 cm/us, dvx3 = -0.0132595 cm/us, dvx4 = -0.0415668 cm/us 
+E = 900V/cm,   Vx = -2.21513 cm/us,  dvx1 = -0.0184549 cm/us,  dvx2 =  -0.0188039 cm/us, dvx3 = -0.0219329 cm/us, dvx4 = -0.0400895 cm/us 
+E = 950V/cm,   Vx = -2.23354 cm/us,  dvx1 = -0.0152638 cm/us,  dvx2 =  -0.0154063 cm/us, dvx3 = -0.0167567 cm/us, dvx4 = -0.0328156 cm/us 
+E = 1000V/cm,   Vx = -2.24879 cm/us,  dvx1 = -0.0080779 cm/us,  dvx2 =  -0.00822576 cm/us, dvx3 = -0.00970964 cm/us, dvx4 = -0.0405487 cm/us 
+E = 1500V/cm,   Vx = -2.25685 cm/us,  dvx1 = -0.133049 cm/us,  dvx2 =  -0.133098 cm/us, dvx3 = -0.133763 cm/us, dvx4 = -0.134586 cm/us 
+E = 2000V/cm,   Vx = -2.3899 cm/us,  dvx1 = 0.0538736 cm/us,  dvx2 =  0.0540236 cm/us, dvx3 = 0.0571456 cm/us, dvx4 = 0.0824488 cm/us 
+E = 2500V/cm,   Vx = -2.33604 cm/us,  dvx1 = 0.0618202 cm/us,  dvx2 =  0.0618565 cm/us, dvx3 = 0.0628129 cm/us, dvx4 = 0.0720811 cm/us 
+E = 3000V/cm,   Vx = -2.27422 cm/us,  dvx1 = 0.0390848 cm/us,  dvx2 =  0.0391656 cm/us, dvx3 = 0.0416792 cm/us, dvx4 = 0.0207658 cm/us 
+E = 3500V/cm,   Vx = -2.23515 cm/us,  dvx1 = -0.0414057 cm/us,  dvx2 =  -0.0414858 cm/us, dvx3 = -0.0445268 cm/us, dvx4 = -0.0750056 cm/us 
+E = 4000V/cm,   Vx = -2.27655 cm/us,  dvx1 = -0.0518749 cm/us,  dvx2 =  -0.0519919 cm/us, dvx3 = -0.0571492 cm/us, dvx4 = -0.114308 cm/us 
+E = 4500V/cm,   Vx = -2.32841 cm/us,  dvx1 = -0.0811791 cm/us,  dvx2 =  -0.0813521 cm/us, dvx3 = -0.0899092 cm/us, dvx4 = -0.177767 cm/us 
+E = 5000V/cm,   Vx = -2.40957 cm/us,  dvx1 = -0.107922 cm/us,  dvx2 =  -0.108125 cm/us, dvx3 = -0.119213 cm/us, dvx4 = -0.213406 cm/us 
+E = 5500V/cm,   Vx = -2.51747 cm/us,  dvx1 = -0.105527 cm/us,  dvx2 =  -0.105701 cm/us, dvx3 = -0.116146 cm/us, dvx4 = -0.210029 cm/us 
+E = 6000V/cm,   Vx = -2.62297 cm/us,  dvx1 = -0.0948368 cm/us,  dvx2 =  -0.0950103 cm/us, dvx3 = -0.106479 cm/us, dvx4 = -0.222591 cm/us 
+E = 6500V/cm,   Vx = -2.71779 cm/us,  dvx1 = -0.103201 cm/us,  dvx2 =  -0.10342 cm/us, dvx3 = -0.119088 cm/us, dvx4 = -0.275151 cm/us 
+E = 7000V/cm,   Vx = -2.82097 cm/us,  dvx1 = -0.129777 cm/us,  dvx2 =  -0.130026 cm/us, dvx3 = -0.149265 cm/us, dvx4 = -0.33545 cm/us 
+E = 7500V/cm,   Vx = -2.95072 cm/us,  dvx1 = -0.145839 cm/us,  dvx2 =  -0.146108 cm/us, dvx3 = -0.168239 cm/us, dvx4 = -0.368919 cm/us 
+E = 8000V/cm,   Vx = -3.09653 cm/us,  dvx1 = -0.15022 cm/us,  dvx2 =  -0.150492 cm/us, dvx3 = -0.174137 cm/us, dvx4 = -0.373777 cm/us 
+E = 8500V/cm,   Vx = -3.24672 cm/us,  dvx1 = -0.142906 cm/us,  dvx2 =  -0.143153 cm/us, dvx3 = -0.166104 cm/us, dvx4 = -0.35996 cm/us 
+E = 9000V/cm,   Vx = -3.38959 cm/us,  dvx1 = -0.132466 cm/us,  dvx2 =  -0.132692 cm/us, dvx3 = -0.154783 cm/us, dvx4 = -0.33789 cm/us 
+E = 9500V/cm,   Vx = -3.52204 cm/us,  dvx1 = -0.119089 cm/us,  dvx2 =  -0.119292 cm/us, dvx3 = -0.140296 cm/us, dvx4 = -0.327683 cm/us 
+E = 10000V/cm,   Vx = -3.6411 cm/us,  dvx1 = -0.106768 cm/us,  dvx2 =  -0.106971 cm/us, dvx3 = -0.129383 cm/us, dvx4 = -0.333126 cm/us 
 MediumMagboltz::LoadGasFile: Reading Ar-CO2(99-1).gas.
 MediumMagboltz::LoadGasFile: Version 12
 MediumMagboltz::LoadGasFile:
     Gas composition set to Ar/CO2 (99/1)
-E = 20V/cm,   Vx = -0.299068 cm/us,  Delta_vx = -0.436783 cm/us
-E = 30V/cm,   Vx = -0.688903 cm/us,  Delta_vx = -0.531487 cm/us
-E = 40V/cm,   Vx = -1.1694 cm/us,  Delta_vx = -0.541195 cm/us
-E = 50V/cm,   Vx = -1.66311 cm/us,  Delta_vx = -0.479566 cm/us
-E = 60V/cm,   Vx = -2.10407 cm/us,  Delta_vx = -0.363027 cm/us
-E = 70V/cm,   Vx = -2.43995 cm/us,  Delta_vx = -0.255371 cm/us
-E = 80V/cm,   Vx = -2.67666 cm/us,  Delta_vx = -0.155292 cm/us
-E = 90V/cm,   Vx = -2.82223 cm/us,  Delta_vx = -0.074543 cm/us
-E = 100V/cm,   Vx = -2.89237 cm/us,  Delta_vx = -0.0235919 cm/us
-E = 110V/cm,   Vx = -2.91586 cm/us,  Delta_vx = 0.0168146 cm/us
-E = 120V/cm,   Vx = -2.90194 cm/us,  Delta_vx = 0.0430984 cm/us
-E = 130V/cm,   Vx = -2.86358 cm/us,  Delta_vx = 0.0586742 cm/us
-E = 140V/cm,   Vx = -2.81084 cm/us,  Delta_vx = 0.0705855 cm/us
-E = 150V/cm,   Vx = -2.747 cm/us,  Delta_vx = 0.0765379 cm/us
-E = 160V/cm,   Vx = -2.67745 cm/us,  Delta_vx = 0.0773238 cm/us
-E = 170V/cm,   Vx = -2.6072 cm/us,  Delta_vx = 0.0781964 cm/us
-E = 180V/cm,   Vx = -2.5361 cm/us,  Delta_vx = 0.0774741 cm/us
-E = 190V/cm,   Vx = -2.46561 cm/us,  Delta_vx = 0.0754026 cm/us
-E = 200V/cm,   Vx = -2.39691 cm/us,  Delta_vx = 0.0722821 cm/us
-E = 210V/cm,   Vx = -2.33107 cm/us,  Delta_vx = 0.0693155 cm/us
-E = 220V/cm,   Vx = -2.2679 cm/us,  Delta_vx = 0.0656165 cm/us
-E = 230V/cm,   Vx = -2.20807 cm/us,  Delta_vx = 0.0613845 cm/us
-E = 240V/cm,   Vx = -2.15199 cm/us,  Delta_vx = 0.0563001 cm/us
-E = 250V/cm,   Vx = -2.10062 cm/us,  Delta_vx = 0.0522555 cm/us
-E = 260V/cm,   Vx = -2.05293 cm/us,  Delta_vx = 0.0484275 cm/us
-E = 270V/cm,   Vx = -2.00876 cm/us,  Delta_vx = 0.0452135 cm/us
-E = 280V/cm,   Vx = -1.96751 cm/us,  Delta_vx = 0.0420404 cm/us
-E = 290V/cm,   Vx = -1.92915 cm/us,  Delta_vx = 0.039202 cm/us
-E = 300V/cm,   Vx = -1.8934 cm/us,  Delta_vx = 0.0366063 cm/us
-E = 310V/cm,   Vx = -1.85999 cm/us,  Delta_vx = 0.0339237 cm/us
-E = 320V/cm,   Vx = -1.82903 cm/us,  Delta_vx = 0.0313511 cm/us
-E = 330V/cm,   Vx = -1.80043 cm/us,  Delta_vx = 0.028882 cm/us
-E = 340V/cm,   Vx = -1.77405 cm/us,  Delta_vx = 0.026301 cm/us
-E = 350V/cm,   Vx = -1.75002 cm/us,  Delta_vx = 0.02372 cm/us
-E = 360V/cm,   Vx = -1.72834 cm/us,  Delta_vx = 0.0204039 cm/us
-E = 370V/cm,   Vx = -1.70968 cm/us,  Delta_vx = 0.0181137 cm/us
-E = 380V/cm,   Vx = -1.69312 cm/us,  Delta_vx = 0.0160762 cm/us
-E = 390V/cm,   Vx = -1.67841 cm/us,  Delta_vx = 0.0140388 cm/us
-E = 400V/cm,   Vx = -1.66556 cm/us,  Delta_vx = 0.0125042 cm/us
-E = 450V/cm,   Vx = -1.65414 cm/us,  Delta_vx = 0.0451415 cm/us
-E = 500V/cm,   Vx = -1.60976 cm/us,  Delta_vx = 0.0266383 cm/us
-E = 550V/cm,   Vx = -1.58336 cm/us,  Delta_vx = 0.00255515 cm/us
-E = 600V/cm,   Vx = -1.58068 cm/us,  Delta_vx = -0.00865884 cm/us
-E = 650V/cm,   Vx = -1.58912 cm/us,  Delta_vx = -0.00406139 cm/us
-E = 700V/cm,   Vx = -1.59309 cm/us,  Delta_vx = -0.00969321 cm/us
-E = 750V/cm,   Vx = -1.60249 cm/us,  Delta_vx = -0.0186376 cm/us
-E = 800V/cm,   Vx = -1.62066 cm/us,  Delta_vx = -0.0241712 cm/us
-E = 850V/cm,   Vx = -1.64435 cm/us,  Delta_vx = -0.0235596 cm/us
-E = 900V/cm,   Vx = -1.66751 cm/us,  Delta_vx = -0.0185677 cm/us
-E = 950V/cm,   Vx = -1.68575 cm/us,  Delta_vx = -0.0149808 cm/us
-E = 1000V/cm,   Vx = -1.70047 cm/us,  Delta_vx = -0.0105513 cm/us
-E = 1500V/cm,   Vx = -1.71087 cm/us,  Delta_vx = 0.0136279 cm/us
-E = 2000V/cm,   Vx = -1.69739 cm/us,  Delta_vx = 0.0793313 cm/us
-E = 2500V/cm,   Vx = -1.61816 cm/us,  Delta_vx = 0.00195102 cm/us
-E = 3000V/cm,   Vx = -1.6161 cm/us,  Delta_vx = -0.0640297 cm/us
-E = 3500V/cm,   Vx = -1.67999 cm/us,  Delta_vx = -0.105305 cm/us
-E = 4000V/cm,   Vx = -1.78505 cm/us,  Delta_vx = -0.10329 cm/us
-E = 4500V/cm,   Vx = -1.88817 cm/us,  Delta_vx = -0.12601 cm/us
-E = 5000V/cm,   Vx = -2.01385 cm/us,  Delta_vx = -0.160715 cm/us
-E = 5500V/cm,   Vx = -2.17426 cm/us,  Delta_vx = -0.141703 cm/us
-E = 6000V/cm,   Vx = -2.3157 cm/us,  Delta_vx = -0.142257 cm/us
-E = 6500V/cm,   Vx = -2.45764 cm/us,  Delta_vx = -0.157714 cm/us
-E = 7000V/cm,   Vx = -2.61506 cm/us,  Delta_vx = -0.144071 cm/us
-E = 7500V/cm,   Vx = -2.75885 cm/us,  Delta_vx = -0.138363 cm/us
-E = 8000V/cm,   Vx = -2.89694 cm/us,  Delta_vx = -0.133855 cm/us
-E = 8500V/cm,   Vx = -3.03054 cm/us,  Delta_vx = -0.120004 cm/us
-E = 9000V/cm,   Vx = -3.1503 cm/us,  Delta_vx = -0.12822 cm/us
-E = 9500V/cm,   Vx = -3.27822 cm/us,  Delta_vx = -0.1608 cm/us
-E = 10000V/cm,   Vx = -3.43867 cm/us,  Delta_vx = -0.186476 cm/us
+E = 20V/cm,   Vx = -0.299068 cm/us,  dvx1 = -0.394473 cm/us,  dvx2 =  -0.436783 cm/us, dvx3 = -0.399124 cm/us, dvx4 = -0.481506 cm/us 
+E = 30V/cm,   Vx = -0.688903 cm/us,  dvx1 = -0.485589 cm/us,  dvx2 =  -0.531487 cm/us, dvx3 = -0.495777 cm/us, dvx4 = -0.633695 cm/us 
+E = 40V/cm,   Vx = -1.1694 cm/us,  dvx1 = -0.498442 cm/us,  dvx2 =  -0.541195 cm/us, dvx3 = -0.512614 cm/us, dvx4 = -0.681854 cm/us 
+E = 50V/cm,   Vx = -1.66311 cm/us,  dvx1 = -0.44483 cm/us,  dvx2 =  -0.479566 cm/us, dvx3 = -0.460236 cm/us, dvx4 = -0.624335 cm/us 
+E = 60V/cm,   Vx = -2.10407 cm/us,  dvx1 = -0.338644 cm/us,  dvx2 =  -0.363027 cm/us, dvx3 = -0.352292 cm/us, dvx4 = -0.487567 cm/us 
+E = 70V/cm,   Vx = -2.43995 cm/us,  dvx1 = -0.238619 cm/us,  dvx2 =  -0.255371 cm/us, dvx3 = -0.249867 cm/us, dvx4 = -0.348542 cm/us 
+E = 80V/cm,   Vx = -2.67666 cm/us,  dvx1 = -0.146565 cm/us,  dvx2 =  -0.155292 cm/us, dvx3 = -0.1534 cm/us, dvx4 = -0.205532 cm/us 
+E = 90V/cm,   Vx = -2.82223 cm/us,  dvx1 = -0.070603 cm/us,  dvx2 =  -0.074543 cm/us, dvx3 = -0.0741235 cm/us, dvx4 = -0.0931844 cm/us 
+E = 100V/cm,   Vx = -2.89237 cm/us,  dvx1 = -0.0235142 cm/us,  dvx2 =  -0.0235919 cm/us, dvx3 = -0.0235919 cm/us, dvx4 = -0.00957406 cm/us 
+E = 110V/cm,   Vx = -2.91586 cm/us,  dvx1 = 0.0141949 cm/us,  dvx2 =  0.0168146 cm/us, dvx3 = 0.0171162 cm/us, dvx4 = 0.0570127 cm/us 
+E = 120V/cm,   Vx = -2.90194 cm/us,  dvx1 = 0.0388298 cm/us,  dvx2 =  0.0430984 cm/us, dvx3 = 0.0440601 cm/us, dvx4 = 0.103086 cm/us 
+E = 130V/cm,   Vx = -2.86358 cm/us,  dvx1 = 0.0533309 cm/us,  dvx2 =  0.0586742 cm/us, dvx3 = 0.0604768 cm/us, dvx4 = 0.136986 cm/us 
+E = 140V/cm,   Vx = -2.81084 cm/us,  dvx1 = 0.0645101 cm/us,  dvx2 =  0.0705855 cm/us, dvx3 = 0.0732997 cm/us, dvx4 = 0.161386 cm/us 
+E = 150V/cm,   Vx = -2.747 cm/us,  dvx1 = 0.0702498 cm/us,  dvx2 =  0.0765379 cm/us, dvx3 = 0.0800343 cm/us, dvx4 = 0.175252 cm/us 
+E = 160V/cm,   Vx = -2.67745 cm/us,  dvx1 = 0.0709581 cm/us,  dvx2 =  0.0773238 cm/us, dvx3 = 0.0815715 cm/us, dvx4 = 0.183777 cm/us 
+E = 170V/cm,   Vx = -2.6072 cm/us,  dvx1 = 0.071807 cm/us,  dvx2 =  0.0781964 cm/us, dvx3 = 0.0831596 cm/us, dvx4 = 0.190004 cm/us 
+E = 180V/cm,   Vx = -2.5361 cm/us,  dvx1 = 0.0711869 cm/us,  dvx2 =  0.0774741 cm/us, dvx3 = 0.0830549 cm/us, dvx4 = 0.192076 cm/us 
+E = 190V/cm,   Vx = -2.46561 cm/us,  dvx1 = 0.069369 cm/us,  dvx2 =  0.0754026 cm/us, dvx3 = 0.0814145 cm/us, dvx4 = 0.191532 cm/us 
+E = 200V/cm,   Vx = -2.39691 cm/us,  dvx1 = 0.0664902 cm/us,  dvx2 =  0.0722821 cm/us, dvx3 = 0.078692 cm/us, dvx4 = 0.188847 cm/us 
+E = 210V/cm,   Vx = -2.33107 cm/us,  dvx1 = 0.0637867 cm/us,  dvx2 =  0.0693155 cm/us, dvx3 = 0.0760334 cm/us, dvx4 = 0.184386 cm/us 
+E = 220V/cm,   Vx = -2.2679 cm/us,  dvx1 = 0.0604114 cm/us,  dvx2 =  0.0656165 cm/us, dvx3 = 0.0725115 cm/us, dvx4 = 0.177111 cm/us 
+E = 230V/cm,   Vx = -2.20807 cm/us,  dvx1 = 0.0566143 cm/us,  dvx2 =  0.0613845 cm/us, dvx3 = 0.0682222 cm/us, dvx4 = 0.168727 cm/us 
+E = 240V/cm,   Vx = -2.15199 cm/us,  dvx1 = 0.0518608 cm/us,  dvx2 =  0.0563001 cm/us, dvx3 = 0.0631464 cm/us, dvx4 = 0.160073 cm/us 
+E = 250V/cm,   Vx = -2.10062 cm/us,  dvx1 = 0.0481472 cm/us,  dvx2 =  0.0522555 cm/us, dvx3 = 0.0590366 cm/us, dvx4 = 0.152651 cm/us 
+E = 260V/cm,   Vx = -2.05293 cm/us,  dvx1 = 0.0445997 cm/us,  dvx2 =  0.0484275 cm/us, dvx3 = 0.0551748 cm/us, dvx4 = 0.145492 cm/us 
+E = 270V/cm,   Vx = -2.00876 cm/us,  dvx1 = 0.0416453 cm/us,  dvx2 =  0.0452135 cm/us, dvx3 = 0.0518896 cm/us, dvx4 = 0.138999 cm/us 
+E = 280V/cm,   Vx = -1.96751 cm/us,  dvx1 = 0.0387319 cm/us,  dvx2 =  0.0420404 cm/us, dvx3 = 0.0485875 cm/us, dvx4 = 0.13248 cm/us 
+E = 290V/cm,   Vx = -1.92915 cm/us,  dvx1 = 0.0360983 cm/us,  dvx2 =  0.039202 cm/us, dvx3 = 0.0456894 cm/us, dvx4 = 0.125956 cm/us 
+E = 300V/cm,   Vx = -1.8934 cm/us,  dvx1 = 0.0337221 cm/us,  dvx2 =  0.0366063 cm/us, dvx3 = 0.0429449 cm/us, dvx4 = 0.119344 cm/us 
+E = 310V/cm,   Vx = -1.85999 cm/us,  dvx1 = 0.0312589 cm/us,  dvx2 =  0.0339237 cm/us, dvx3 = 0.0400645 cm/us, dvx4 = 0.112244 cm/us 
+E = 320V/cm,   Vx = -1.82903 cm/us,  dvx1 = 0.0288835 cm/us,  dvx2 =  0.0313511 cm/us, dvx3 = 0.037303 cm/us, dvx4 = 0.104745 cm/us 
+E = 330V/cm,   Vx = -1.80043 cm/us,  dvx1 = 0.0266256 cm/us,  dvx2 =  0.028882 cm/us, dvx3 = 0.0345621 cm/us, dvx4 = 0.0959089 cm/us 
+E = 340V/cm,   Vx = -1.77405 cm/us,  dvx1 = 0.0242558 cm/us,  dvx2 =  0.026301 cm/us, dvx3 = 0.0316621 cm/us, dvx4 = 0.0870377 cm/us 
+E = 350V/cm,   Vx = -1.75002 cm/us,  dvx1 = 0.021886 cm/us,  dvx2 =  0.02372 cm/us, dvx3 = 0.0285886 cm/us, dvx4 = 0.0782716 cm/us 
+E = 360V/cm,   Vx = -1.72834 cm/us,  dvx1 = 0.0188393 cm/us,  dvx2 =  0.0204039 cm/us, dvx3 = 0.0248394 cm/us, dvx4 = 0.0697421 cm/us 
+E = 370V/cm,   Vx = -1.70968 cm/us,  dvx1 = 0.0167158 cm/us,  dvx2 =  0.0181137 cm/us, dvx3 = 0.0222172 cm/us, dvx4 = 0.062963 cm/us 
+E = 380V/cm,   Vx = -1.69312 cm/us,  dvx1 = 0.0148451 cm/us,  dvx2 =  0.0160762 cm/us, dvx3 = 0.0198105 cm/us, dvx4 = 0.0571086 cm/us 
+E = 390V/cm,   Vx = -1.67841 cm/us,  dvx1 = 0.0129744 cm/us,  dvx2 =  0.0140388 cm/us, dvx3 = 0.0174073 cm/us, dvx4 = 0.0519261 cm/us 
+E = 400V/cm,   Vx = -1.66556 cm/us,  dvx1 = 0.0115234 cm/us,  dvx2 =  0.0125042 cm/us, dvx3 = 0.0157164 cm/us, dvx4 = 0.0477964 cm/us 
+E = 450V/cm,   Vx = -1.65414 cm/us,  dvx1 = 0.0444616 cm/us,  dvx2 =  0.0451415 cm/us, dvx3 = 0.0477234 cm/us, dvx4 = 0.0694674 cm/us 
+E = 500V/cm,   Vx = -1.60976 cm/us,  dvx1 = 0.0264222 cm/us,  dvx2 =  0.0266383 cm/us, dvx3 = 0.0275245 cm/us, dvx4 = 0.0290759 cm/us 
+E = 550V/cm,   Vx = -1.58336 cm/us,  dvx1 = 0.00266584 cm/us,  dvx2 =  0.00255515 cm/us, dvx3 = 0.00197893 cm/us, dvx4 = -0.00673837 cm/us 
+E = 600V/cm,   Vx = -1.58068 cm/us,  dvx1 = -0.00846375 cm/us,  dvx2 =  -0.00865884 cm/us, dvx3 = -0.00946004 cm/us, dvx4 = -0.0133659 cm/us 
+E = 650V/cm,   Vx = -1.58912 cm/us,  dvx1 = -0.00397981 cm/us,  dvx2 =  -0.00406139 cm/us, dvx3 = -0.00457834 cm/us, dvx4 = -0.0181222 cm/us 
+E = 700V/cm,   Vx = -1.59309 cm/us,  dvx1 = -0.00942431 cm/us,  dvx2 =  -0.00969321 cm/us, dvx3 = -0.0115405 cm/us, dvx4 = -0.0369705 cm/us 
+E = 750V/cm,   Vx = -1.60249 cm/us,  dvx1 = -0.0182163 cm/us,  dvx2 =  -0.0186376 cm/us, dvx3 = -0.0216859 cm/us, dvx4 = -0.0539256 cm/us 
+E = 800V/cm,   Vx = -1.62066 cm/us,  dvx1 = -0.0237393 cm/us,  dvx2 =  -0.0241712 cm/us, dvx3 = -0.0275362 cm/us, dvx4 = -0.058244 cm/us 
+E = 850V/cm,   Vx = -1.64435 cm/us,  dvx1 = -0.0231983 cm/us,  dvx2 =  -0.0235596 cm/us, dvx3 = -0.0265236 cm/us, dvx4 = -0.0520077 cm/us 
+E = 900V/cm,   Vx = -1.66751 cm/us,  dvx1 = -0.0182738 cm/us,  dvx2 =  -0.0185677 cm/us, dvx3 = -0.0211263 cm/us, dvx4 = -0.0416888 cm/us 
+E = 950V/cm,   Vx = -1.68575 cm/us,  dvx1 = -0.0147488 cm/us,  dvx2 =  -0.0149808 cm/us, dvx3 = -0.0170909 cm/us, dvx4 = -0.029119 cm/us 
+E = 1000V/cm,   Vx = -1.70047 cm/us,  dvx1 = -0.0104112 cm/us,  dvx2 =  -0.0105513 cm/us, dvx3 = -0.0118618 cm/us, dvx4 = -0.0106076 cm/us 
+E = 1500V/cm,   Vx = -1.71087 cm/us,  dvx1 = 0.0134911 cm/us,  dvx2 =  0.0136279 cm/us, dvx3 = 0.0158154 cm/us, dvx4 = 0.0419125 cm/us 
+E = 2000V/cm,   Vx = -1.69739 cm/us,  dvx1 = 0.0792412 cm/us,  dvx2 =  0.0793313 cm/us, dvx3 = 0.0811759 cm/us, dvx4 = 0.0930257 cm/us 
+E = 2500V/cm,   Vx = -1.61816 cm/us,  dvx1 = 0.00205155 cm/us,  dvx2 =  0.00195102 cm/us, dvx3 = -0.000783933 cm/us, dvx4 = -0.0309496 cm/us 
+E = 3000V/cm,   Vx = -1.6161 cm/us,  dvx1 = -0.0639047 cm/us,  dvx2 =  -0.0640297 cm/us, dvx3 = -0.0681093 cm/us, dvx4 = -0.121541 cm/us 
+E = 3500V/cm,   Vx = -1.67999 cm/us,  dvx1 = -0.105089 cm/us,  dvx2 =  -0.105305 cm/us, dvx3 = -0.113475 cm/us, dvx4 = -0.182701 cm/us 
+E = 4000V/cm,   Vx = -1.78505 cm/us,  dvx1 = -0.103132 cm/us,  dvx2 =  -0.10329 cm/us, dvx3 = -0.11021 cm/us, dvx4 = -0.197221 cm/us 
+E = 4500V/cm,   Vx = -1.88817 cm/us,  dvx1 = -0.125719 cm/us,  dvx2 =  -0.12601 cm/us, dvx3 = -0.140364 cm/us, dvx4 = -0.270858 cm/us 
+E = 5000V/cm,   Vx = -2.01385 cm/us,  dvx1 = -0.160441 cm/us,  dvx2 =  -0.160715 cm/us, dvx3 = -0.175543 cm/us, dvx4 = -0.301845 cm/us 
+E = 5500V/cm,   Vx = -2.17426 cm/us,  dvx1 = -0.14146 cm/us,  dvx2 =  -0.141703 cm/us, dvx3 = -0.156263 cm/us, dvx4 = -0.298979 cm/us 
+E = 6000V/cm,   Vx = -2.3157 cm/us,  dvx1 = -0.141977 cm/us,  dvx2 =  -0.142257 cm/us, dvx3 = -0.16067 cm/us, dvx4 = -0.328732 cm/us 
+E = 6500V/cm,   Vx = -2.45764 cm/us,  dvx1 = -0.157448 cm/us,  dvx2 =  -0.157714 cm/us, dvx3 = -0.176543 cm/us, dvx4 = -0.34286 cm/us 
+E = 7000V/cm,   Vx = -2.61506 cm/us,  dvx1 = -0.143819 cm/us,  dvx2 =  -0.144071 cm/us, dvx3 = -0.163313 cm/us, dvx4 = -0.336008 cm/us 
+E = 7500V/cm,   Vx = -2.75885 cm/us,  dvx1 = -0.138117 cm/us,  dvx2 =  -0.138363 cm/us, dvx3 = -0.158495 cm/us, dvx4 = -0.331365 cm/us 
+E = 8000V/cm,   Vx = -2.89694 cm/us,  dvx1 = -0.13362 cm/us,  dvx2 =  -0.133855 cm/us, dvx3 = -0.153765 cm/us, dvx4 = -0.328553 cm/us 
+E = 8500V/cm,   Vx = -3.03054 cm/us,  dvx1 = -0.119784 cm/us,  dvx2 =  -0.120004 cm/us, dvx3 = -0.140722 cm/us, dvx4 = -0.357305 cm/us 
+E = 9000V/cm,   Vx = -3.1503 cm/us,  dvx1 = -0.127954 cm/us,  dvx2 =  -0.12822 cm/us, dvx3 = -0.154911 cm/us, dvx4 = -0.435228 cm/us 
+E = 9500V/cm,   Vx = -3.27822 cm/us,  dvx1 = -0.160488 cm/us,  dvx2 =  -0.1608 cm/us, dvx3 = -0.193842 cm/us, dvx4 = -0.502012 cm/us 
+E = 10000V/cm,   Vx = -3.43867 cm/us,  dvx1 = -0.186166 cm/us,  dvx2 =  -0.186476 cm/us, dvx3 = -0.220671 cm/us, dvx4 = -0.531527 cm/us 
