@@ -76,37 +76,32 @@ void ReadGas(const char *filename) {
         t[0] = DriftLength / vx; // DriftLengthcm drift zone; unit us
         dt[0] = 0;
         dex[0] = 0;
+        dvx[0] = 0;
         zRes[0] = 0;
 
 
         dex[1] = ex + 0.1; // Electric field fluctuation 0.1V/cm
         gas->ElectronVelocity  (dex[1], 0, 0, 0, 0, 0, dvx[1], vy, vz);
-        dvx[1] = dvx[1] * 1000;
-        t[1] = DriftLength / dvx[1]; 
-        dt[1] = (t[1]-t[0])/1000; // unit ns
-        zRes[1] = (dvx[1]*t[0] - DriftLength) * 10; // unit mm
 
         dex[2] = ex + 1; // Electric field fluctuation 1V/cm
         gas->ElectronVelocity  (dex[2], 0, 0, 0, 0, 0, dvx[2], vy, vz);
-        dvx[2] = dvx[2] * 1000;
-        t[2] = DriftLength / dvx[2]; 
-        dt[2] = (t[2]-t[0])/1000; // unit ns
-        zRes[2] = (dvx[2]*t[0] - DriftLength) * 10; // unit mm
 
         dex[3] = ex * 1.01; // Electric field fluctuation 1%
         gas->ElectronVelocity  (dex[3], 0, 0, 0, 0, 0, dvx[3], vy, vz);
-        dvx[3] = dvx[3] * 1000;
-        t[3] = DriftLength / dvx[3]; 
-        dt[3] = (t[3]-t[0])/1000; // unit ns
-        zRes[3] = (dvx[3]*t[0] - DriftLength) * 10; // unit mm
 
         dex[4] = ex * 1.1; // Electric field fluctuation 10%
         gas->ElectronVelocity  (dex[4], 0, 0, 0, 0, 0, dvx[4], vy, vz);
-        dvx[4] = dvx[4] * 1000;
-        t[4] = DriftLength / dvx[4]; 
-        dt[4] = (t[4]-t[0])/1000; // unit ns
-        zRes[4] = (dvx[4]*t[0] - DriftLength) * 10; // unit mm
         
+        for(int i=1;i<5;i++){
+            dvx[i] = dvx[i] * 1000; // unit cm/us
+            t[i] = DriftLength / dvx[i]; 
+            dt[i] = (t[i]-t[0])/1000; // unit ns
+            zRes[i] = (dvx[i]*t[0] - DriftLength) * 10; // unit mm
+            dvx[i] = dvx[i] - vx;
+        }
+        
+
+        cout << "E = " << ex << "V/cm, vx = " << vx << "cm/us. Under 1V/cm fluctuation, v_uncertain = " << dvx[2] << "cm/us, tRes = " << dt[2] << "ns, zRes = " << zRes[2] << "mm" << endl;
 
         if(ex < 400) ex+=10;
         else if(ex < 1000) ex+=50;
